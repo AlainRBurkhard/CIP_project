@@ -1,0 +1,11 @@
+2024-04-10 21:13:30,625 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-10 21:13:42,157 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-10 21:13:42,642 - INFO - 	article_number='2203371'
+2024-04-10 21:13:42,762 - INFO -  	n_of_reviews='(24)'
+2024-04-10 21:13:42,782 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="62f636a3-59db-4c9c-9fc3-d0ec0fb25638", element="265a6d96-5b2f-41c8-ad91-ce3a1e722ed5")>
+2024-04-10 21:13:42,864 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-10 21:13:46,897 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html
+2024-04-10 21:13:47,217 - INFO - 	article_number='2203408'
+2024-04-10 21:13:47,346 - INFO -  	n_of_reviews='(14)'
+2024-04-10 21:13:47,457 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="62f636a3-59db-4c9c-9fc3-d0ec0fb25638", element="20f0b3eb-8e2b-429b-a24a-280bfb8e4273")>
+2024-04-10 21:13:47,579 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
