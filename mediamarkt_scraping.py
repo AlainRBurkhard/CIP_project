@@ -84,9 +84,9 @@ def collect_phones_info_from_page(driver) -> list[dict]:
             "storage": storage,
             "color": color,
             "price": price,
+            "source": source,
             "webpage": phone_url,
             "condition": condition,
-            "source": source
             "date": pd.to_datetime(datetime.today().strftime('%Y-%m-%d'))
         }
         
@@ -112,9 +112,9 @@ def get_additional_phone_info(driver):
     try:
         # Wait until number of reviews element is present on the webpage
         css_selector = '.bv_numReviews_text'
-        n_of_reviews = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector ))).text
-        logger.info(f" \t{n_of_reviews=}")
-        phone['n_of_reviews'] = n_of_reviews
+        reviews_count = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector ))).text
+        logger.info(f" \t{reviews_count=}")
+        phone['reviews_count'] = reviews_count
 
     except (NoSuchElementException, TimeoutException) as e:
         logger.warning(f" {phone['webpage'] =}")
@@ -122,7 +122,7 @@ def get_additional_phone_info(driver):
         logger.warning(e) 
     
     try:
-        # Camera
+        # Camera 
         css_selector = '.bv_numReviews_text' #features > section:nth-child(3) > dl:nth-child(2) > dd:nth-child(4)
         n_of_reviews = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector ))).text
         logger.info(f" \t{n_of_reviews=}")

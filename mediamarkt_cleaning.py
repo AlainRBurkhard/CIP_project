@@ -170,6 +170,7 @@ for index, storage in storage_manually.items():
 #Overall look on the dataname of column Color      
 #df['color'].unique()
 
+df['color'] = df['color'].str.lower()
 
 colors = ['black', 'blue', 'green', 'red', 'yellow', 'white', 'gray', 'purple', 'pink', 'orange', 
           'brown', 'silver', 'gold', 'titanium', 'platinum', 'schwarz', 'weiss']
@@ -186,7 +187,7 @@ def extract_color(value):
                 return color.capitalize()  # Return the color with the first letter capitalized
 
         # Return 'Unknown' or any other placeholder if no known color is found
-        return 'Unknown'
+        return 'unknown'
     
     # If the string doesn't contain the specified patterns, return it as is
     return value
