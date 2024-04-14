@@ -69,6 +69,8 @@ def collect_phones_info_from_page(driver) -> list[dict]:
         
         condition = 'new'
         
+        source = 'mediamarkt'
+        
         link_element = phone.find_element(By.CSS_SELECTOR, 'a.photo')
         phone_url = link_element.get_attribute('href')
         
@@ -82,8 +84,9 @@ def collect_phones_info_from_page(driver) -> list[dict]:
             "storage": storage,
             "color": color,
             "price": price,
-            "source": phone_url,
+            "webpage": phone_url,
             "condition": condition,
+            "source": source
             "date": pd.to_datetime(datetime.today().strftime('%Y-%m-%d'))
         }
         
@@ -102,7 +105,7 @@ def get_additional_phone_info(driver):
         phone['article_number'] = article_number
 
     except (NoSuchElementException, TimeoutException) as e:
-        logger.warning(f" {phone['source'] =}")
+        logger.warning(f" {phone['webpage'] =}")
         logger.warning(f" {css_selector =}")
         logger.warning(e)  
 
@@ -114,7 +117,19 @@ def get_additional_phone_info(driver):
         phone['n_of_reviews'] = n_of_reviews
 
     except (NoSuchElementException, TimeoutException) as e:
-        logger.warning(f" {phone['source'] =}")
+        logger.warning(f" {phone['webpage'] =}")
+        logger.warning(f" {css_selector =}")
+        logger.warning(e) 
+    
+    try:
+        # Camera
+        css_selector = '.bv_numReviews_text' #features > section:nth-child(3) > dl:nth-child(2) > dd:nth-child(4)
+        n_of_reviews = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector ))).text
+        logger.info(f" \t{n_of_reviews=}")
+        phone['n_of_reviews'] = n_of_reviews
+
+    except (NoSuchElementException, TimeoutException) as e:
+        logger.warning(f" {phone['webpage'] =}")
         logger.warning(f" {css_selector =}")
         logger.warning(e) 
 
@@ -127,7 +142,7 @@ def get_additional_phone_info(driver):
         phone['rating'] = rating.text
 
     except (NoSuchElementException, TimeoutException) as e:
-        logger.warning(f" {phone['source'] =}")
+        logger.warning(f" {phone['webpage'] =}")
         logger.warning(f" {css_selector =}")
         logger.warning(e) 
 
@@ -139,7 +154,7 @@ def get_additional_phone_info(driver):
         phone['delivery_time'] = delivery_time
 
     except (NoSuchElementException, TimeoutException) as e:
-        logger.warning(f" {phone['source'] =}")
+        logger.warning(f" {phone['webpage'] =}")
         logger.warning(f" {css_selector =}")
         logger.warning(e) 
     
@@ -182,14 +197,14 @@ for phone in phone_list:
     if phone['datails_getted']:
         continue
 
-    driver.get(phone['source'])
-    logger.info(phone['source'])
+    driver.get(phone['webpage'])
+    logger.info(phone['webpage'])
 
     ## catching broken pages
     try:
         body = driver.find_element(By.CSS_SELECTOR, "body > *")
     except NoSuchElementException:
-        logger.warning(phone['source'])
+        logger.warning(phone['webpage'])
         logger.warning("page broken")
         phone['status'] = 'detailed page broken'
         continue
@@ -209,6 +224,6 @@ driver.quit()
 
 df = pd.DataFrame(phone_list)
 
-file_name = "scraped_mediamarkt.csv"
+file_name = "data/stage_01_scraped_mediamarkt.csv"
 # Save the DataFrame to CSV in the same directory as the script
 df.to_csv(file_name, index=False)

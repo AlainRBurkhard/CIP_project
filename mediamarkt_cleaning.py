@@ -309,6 +309,10 @@ df = df.drop(columns=['page', 'article_number', 'condition' ])
 new_order = ['brand', 'model', 'category', 'size', 'storage', 'color', 'rating', 'n_of_reviews', 'delivery_time', 'price', 'source', 'date']
 df = df[new_order]
 
+
+
+new_order = ['id', 'brand', 'model', 'memory_GB', 'camera_MP', 'size', 'color', 'rating_100', 'reviews_count', 'price', 'screen_price_ratio', 'source', 'date']
+df = df[new_order]
 ################################################################################################################################
                     # Saving Df to CSV
     
