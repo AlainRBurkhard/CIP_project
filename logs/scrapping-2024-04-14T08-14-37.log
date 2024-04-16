@@ -28,3 +28,120 @@
 2024-04-14 08:17:09,288 - INFO -  	n_of_reviews='(8)'
 2024-04-14 08:17:09,290 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="848f2d10-6bfb-426e-acf9-4df4e8b5804c", element="01282b91-f281-455b-80d0-1f92a856442c")>
 2024-04-14 08:17:09,303 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:19:51,775 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-14 17:19:51,798 - INFO - 	article_number='2203371'
+2024-04-14 17:19:52,852 - INFO -  	reviews_count='(24)'
+2024-04-14 17:19:52,854 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="2b37a6e6-3fbe-443a-9b48-eee91929bf50", element="af232e6f-c1d6-4924-b2d6-5466ce347c24")>
+2024-04-14 17:19:52,865 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:19:55,426 - INFO - https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html
+2024-04-14 17:19:55,506 - INFO - 	article_number='2178004'
+2024-04-14 17:19:56,577 - INFO -  	reviews_count='(10)'
+2024-04-14 17:19:56,580 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="2b37a6e6-3fbe-443a-9b48-eee91929bf50", element="6cdd43c9-c9a1-4cf8-a918-3edb3f40fe81")>
+2024-04-14 17:19:56,592 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:19:59,395 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html
+2024-04-14 17:19:59,465 - INFO - 	article_number='2203408'
+2024-04-14 17:20:01,038 - INFO -  	reviews_count='(15)'
+2024-04-14 17:20:01,040 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="2b37a6e6-3fbe-443a-9b48-eee91929bf50", element="f882b41e-e0af-466c-af77-aa5b9f0f5186")>
+2024-04-14 17:20:01,053 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:20:03,592 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html
+2024-04-14 17:20:03,677 - INFO - 	article_number='2203426'
+2024-04-14 17:20:06,276 - INFO -  	reviews_count='(13)'
+2024-04-14 17:20:06,278 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="2b37a6e6-3fbe-443a-9b48-eee91929bf50", element="eaf87d96-f38e-4330-9c44-cefca16d9f2d")>
+2024-04-14 17:20:06,290 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:20:09,026 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html
+2024-04-14 17:20:09,098 - INFO - 	article_number='2203373'
+2024-04-14 17:20:10,143 - INFO -  	reviews_count='(0)'
+2024-04-14 17:21:01,575 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-14 17:21:01,618 - INFO - 	article_number='2203371'
+2024-04-14 17:21:01,625 - INFO -  	reviews_count='(24)'
+2024-04-14 17:21:01,633 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c4dcb7b0-04b3-4b90-b41f-a61a972f22bf", element="ea97a9a5-61ae-4e99-ae6b-f8315c7f32ff")>
+2024-04-14 17:21:01,642 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:21:06,805 - INFO - https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html
+2024-04-14 17:21:06,877 - INFO - 	article_number='2178004'
+2024-04-14 17:21:06,884 - INFO -  	reviews_count='(10)'
+2024-04-14 17:21:06,885 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c4dcb7b0-04b3-4b90-b41f-a61a972f22bf", element="76eddb3e-e7fa-41d4-a381-2327340aa24b")>
+2024-04-14 17:21:06,899 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:21:11,159 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html
+2024-04-14 17:21:11,199 - INFO - 	article_number='2203408'
+2024-04-14 17:21:11,215 - INFO -  	reviews_count='(15)'
+2024-04-14 17:21:11,219 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c4dcb7b0-04b3-4b90-b41f-a61a972f22bf", element="4932fe79-05e1-4711-8802-876936ae92aa")>
+2024-04-14 17:21:11,254 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:21:14,048 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html
+2024-04-14 17:21:14,122 - INFO - 	article_number='2203426'
+2024-04-14 17:21:15,160 - INFO -  	reviews_count='(13)'
+2024-04-14 17:21:15,162 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c4dcb7b0-04b3-4b90-b41f-a61a972f22bf", element="73338213-d9c1-48f1-bc7b-689a750f1740")>
+2024-04-14 17:21:15,171 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 17:21:17,948 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html
+2024-04-14 17:21:18,028 - INFO - 	article_number='2203373'
+2024-04-14 17:21:19,094 - INFO -  	reviews_count='(0)'
+2024-04-14 20:15:31,343 - WARNING - Timed out
+2024-04-14 20:19:29,594 - WARNING - Timed out
+2024-04-14 20:28:12,884 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-14 20:28:12,903 - INFO - 	article_number='2203371'
+2024-04-14 20:28:14,463 - INFO -  	reviews_count='(24)'
+2024-04-14 20:28:14,466 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="29701472-4d09-478e-ac0b-47d97c2238eb", element="251f601c-3c48-4891-a180-1a1b3896bd99")>
+2024-04-14 20:28:14,483 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:28:17,327 - INFO - https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html
+2024-04-14 20:28:17,414 - INFO - 	article_number='2178004'
+2024-04-14 20:28:18,510 - INFO -  	reviews_count='(10)'
+2024-04-14 20:28:18,513 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="29701472-4d09-478e-ac0b-47d97c2238eb", element="bb2a3bdc-53c8-4c1b-a215-07034748bd0e")>
+2024-04-14 20:28:18,526 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:28:21,313 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html
+2024-04-14 20:28:21,384 - INFO - 	article_number='2203408'
+2024-04-14 20:28:22,451 - INFO -  	reviews_count='(15)'
+2024-04-14 20:28:22,453 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="29701472-4d09-478e-ac0b-47d97c2238eb", element="9d9fb698-6840-4c1d-8002-e718e69c5074")>
+2024-04-14 20:28:22,466 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:28:25,279 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html
+2024-04-14 20:28:25,348 - INFO - 	article_number='2203426'
+2024-04-14 20:28:26,385 - INFO -  	reviews_count='(13)'
+2024-04-14 20:28:26,389 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="29701472-4d09-478e-ac0b-47d97c2238eb", element="9d6d72d8-d140-478d-814d-04528d1f8063")>
+2024-04-14 20:28:26,406 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:28:29,318 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html
+2024-04-14 20:28:29,389 - INFO - 	article_number='2203373'
+2024-04-14 20:28:30,439 - INFO -  	reviews_count='(0)'
+2024-04-14 20:35:33,352 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-14 20:35:33,396 - INFO - 	article_number='2203371'
+2024-04-14 20:35:33,402 - INFO -  	reviews_count='(24)'
+2024-04-14 20:35:33,412 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="f67953fe-bd14-45da-ad14-1545966bacb1", element="fdbab698-bcdc-492b-a2fa-e6ba3bbdbc34")>
+2024-04-14 20:35:33,420 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:35:36,998 - INFO - https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html
+2024-04-14 20:35:37,030 - INFO - 	article_number='2178004'
+2024-04-14 20:35:37,040 - INFO -  	reviews_count='(10)'
+2024-04-14 20:35:37,065 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="f67953fe-bd14-45da-ad14-1545966bacb1", element="0bcccc0b-bd44-4977-a2dc-898a079e2d2d")>
+2024-04-14 20:35:37,078 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:35:40,436 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html
+2024-04-14 20:35:40,474 - INFO - 	article_number='2203408'
+2024-04-14 20:35:40,479 - INFO -  	reviews_count='(15)'
+2024-04-14 20:35:40,480 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="f67953fe-bd14-45da-ad14-1545966bacb1", element="6f0a1496-9c3d-4691-aed9-f7857ad4ec8f")>
+2024-04-14 20:35:40,488 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:35:43,447 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html
+2024-04-14 20:35:43,520 - INFO - 	article_number='2203426'
+2024-04-14 20:35:44,588 - INFO -  	reviews_count='(13)'
+2024-04-14 20:35:44,590 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="f67953fe-bd14-45da-ad14-1545966bacb1", element="8599d134-e133-47d3-a163-43a1caa50299")>
+2024-04-14 20:35:44,603 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:35:47,338 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html
+2024-04-14 20:35:47,408 - INFO - 	article_number='2203373'
+2024-04-14 20:35:48,468 - INFO -  	reviews_count='(0)'
+2024-04-14 20:44:25,568 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html
+2024-04-14 20:44:25,624 - INFO - 	article_number='2203371'
+2024-04-14 20:44:25,630 - INFO -  	reviews_count='(24)'
+2024-04-14 20:44:25,631 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c1f74f96-3285-42fb-96fb-f7b4ef41fd03", element="eaa88bfb-15db-464c-b064-dc307ec9c437")>
+2024-04-14 20:44:25,639 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:44:29,232 - INFO - https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html
+2024-04-14 20:44:29,275 - INFO - 	article_number='2178004'
+2024-04-14 20:44:29,282 - INFO -  	reviews_count='(10)'
+2024-04-14 20:44:29,293 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c1f74f96-3285-42fb-96fb-f7b4ef41fd03", element="cdd92740-81c0-4541-b632-b71b77159934")>
+2024-04-14 20:44:29,330 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:44:33,211 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html
+2024-04-14 20:44:33,218 - INFO - 	article_number='2203408'
+2024-04-14 20:44:33,224 - INFO -  	reviews_count='(15)'
+2024-04-14 20:44:33,225 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c1f74f96-3285-42fb-96fb-f7b4ef41fd03", element="111bd8a7-0070-4cc6-ab42-4afb5e8d4a70")>
+2024-04-14 20:44:33,234 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:44:36,480 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html
+2024-04-14 20:44:36,552 - INFO - 	article_number='2203426'
+2024-04-14 20:44:37,100 - INFO -  	reviews_count='(13)'
+2024-04-14 20:44:37,101 - INFO -  	rating=<selenium.webdriver.remote.webelement.WebElement (session="c1f74f96-3285-42fb-96fb-f7b4ef41fd03", element="dc961a4c-a1f4-4f2b-9e93-2e4297de83d1")>
+2024-04-14 20:44:37,111 - INFO -  	delivery_time='Auslieferung in 1-2 Werktagen'
+2024-04-14 20:44:39,777 - INFO - https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html
+2024-04-14 20:44:39,849 - INFO - 	article_number='2203373'
+2024-04-14 20:44:40,897 - INFO -  	reviews_count='(0)'

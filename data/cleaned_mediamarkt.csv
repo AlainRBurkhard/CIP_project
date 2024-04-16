@@ -1,358 +1,358 @@
-brand,model,category,size,storage,color,rating,n_of_reviews,delivery_time,price,source,date
-apple,iphone 15,smartphone,6.1,128 GB,Black,4.8,25,2.0,716.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,256 GB,Black Titanium,4.9,13,2.0,1129.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html,2024-04-07
-apple,iphone 14,smartphone,6.1,128 GB,Midnight,4.8,12,2.0,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151025.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,256 GB,Black Titanium,4.9,14,2.0,1040.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,256 GB,Natural Titanium,4.6,32,2.0,1125.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203429.html,2024-04-07
-apple,iphone 15,smartphone,6.1,128 GB,Blue,5.0,8,2.0,728.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203374.html,2024-04-07
-apple,iphone 11 (2020),smartphone,6.1,64 GB,Black,4.7,67,4.0,349.0,https://www.mediamarkt.ch/de/product/_apple-iphone-11-2020-2028715.html,2024-04-07
-apple,iphone 14,smartphone,6.1,128 GB,Purple,4.8,12,2.0,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151027.html,2024-04-07
-apple,iphone 15,smartphone,6.1,256 GB,Black,5.0,4,2.0,816.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203376.html,2024-04-07
-xiaomi,redmi a2,smartphone,6.52,32 GB,Schwarz,4.1,10,2.0,84.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html,2024-04-07
-apple,iphone 13,smartphone,6.1,128 GB,Starlight,4.7,34,6.0,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091429.html,2024-04-07
-xiaomi,redmi 13c,smartphone,6.74,128 GB,Midnight Black,4.7,3,2.0,118.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219843.html,2024-04-07
-apple,iphone 15,smartphone,6.1,128 GB,Yellow,0.0,0,,711.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html,2024-04-07
-apple,iphone 11 (2020),smartphone,6.1,128 GB,Black,4.5,50,4.0,399.0,https://www.mediamarkt.ch/de/product/_apple-iphone-11-2020-2028727.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,256 GB,White Titanium,5.0,1,2.0,1031.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203409.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,256 GB,Blue Titanium,4.8,11,2.0,1047.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203411.html,2024-04-07
-apple,iphone 14,smartphone,6.1,128 GB,Starlight,4.9,24,2.0,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151026.html,2024-04-07
-samsung,galaxy a15 4g,smartphone,6.5,128 GB,Blue,0.0,0,4.0,179.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a15-4g-2221377.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,128 GB,Natural Titanium,4.3,11,2.0,939.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203405.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,256 GB,White Titanium,4.8,9,2.0,1137.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203427.html,2024-04-07
-apple,iphone se,smartphone,4.7,128 GB,Midnight,4.4,9,4.0,430.95,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2118902.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,256 GB,Natural Titanium,4.0,17,2.0,1047.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203410.html,2024-04-07
-apple,iphone 15,smartphone,6.1,256 GB,Blue,5.0,1,2.0,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203380.html,2024-04-07
-apple,iphone 15,smartphone,6.1,256 GB,Yellow,0.0,0,2.0,816.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203379.html,2024-04-07
-samsung,galaxy a15 4g,smartphone,6.5,128 GB,Blue Black,0.0,0,4.0,169.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a15-4g-2221378.html,2024-04-07
-apple,iphone 15,smartphone,6.1,128 GB,Pink,4.4,7,2.0,719.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203372.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,256 GB,Awesome Lilac,5.0,1,6.0,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237092.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,256 GB,Phantom Black,4.6,155,6.0,729.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167374.html,2024-04-07
-nothing,phone (2a),smartphone,6.7,128 GB,Weiss,0.0,0,,329.95,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223932.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,128 GB,Phantom Black,4.4,271,6.0,598.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167353.html,2024-04-07
-nothing,phone (2a),smartphone,6.7,256 GB,Schwarz,5.0,1,,379.95,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223927.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,256 GB,Awesome Navy,0.0,0,7.0,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237090.html,2024-04-07
-samsung,galaxy z flip5,smartphone,6.7,512 GB,Graphite,4.5,57,6.0,844.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193034.html,2024-04-07
-xiaomi,redmi note 13 5g,smartphone,6.67,256 GB,Graphite Black,4.9,7,6.0,254.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-5g-2220891.html,2024-04-07
-apple,iphone se (2022),smartphone,4.7,64 GB,Midnight,4.5,8,2.0,383.95,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118897.html,2024-04-07
-samsung,galaxy a54 5g,smartphone,6.4,128 GB,Awesome Lime,4.4,310,2.0,299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2173979.html,2024-04-07
-apple,iphone 13,smartphone,6.1,128 GB,Blue,4.7,3,,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091439.html,2024-04-07
-nothing,phone (2a),smartphone,6.7,128 GB,Schwarz,0.0,0,,329.95,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223930.html,2024-04-07
-xiaomi,redmi note 13 pro+ 5g,smartphone,6.67,512 GB,Midnight Black,5.0,4,2.0,413.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220879.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,128 GB,Black Titanium,4.9,28,2.0,932.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203403.html,2024-04-07
-nothing,phone (2a),smartphone,6.7,256 GB,Weiss,5.0,1,,379.95,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223929.html,2024-04-07
-apple,iphone 15,smartphone,6.1,128 GB,Green,5.0,3,2.0,719.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203375.html,2024-04-07
-apple,iphone 13,smartphone,6.1,128 GB,Green,0.0,0,2.0,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2118876.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,128 GB,White Titanium,4.9,10,2.0,948.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203404.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,256 GB,Blue Titanium,4.9,15,2.0,1145.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203430.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,512 GB,Natural Titanium,5.0,6,,1361.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203433.html,2024-04-07
-apple,iphone 14,smartphone,6.1,128 GB,Blue,4.8,12,2.0,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151029.html,2024-04-07
-apple,iphone 13,smartphone,6.1,128 GB,Pink,5.0,2,,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091433.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,128 GB,Awesome Navy,0.0,0,4.0,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237050.html,2024-04-07
-xiaomi,redmi 9a,smartphone,6.53,32 GB,Granite Grey,4.2,17,4.0,79.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-9a-2012628.html,2024-04-07
-apple,iphone 13,smartphone,6.1,256 GB,Starlight,4.8,6,4.0,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091353.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,512 GB,Black Titanium,5.0,5,7.0,1375.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203431.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,512 GB,White Titanium,0.0,0,,1329.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203432.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,256 GB,Green,4.4,273,2.0,694.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167361.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,256 GB,Awesome Iceblue,0.0,5,6.0,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237093.html,2024-04-07
-samsung,galaxy z flip5,smartphone,6.7,512 GB,Cream,4.6,56,7.0,1118.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193033.html,2024-04-07
-samsung,galaxy a34 5g,smartphone,6.6,128 GB,Awesome Graphite,0.0,0,,320.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a34-5g-2173976.html,2024-04-07
-xiaomi,redmi note 13 5g,smartphone,6.67,256 GB,Arctic White,5.0,1,7.0,254.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-5g-2220893.html,2024-04-07
-apple,iphone 15,smartphone,6.1,256 GB,Green,5.0,1,2.0,819.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203381.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,128 GB,Starlight,5.0,5,7.0,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151041.html,2024-04-07
-apple,iphone 14,smartphone,6.1,256 GB,Blue,5.0,7,2.0,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151034.html,2024-04-07
-nothing,phone (2),smartphone,6.7,256 GB,Grau,4.3,3,2.0,549.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189932.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,128 GB,Blue Titanium,4.9,18,2.0,920.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203407.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,512 GB,White Titanium,0.0,0,,1232.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203414.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,256 GB,Onyx Black,4.5,184,,915.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220719.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,512 GB,Titanium Black,4.7,787,6.0,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220733.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,256 GB,Awesome Lemon,0.0,0,6.0,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237094.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,256 GB,Titanium Black,4.7,787,6.0,1199.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220737.html,2024-04-07
-samsung,galaxy s23 ultra,smartphone,6.8,256 GB,Phantom Black,4.6,607,,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167385.html,2024-04-07
-xiaomi,redmi 13c,smartphone,6.74,128 GB,Clover Green,4.0,1,7.0,133.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219844.html,2024-04-07
-samsung,galaxy a54 5g,smartphone,6.4,128 GB,Awesome Graphite,0.0,0,,299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2173981.html,2024-04-07
-samsung,galaxy a25 5g,smartphone,6.5,128 GB,Blue Black,4.6,5,2.0,259.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a25-5g-2216505.html,2024-04-07
-nothing,phone (2),smartphone,6.7,256 GB,Weiss,5.0,1,4.0,549.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189933.html,2024-04-07
-xiaomi,redmi note 13 4g,smartphone,6.67,128 GB,Midnight Black,3.7,7,2.0,179.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220885.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,128 GB,Black,3.3,4,2.0,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203388.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,512 GB,Blue Titanium,4.8,4,,1236.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203417.html,2024-04-07
-apple,iphone 12,smartphone,6.1,64 GB,Black,4.5,19,2.0,479.95,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028624.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,128 GB,Awesome Iceblue,0.0,0,10.0,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237049.html,2024-04-07
-xiaomi,redmi 13c,smartphone,6.74,256 GB,Midnight Black,0.0,0,2.0,152.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219846.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,256 GB,Starlight,5.0,3,7.0,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151046.html,2024-04-07
-xiaomi,redmi a2,smartphone,6.52,32 GB,Hellgrün,4.5,10,,88.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178002.html,2024-04-07
-motorola,moto g13,smartphone,6.5,128 GB,Matte Charcoal,5.0,15,4.0,129.95,https://www.mediamarkt.ch/de/product/_motorola-moto-g13-2180586.html,2024-04-07
-apple,iphone 14,smartphone,6.1,256 GB,Midnight,5.0,5,2.0,743.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151030.html,2024-04-07
-xiaomi,redmi note 13 pro+ 5g,smartphone,6.67,256 GB,Midnight Black,0.0,0,2.0,381.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220882.html,2024-04-07
-xiaomi,redmi note 13 4g,smartphone,6.67,128 GB,Mint Green,4.7,3,7.0,169.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220886.html,2024-04-07
-motorola,moto g54 5g,smartphone,6.5,256 GB,Midnight Blue,4.9,21,2.0,172.95,https://www.mediamarkt.ch/de/product/_motorola-moto-g54-5g-2216177.html,2024-04-07
-google,pixel 8 pro,smartphone,6.7,128 GB,Obsidian,4.5,11,,921.0,https://www.mediamarkt.ch/de/product/_google-pixel-8-pro-2214719.html,2024-04-07
-samsung,xcover6 pro enterprise edition,smartphone,6.6,128 GB,Schwarz,3.0,2,,419.95,https://www.mediamarkt.ch/de/product/_samsung-xcover6-pro-enterprise-edition-2140676.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,512 GB,Titanium Violet,4.7,786,2.0,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220735.html,2024-04-07
-samsung,galaxy s23 ultra,smartphone,6.8,512 GB,Green,4.6,613,2.0,987.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167389.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,128 GB,Awesome Lilac,0.0,0,2.0,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237051.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,128 GB,Awesome Lilac,0.0,0,4.0,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237047.html,2024-04-07
-samsung,galaxy a54 5g,smartphone,6.4,256 GB,Awesome Violet,4.4,309,4.0,439.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2177750.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,128 GB,Awesome Navy,0.0,0,4.0,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237046.html,2024-04-07
-xiaomi,14 + electric scooter 4 lite swiss edition bundle,smartphone,6.36,512 GB,Jade Green,0.0,0,7.0,1099.0,https://www.mediamarkt.ch/de/product/_xiaomi-14-electric-scooter-4-lite-swiss-edition-bundle-2238859.html,2024-04-07
-fairphone,5 5g,smartphone,6.46,256 GB,Transparent Edition,4.8,4,2.0,595.0,https://www.mediamarkt.ch/de/product/_fairphone-5-5g-2195008.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,1 TB,White Titanium,5.0,2,,1546.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203439.html,2024-04-07
-samsung,galaxy xcover 5 enterprise edition,smartphone,5.3,64 GB,Schwarz,3.3,18,4.0,206.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-xcover-5-enterprise-edition-2060202.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,256 GB,Green,4.6,154,2.0,779.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167371.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,256 GB,Cream,4.6,154,2.0,869.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167370.html,2024-04-07
-apple,iphone se (2022),smartphone,4.7,64 GB,Red,5.0,3,6.0,383.95,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118899.html,2024-04-07
-apple,iphone 13,smartphone,6.1,256 GB,Green,5.0,1,4.0,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2118878.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,512 GB,Black Titanium,4.3,4,7.0,1244.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203413.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,256 GB,Phantom Black,4.4,273,2.0,661.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167365.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,128 GB,Cobalt Violet,4.4,274,2.0,708.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220729.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,128 GB,Green,4.4,270,2.0,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167347.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,512 GB,Titanium Yellow,4.7,786,7.0,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220736.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,512 GB,Titanium Grey,4.7,786,,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220734.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,512 GB,Onyx Black,4.4,185,6.0,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220715.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,1 TB,Titanium Grey,4.7,786,,1599.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220714.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,512 GB,Marble Grey,4.5,184,2.0,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220716.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,128 GB,Awesome Iceblue,0.0,0,4.0,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237045.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,256 GB,Titanium Yellow,4.7,786,2.0,1169.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220740.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,512 GB,Cobalt Violet,4.5,184,7.0,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220717.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,256 GB,Cobalt Violet,4.5,184,7.0,949.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220721.html,2024-04-07
-samsung,galaxy a15 4g,smartphone,6.5,128 GB,Yellow,0.0,0,4.0,169.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a15-4g-2221379.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,256 GB,Purple,5.0,2,,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151047.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,1 TB,Black Titanium,0.0,0,,1556.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203435.html,2024-04-07
-apple,iphone 13,smartphone,6.1,256 GB,Blue,5.0,11,,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091358.html,2024-04-07
-apple,iphone 14,smartphone,6.1,128 GB,Yellow,4.8,13,,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2176808.html,2024-04-07
-inoi,note 13s,smartphone,6.95,256 GB,Grau,0.0,0,2.0,158.95,https://www.mediamarkt.ch/de/product/_inoi-note-13s-2190696.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,256 GB,Onyx Black,4.4,274,4.0,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220723.html,2024-04-07
-xiaomi,redmi 12,smartphone,6.79,128 GB,Midnight Black,4.0,22,2.0,144.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203274.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,1 TB,Natural Titanium,0.0,0,2.0,1563.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203440.html,2024-04-07
-apple,iphone se,smartphone,4.7,128 GB,Starlight,0.0,0,,430.95,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2118903.html,2024-04-07
-apple,iphone 12,smartphone,6.1,64 GB,Purple,5.0,5,6.0,479.95,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2066506.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,256 GB,Black,5.0,1,,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203393.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,256 GB,Lavender,4.4,272,6.0,694.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167363.html,2024-04-07
-emporia,supereasy,smartphone,,,Schwarz,0.0,0,2.0,209.7,https://www.mediamarkt.ch/de/product/_emporia-supereasy-2127635.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,256 GB,Titanium Grey,4.7,786,7.0,1199.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220738.html,2024-04-07
-samsung,galaxy a54 5g,smartphone,5.0,32 GB,Awesome White,4.4,308,2.0,439.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2177748.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,256 GB,Awesome Lemon,5.0,1,10.0,419.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242305.html,2024-04-07
-samsung,galaxy z fold5,smartphone,7.6,512 GB,Icy Blue,4.3,49,10.0,1778.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193025.html,2024-04-07
-xiaomi,redmi note 13 4g,smartphone,6.67,256 GB,Midnight Black,0.0,0,6.0,222.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220888.html,2024-04-07
-one,plus nord ce 3 lite 5g,smartphone,6.72,128 GB,Chromatic Gray,0.0,0,2.0,313.95,https://www.mediamarkt.ch/de/product/_one-plus-nord-ce-3-lite-5g-2180208.html,2024-04-07
-xiaomi,redmi 13c,smartphone,6.74,128 GB,Navy Blue,5.0,3,,133.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219839.html,2024-04-07
-xiaomi,redmi 13c,smartphone,6.74,256 GB,Clover Green,0.0,0,7.0,152.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219847.html,2024-04-07
-emporia,touchsmart.2,smartphone,,,Schwarz,2.6,7,2.0,118.95,https://www.mediamarkt.ch/de/product/_emporia-touchsmart-2-2110132.html,2024-04-07
-samsung,galaxy a34 5g,smartphone,6.6,256 GB,Awesome Silver,4.3,210,2.0,369.7,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a34-5g-2176866.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,128 GB,Purple,5.0,6,2.0,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151042.html,2024-04-07
-xiaomi,13t,smartphone,6.67,256 GB,Black,4.5,8,7.0,551.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-2203283.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,3.25,8 GB,Graphite,3.0,2,2.0,620.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216487.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,512 GB,Midnight,3.7,3,,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151050.html,2024-04-07
-motorola,moto e13,smartphone,6.5,64 GB,Cosmic Black,1.0,1,4.0,99.95,https://www.mediamarkt.ch/de/product/_motorola-moto-e13-2180587.html,2024-04-07
-apple,iphone 14,smartphone,6.1,256 GB,Red,5.0,5,2.0,739.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151033.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,128 GB,Yellow,5.0,4,,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2176811.html,2024-04-07
-xiaomi,redmi note 13 pro 4g,smartphone,6.67,256 GB,Midnight Black,5.0,1,,296.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-4g-2220894.html,2024-04-07
-xiaomi,redmi note 13 pro 5g,smartphone,6.67,256 GB,Ocean Teal,4.7,6,,356.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220898.html,2024-04-07
-xiaomi,redmi note 13 pro 5g,smartphone,6.67,256 GB,Midnight Black,4.0,5,2.0,349.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220897.html,2024-04-07
-xiaomi,redmi note 13 pro+ 5g,smartphone,6.67,256 GB,Aurora Purple,0.0,0,6.0,399.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220884.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,256 GB,Amber Yellow,4.4,274,2.0,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220726.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,128 GB,Onyx Black,4.4,274,,704.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220727.html,2024-04-07
-apple,iphone se (2022),smartphone,4.7,256 GB,Midnight,5.0,2,,579.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118906.html,2024-04-07
-apple,iphone se,smartphone,4.7,128 GB,Red,5.0,1,,430.95,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2118904.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,1 TB,Black Titanium,5.0,1,,1448.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203418.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,128 GB,Blue,5.0,6,,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203391.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,256 GB,Yellow,0.0,0,4.0,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203395.html,2024-04-07
-motorola,moto g30,smartphone,6.5,128 GB,Dark Pearl,0.0,0,7.0,224.95,https://www.mediamarkt.ch/de/product/_motorola-moto-g30-2076214.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,256 GB,Cream,4.4,270,2.0,699.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167357.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,512 GB,Amber Yellow,4.5,184,,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220718.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,128 GB,Amber Yellow,4.4,274,2.0,749.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220730.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,256 GB,Titanium Violet,4.7,786,6.0,1169.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220739.html,2024-04-07
-samsung,galaxy a55 5g,smartphone,6.6,128 GB,Awesome Lemon,0.0,0,4.0,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237052.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,128 GB,Cream,0.0,0,,629.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167340.html,2024-04-07
-xiaomi,redmi 12c,smartphone,6.71,64 GB,Mint Green,0.0,0,,144.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12c-2178005.html,2024-04-07
-samsung,galaxy s23 ultra,smartphone,6.8,256 GB,Green,4.6,605,2.0,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167382.html,2024-04-07
-samsung,galaxy s23 ultra,smartphone,6.8,256 GB,Cream,4.6,605,2.0,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167380.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,256 GB,Awesome Iceblue,5.0,1,,419.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242300.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,512 GB,Phantom Black,0.0,0,,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167378.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,256 GB,Awesome Lilac,0.0,0,10.0,419.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242333.html,2024-04-07
-samsung,galaxy z fold5,smartphone,7.6,256 GB,Icy Blue,0.0,0,,1590.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193040.html,2024-04-07
-samsung,galaxy z flip5,smartphone,6.7,256 GB,Mint,4.5,55,7.0,1011.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193032.html,2024-04-07
-xiaomi,14 + electric scooter 4 lite swiss edition bundle,smartphone,6.36,512 GB,Black,0.0,0,2.0,1099.0,https://www.mediamarkt.ch/de/product/_xiaomi-14-electric-scooter-4-lite-swiss-edition-bundle-2238856.html,2024-04-07
-samsung,galaxy z flip5,smartphone,6.7,512 GB,Mint,4.6,57,2.0,1018.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193036.html,2024-04-07
-samsung,galaxy z fold5,smartphone,7.6,512 GB,Phantom Black,0.0,0,,1710.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193041.html,2024-04-07
-samsung,galaxy a54 5g,smartphone,6.4,128 GB,Awesome Violet,0.0,0,,299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2173982.html,2024-04-07
-nokia,g22,smartphone,6.52,64 GB,Meteor Grey,0.0,0,2.0,154.95,https://www.mediamarkt.ch/de/product/_nokia-g22-2175509.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,256 GB,Midnight,5.0,5,7.0,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151045.html,2024-04-07
-xiaomi,13t pro,smartphone,6.67,1 TB,Alpine Blue,0.0,0,,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203278.html,2024-04-07
-xiaomi,redmi a2,smartphone,6.52,32 GB,Hellblau,4.2,6,,88.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178003.html,2024-04-07
-samsung,galaxy a25 5g,smartphone,6.5,128 GB,Blue,4.6,5,2.0,269.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a25-5g-2216496.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,512 GB,Deep Purple,5.0,2,7.0,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151052.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,128 GB,Cream,3.0,2,2.0,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216485.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,128 GB,Mint,3.0,2,2.0,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216483.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,128 GB,Midnight,4.8,5,2.0,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151040.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,256 GB,Purple,3.7,3,4.0,629.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216489.html,2024-04-07
-ruggear,rg360,smartphone,,8 GB,Schwarz,0.0,0,7.0,122.95,https://www.mediamarkt.ch/de/product/_ruggear-rg360-2053578.html,2024-04-07
-apple,iphone 14,smartphone,3.0,512 GB,Midnight,0.0,0,2.0,980.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151035.html,2024-04-07
-inoi,a72,smartphone,6.5,64 GB,Violett,0.0,0,,119.95,https://www.mediamarkt.ch/de/product/_inoi-a72-2190692.html,2024-04-07
-inoi,a72,smartphone,6.5,64 GB,Grau,0.0,0,7.0,115.95,https://www.mediamarkt.ch/de/product/_inoi-a72-2190691.html,2024-04-07
-doro,8200 plus,smartphone,6.1,64 GB,Dunkelblau,0.0,0,7.0,283.95,https://www.mediamarkt.ch/de/product/_doro-8200-plus-2198411.html,2024-04-07
-doro,8200,smartphone,6.1,64 GB,Dunkelblau,0.0,0,7.0,294.95,https://www.mediamarkt.ch/de/product/_doro-8200-2198408.html,2024-04-07
-inoi,a63,smartphone,6.5,32 GB,Schwarz,5.0,1,7.0,96.95,https://www.mediamarkt.ch/de/product/_inoi-a63-2190687.html,2024-04-07
-apple,iphone 13,smartphone,6.1,256 GB,Pink,0.0,0,,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091355.html,2024-04-07
-apple,iphone 13,smartphone,6.1,256 GB,Red,0.0,0,,625.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091356.html,2024-04-07
-apple,iphone 13,smartphone,6.1,256 GB,Midnight,4.9,14,4.0,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091349.html,2024-04-07
-xiaomi,redmi note 13 pro+ 5g,smartphone,6.67,512 GB,Aurora Purple,4.0,2,2.0,424.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220881.html,2024-04-07
-xiaomi,redmi note 13 pro 4g,smartphone,6.67,256 GB,Forest Green,5.0,1,7.0,312.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-4g-2220895.html,2024-04-07
-apple,iphone 12,smartphone,6.1,128 GB,Purple,4.8,8,,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2066507.html,2024-04-07
-xiaomi,redmi note 13 pro+ 5g,smartphone,6.67,256 GB,Moonlight White,0.0,0,7.0,399.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220883.html,2024-04-07
-xiaomi,redmi note 13 pro 5g,smartphone,6.67,256 GB,Aurora Purple,0.0,0,2.0,342.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220899.html,2024-04-07
-motorola,razr 40 ultra,smartphone,6.9,256 GB,Viva Magenta,0.0,0,,1075.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-ultra-2189432.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,256 GB,Amber Yellow,4.5,184,,949.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220722.html,2024-04-07
-xiaomi,redmi 12,smartphone,6.79,256 GB,Sky Blue,5.0,1,,204.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203272.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,256 GB,Cobalt Violet,4.4,275,2.0,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220725.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,128 GB,Marble Grey,4.4,274,2.0,704.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220728.html,2024-04-07
-apple,iphone se (2022),smartphone,4.7,256 GB,Starlight,0.0,0,2.0,567.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118907.html,2024-04-07
-apple,iphone 12,smartphone,6.1,128 GB,White,4.7,16,2.0,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028654.html,2024-04-07
-apple,iphone 15,smartphone,6.1,512 GB,Black,3.0,1,2.0,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203382.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,1 TB,Natural Titanium,5.0,1,,1445.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203421.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,512 GB,Natural Titanium,5.0,1,,1256.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203415.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,1 TB,White Titanium,0.0,0,2.0,1459.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203419.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,128 GB,Green,5.0,1,4.0,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203392.html,2024-04-07
-nokia,g42 5g,smartphone,6.56,128 GB,So Grey,4.7,3,2.0,213.95,https://www.mediamarkt.ch/de/product/_nokia-g42-5g-2192169.html,2024-04-07
-google,pixel 8,smartphone,6.2,128 GB,Obsidian,4.5,26,2.0,654.0,https://www.mediamarkt.ch/de/product/_google-pixel-8-2214716.html,2024-04-07
-apple,iphone 13,smartphone,6.1,128 GB,Red,4.8,5,,539.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091436.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,256 GB,Green,0.0,0,4.0,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203397.html,2024-04-07
-xiaomi,13 pro,smartphone,6.73,256 GB,Ceramic White,0.0,0,,1225.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-pro-2175506.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,512 GB,Black,0.0,0,2.0,1123.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203398.html,2024-04-07
-samsung,galaxy s24 ultra,smartphone,6.8,1 TB,Titanium Black,4.7,786,,1599.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220713.html,2024-04-07
-motorola,moto g82 5g,smartphone,6.6,128 GB,Meteorite Gray,0.0,0,7.0,322.95,https://www.mediamarkt.ch/de/product/_motorola-moto-g82-5g-2134534.html,2024-04-07
-xiaomi,redmi note 12 4g,smartphone,6.67,64 GB,Onyx Gray,0.0,0,,185.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-4g-2195956.html,2024-04-07
-motorola,moto g22,smartphone,6.5,64 GB,Cosmic Black,0.0,0,7.0,204.95,https://www.mediamarkt.ch/de/product/_motorola-moto-g22-2134530.html,2024-04-07
-oppo,a58,smartphone,6.72,128 GB,Dazzling Green,0.0,0,,129.7,https://www.mediamarkt.ch/de/product/_oppo-a58-2202444.html,2024-04-07
-crosscall,stellar,smartphone,6.497,128 GB,Schwarz,0.0,0,7.0,841.0,https://www.mediamarkt.ch/de/product/_crosscall-stellar-x5-2219743.html,2024-04-07
-samsung,galaxy s23,smartphone,6.1,128 GB,Lavender,0.0,0,,615.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167349.html,2024-04-07
-samsung,galaxy s22 ultra 5g,smartphone,6.8,256 GB,Phantom Black,4.3,148,,947.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s22-ultra-5g-2109393.html,2024-04-07
-xiaomi,redmi note 12 pro 5g,smartphone,6.67,128 GB,Polar White,0.0,0,7.0,356.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-pro-5g-2215826.html,2024-04-07
-samsung,galaxy s23 ultra,smartphone,6.8,512 GB,Cream,0.0,0,,997.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167388.html,2024-04-07
-motorola,edge 20 pro,smartphone,6.7,256 GB,Blue Vegan Leather,0.0,0,,538.0,https://www.mediamarkt.ch/de/product/_motorola-edge-20-pro-2095383.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,128 GB,Awesome Lemon,0.0,0,2.0,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237048.html,2024-04-07
-xiaomi,redmi 12c,smartphone,6.71,64 GB,Graphite Gray,0.0,0,,133.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12c-2178006.html,2024-04-07
-xiaomi,redmi 12c,smartphone,6.71,64 GB,Ocean Blue,0.0,0,,133.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12c-2178007.html,2024-04-07
-samsung,galaxy s24+,smartphone,6.7,256 GB,Marble Grey,4.5,184,2.0,949.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220720.html,2024-04-07
-samsung,galaxy a35 5g,smartphone,6.6,256 GB,Awesome Navy,0.0,0,10.0,419.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242341.html,2024-04-07
-xiaomi,redmi note 13 4g,smartphone,6.67,256 GB,Mint Green,0.0,0,7.0,222.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220889.html,2024-04-07
-xiaomi,redmi note 13 4g,smartphone,6.67,128 GB,Ice Blue,3.0,3,7.0,178.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220887.html,2024-04-07
-samsung,galaxy z flip5,smartphone,6.7,256 GB,Graphite,4.5,55,7.0,1011.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193030.html,2024-04-07
-samsung,galaxy z fold4,smartphone,7.6,256 GB,Phantom Black,4.1,55,,1837.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold4-2141921.html,2024-04-07
-emporia,smart.5mini,smartphone,4.95,64 GB,Schwarz,0.0,0,7.0,176.95,https://www.mediamarkt.ch/de/product/_emporia-smart-5mini-2192175.html,2024-04-07
-samsung,galaxy z fold5,smartphone,7.6,256 GB,Phantom Black,0.0,0,,1608.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193037.html,2024-04-07
-nokia,c21 plus,smartphone,6.517,32 GB,Dark Cyan,5.0,1,,84.7,https://www.mediamarkt.ch/de/product/_nokia-c21-plus-2127663.html,2024-04-07
-samsung,galaxy z fold5,smartphone,7.6,256 GB,Cream,0.0,0,,1693.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193038.html,2024-04-07
-samsung,galaxy z fold5,smartphone,7.6,512 GB,Cream,0.0,0,,1899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193042.html,2024-04-07
-one,plus nord ce 3 lite 5g,smartphone,6.72,128 GB,Pastel Lime,0.0,0,6.0,314.95,https://www.mediamarkt.ch/de/product/_one-plus-nord-ce-3-lite-5g-2180209.html,2024-04-07
-wiko,y52,smartphone,,16 GB,Deep Blue,1.5,2,,49.7,https://www.mediamarkt.ch/de/product/_wiko-y52-2127285.html,2024-04-07
-doro,8100 plus,smartphone,6.1,32 GB,Graphit,0.0,0,2.0,242.0,https://www.mediamarkt.ch/de/product/_doro-8100-plus-2119149.html,2024-04-07
-xiaomi,redmi 13c,smartphone,6.74,256 GB,Navy Blue,0.0,0,7.0,160.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219845.html,2024-04-07
-nokia,c32,smartphone,5.0,64 GB,Charcoal,0.0,0,2.0,129.95,https://www.mediamarkt.ch/de/product/_nokia-c32-2181891.html,2024-04-07
-nokia,g22,smartphone,6.52,64 GB,Lagoon Blue,5.0,1,2.0,153.95,https://www.mediamarkt.ch/de/product/_nokia-g22-2175510.html,2024-04-07
-samsung,galaxy s21 fe 5g,smartphone,6.4,128 GB,Graphite,4.1,27,,567.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s21-fe-5g-2105599.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,256 GB,Red,5.0,2,,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151048.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,128 GB,Blue,5.0,6,,739.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151044.html,2024-04-07
-fairphone,4 5g,smartphone,6.3,128 GB,Grau,4.0,4,7.0,449.95,https://www.mediamarkt.ch/de/product/_fairphone-4-5g-2093552.html,2024-04-07
-samsung,galaxy a54 5g,smartphone,6.4,256 GB,Awesome Graphite,0.0,0,,449.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2176862.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,512 GB,Blue,5.0,2,,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151054.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,128 GB,Red,5.0,3,2.0,737.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151043.html,2024-04-07
-xiaomi,13t pro,smartphone,6.67,512 GB,Meadow Green,3.0,2,7.0,804.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203281.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,256 GB,Cream,3.0,2,4.0,618.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216491.html,2024-04-07
-xiaomi,13t pro,smartphone,6.67,512 GB,Black,3.0,1,,763.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203279.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,128 GB,Graphite,3.0,2,2.0,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216482.html,2024-04-07
-doro,8050 (mit ladestation + handyhülle),smartphone,5.45,16 GB,Schwarz,0.0,0,2.0,229.7,https://www.mediamarkt.ch/de/product/_doro-8050-mit-ladestation-handyh%C3%BClle-1980442.html,2024-04-07
-xiaomi,13t pro,smartphone,6.67,512 GB,Alpine Blue,5.0,1,,804.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203282.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,512 GB,Red,5.0,2,,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151053.html,2024-04-07
-xiaomi,13t,smartphone,6.67,256 GB,Alpine Blue,0.0,0,,580.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-2203285.html,2024-04-07
-xiaomi,13t,smartphone,6.67,256 GB,Meadow Green,4.3,3,7.0,580.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-2203284.html,2024-04-07
-xiaomi,13t pro,smartphone,6.67,1 TB,Black,0.0,0,7.0,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203276.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,128 GB,Purple,3.0,2,2.0,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216484.html,2024-04-07
-one,plus 11 5g,smartphone,6.7,256 GB,Titan Black,5.0,1,2.0,829.0,https://www.mediamarkt.ch/de/product/_one-plus-11-5g-2171795.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,512 GB,Starlight,5.0,2,,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151051.html,2024-04-07
-one,plus 11 5g,smartphone,6.7,128 GB,Titan Black,0.0,0,7.0,792.0,https://www.mediamarkt.ch/de/product/_one-plus-11-5g-2171793.html,2024-04-07
-apple,iphone 14,smartphone,6.1,512 GB,Blue,5.0,1,2.0,931.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151039.html,2024-04-07
-motorola,moto g32,smartphone,6.5,128 GB,Mineral Grey,0.0,0,7.0,174.95,https://www.mediamarkt.ch/de/product/_motorola-moto-g32-2161925.html,2024-04-07
-samsung,galaxy s23 fe,smartphone,6.4,256 GB,Mint,3.0,2,7.0,626.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216488.html,2024-04-07
-apple,iphone 14,smartphone,6.1,512 GB,Purple,0.0,0,,931.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151037.html,2024-04-07
-apple,iphone 14,smartphone,6.1,512 GB,Red,0.0,0,,931.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151038.html,2024-04-07
-samsung,galaxy a25 5g,smartphone,6.5,128 GB,Yellow,4.6,5,2.0,269.95,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a25-5g-2216507.html,2024-04-07
-apple,iphone 14,smartphone,6.1,512 GB,Starlight,0.0,0,,1008.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151036.html,2024-04-07
-apple,iphone 13,smartphone,6.1,512 GB,Starlight,0.0,0,,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091361.html,2024-04-07
-inoi,a62,smartphone,6.1,64 GB,Schwarz,0.0,0,2.0,89.95,https://www.mediamarkt.ch/de/product/_inoi-a62-2190679.html,2024-04-07
-apple,iphone 13,smartphone,6.1,512 GB,Red,5.0,2,,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091364.html,2024-04-07
-apple,iphone 14,smartphone,6.1,256 GB,Starlight,5.0,5,2.0,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151031.html,2024-04-07
-inoi,a63,smartphone,6.5,32 GB,Blau,0.0,0,2.0,96.95,https://www.mediamarkt.ch/de/product/_inoi-a63-2190688.html,2024-04-07
-apple,iphone 13,smartphone,6.1,512 GB,Blue,0.0,0,,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091365.html,2024-04-07
-apple,iphone 14,smartphone,6.1,256 GB,Yellow,5.0,5,,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2176809.html,2024-04-07
-doro,8200 secure,smartphone,6.1,64 GB,Dunkelblau,0.0,0,7.0,358.95,https://www.mediamarkt.ch/de/product/_doro-8200-secure-2198416.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,256 GB,Yellow,5.0,2,,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2176812.html,2024-04-07
-inoi,a83,smartphone,6.52,128 GB,Schwarz,0.0,0,2.0,129.95,https://www.mediamarkt.ch/de/product/_inoi-a83-2190693.html,2024-04-07
-motorola,moto g100,smartphone,6.7,128 GB,Iridescent Ocean,0.0,0,7.0,600.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g100-2076212.html,2024-04-07
-xiaomi,redmi note 11,smartphone,6.43,128 GB,Graphite Grey,4.1,44,,169.7,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-11-2112524.html,2024-04-07
-xiaomi,redmi note 13 4g,smartphone,6.67,256 GB,Ice Blue,0.0,0,6.0,222.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220890.html,2024-04-07
-xiaomi,redmi note 13 pro+ 5g,smartphone,6.67,512 GB,Moonlight White,2.0,1,,446.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220880.html,2024-04-07
-xiaomi,redmi note 13 5g,smartphone,6.67,256 GB,Ocean Teal,4.8,4,7.0,254.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-5g-2220892.html,2024-04-07
-nokia,x30 5g,smartphone,6.43,128 GB,Ice White,3.5,2,7.0,429.95,https://www.mediamarkt.ch/de/product/_nokia-x30-5g-2161084.html,2024-04-07
-xiaomi,13 lite,smartphone,6.55,128 GB,Lite Blue,0.0,0,,446.95,https://www.mediamarkt.ch/de/product/_xiaomi-13-lite-2176850.html,2024-04-07
-nokia,x30 5g,smartphone,6.43,256 GB,Cloudy Blue,0.0,0,7.0,431.95,https://www.mediamarkt.ch/de/product/_nokia-x30-5g-2161082.html,2024-04-07
-motorola,edge 30 ultra,smartphone,6.67,256 GB,Interstellar Black,1.0,1,7.0,839.0,https://www.mediamarkt.ch/de/product/_motorola-edge-30-ultra-2161930.html,2024-04-07
-motorola,edge 30 fusion,smartphone,6.55,128 GB,Quartz Black,0.0,0,7.0,699.0,https://www.mediamarkt.ch/de/product/_motorola-edge-30-fusion-2161928.html,2024-04-07
-peaq,psp 400,smartphone,4.95,32 GB,Schwarz,4.0,25,,139.7,https://www.mediamarkt.ch/de/product/_peaq-psp-400-2059893.html,2024-04-07
-motorola,edge 30,smartphone,6.5,128 GB,Meteor Grey,0.0,0,7.0,509.0,https://www.mediamarkt.ch/de/product/_motorola-edge-30-2161926.html,2024-04-07
-xiaomi,13,smartphone,6.36,256 GB,Weiss,5.0,2,,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-2176848.html,2024-04-07
-motorola,razr 40,smartphone,6.9,256 GB,Vanilla Cream,0.0,0,,736.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-2189430.html,2024-04-07
-nokia,g60 5g,smartphone,6.58,128 GB,Grau,5.0,1,4.0,239.7,https://www.mediamarkt.ch/de/product/_nokia-g60-5g-2161081.html,2024-04-07
-motorola,moto e22i,smartphone,6.5,32 GB,Graphite Grey,0.0,0,7.0,149.95,https://www.mediamarkt.ch/de/product/_motorola-moto-e22i-2161924.html,2024-04-07
-xiaomi,redmi note 13 pro 4g,smartphone,6.67,256 GB,Lavender Purple,0.0,0,7.0,312.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-4g-2220896.html,2024-04-07
-crosscall,core,smartphone,6.08,64 GB,Schwarz,0.0,0,7.0,711.0,https://www.mediamarkt.ch/de/product/_crosscall-core-z5-2162748.html,2024-04-07
-nothing,phone (2),smartphone,6.7,512 GB,Grau,0.0,0,,649.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189934.html,2024-04-07
-motorola,razr 40,smartphone,6.9,256 GB,Sage Green,0.0,0,,736.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-2189431.html,2024-04-07
-motorola,razr 40 ultra,smartphone,6.9,256 GB,Infinite Black,0.0,0,,1004.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-ultra-2189435.html,2024-04-07
-motorola,razr 40 ultra,smartphone,6.9,256 GB,Glacier Blue,0.0,0,,790.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-ultra-2189433.html,2024-04-07
-nothing,phone (2),smartphone,6.7,512 GB,Weiss,5.0,1,,649.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189935.html,2024-04-07
-crosscall,action,smartphone,5.45,64 GB,Schwarz,0.0,0,7.0,511.0,https://www.mediamarkt.ch/de/product/_crosscall-action-x5-2111324.html,2024-04-07
-motorola,razr 40,smartphone,6.9,256 GB,Summer Lilac,0.0,0,,698.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-2189429.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,512 GB,Lavender,0.0,0,,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167377.html,2024-04-07
-motorola,edge 40 neo,smartphone,6.55,256 GB,Caneel Bay,0.0,0,,371.95,https://www.mediamarkt.ch/de/product/_motorola-edge-40-neo-2216176.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,512 GB,Green,0.0,0,,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167376.html,2024-04-07
-xiaomi,redmi 12,smartphone,6.79,256 GB,Polar Silver,0.0,0,,204.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203270.html,2024-04-07
-samsung,galaxy s23+,smartphone,6.6,512 GB,Cream,0.0,0,,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167375.html,2024-04-07
-motorola,edge 40 neo,smartphone,6.55,256 GB,Black Beauty,5.0,18,7.0,371.95,https://www.mediamarkt.ch/de/product/_motorola-edge-40-neo-2216174.html,2024-04-07
-motorola,edge 40 neo,smartphone,6.55,256 GB,Soothing Sea,4.7,7,7.0,371.95,https://www.mediamarkt.ch/de/product/_motorola-edge-40-neo-2216175.html,2024-04-07
-samsung,galaxy s24,smartphone,6.2,256 GB,Marble Grey,4.4,274,2.0,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220724.html,2024-04-07
-xiaomi,redmi 12,smartphone,6.79,128 GB,Polar Silver,4.9,7,,178.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203273.html,2024-04-07
-xiaomi,redmi 12,smartphone,6.79,128 GB,Sky Blue,4.3,15,7.0,178.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203275.html,2024-04-07
-apple,iphone 13,smartphone,6.1,512 GB,Green,0.0,0,,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2118879.html,2024-04-07
-apple,iphone 12,smartphone,6.1,128 GB,Green,4.8,4,7.0,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028661.html,2024-04-07
-apple,iphone 15 pro max,smartphone,6.7,1 TB,Blue Titanium,5.0,1,,1579.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203441.html,2024-04-07
-oppo,reno8 lite 5g,smartphone,6.43,128 GB,Rainbow Spectrum,5.0,2,,179.7,https://www.mediamarkt.ch/de/product/_oppo-reno8-lite-5g-2131454.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,512 GB,Blue,0.0,0,2.0,1149.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203401.html,2024-04-07
-apple,iphone 12,smartphone,6.1,128 GB,Black,3.3,8,2.0,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028653.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,512 GB,Yellow,0.0,0,2.0,1130.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203400.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,512 GB,Green,0.0,0,2.0,1149.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203402.html,2024-04-07
-apple,iphone 12,smartphone,6.1,64 GB,Green,4.8,4,2.0,479.95,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028652.html,2024-04-07
-xiaomi,redmi note 11 pro 4g,smartphone,6.67,128 GB,Graphite Grey,4.5,8,,339.7,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-11-pro-4g-2122548.html,2024-04-07
-xiaomi,black shark 2 pro,smartphone,6.39,128 GB,Iceberg Grey,0.0,0,7.0,598.0,https://www.mediamarkt.ch/de/product/_xiaomi-black-shark-2-pro-1971824.html,2024-04-07
-apple,iphone se (2022),smartphone,4.7,64 GB,Starlight,5.0,6,6.0,383.95,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118898.html,2024-04-07
-apple,iphone 15,smartphone,6.1,512 GB,Yellow,0.0,0,2.0,1049.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203384.html,2024-04-07
-apple,iphone 15,smartphone,6.1,512 GB,Pink,0.0,0,2.0,1039.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203383.html,2024-04-07
-apple,iphone 15,smartphone,6.1,512 GB,Blue,5.0,2,2.0,1049.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203386.html,2024-04-07
-apple,iphone 15,smartphone,6.1,512 GB,Green,0.0,0,2.0,1049.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203387.html,2024-04-07
-apple,iphone 14,smartphone,6.1,128 GB,Red,4.8,16,2.0,621.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151028.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,128 GB,Yellow,0.0,0,4.0,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203390.html,2024-04-07
-samsung,galaxy s21 fe 5g,smartphone,6.4,128 GB,Olive,3.7,6,,707.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s21-fe-5g-2105601.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,256 GB,Pink,5.0,2,,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203394.html,2024-04-07
-xiaomi,redmi note 12 pro 4g,smartphone,6.67,256 GB,Glacier Blue,0.0,0,,383.95,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-pro-4g-2195958.html,2024-04-07
-xiaomi,poco m5s,smartphone,6.43,64 GB,Blau,0.0,0,7.0,191.95,https://www.mediamarkt.ch/de/product/_xiaomi-poco-m5s-2152694.html,2024-04-07
-xiaomi,poco m5s,smartphone,6.43,64 GB,Weiss,0.0,0,7.0,206.95,https://www.mediamarkt.ch/de/product/_xiaomi-poco-m5s-2152695.html,2024-04-07
-xiaomi,redmi 10,smartphone,6.5,128 GB,Carbon Grey,3.4,10,2.0,149.7,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-10-2141006.html,2024-04-07
-xiaomi,13 pro,smartphone,6.73,256 GB,Ceramic Black,5.0,2,,1161.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-pro-2175507.html,2024-04-07
-fairphone,4 5g,smartphone,6.3,256 GB,Grau,0.0,0,2.0,515.0,https://www.mediamarkt.ch/de/product/_fairphone-4-5g-2093553.html,2024-04-07
-xiaomi,13,smartphone,6.36,256 GB,Schwarz,4.2,6,,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-2175508.html,2024-04-07
-apple,iphone 15 plus,smartphone,6.7,512 GB,Pink,0.0,0,,1173.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203399.html,2024-04-07
-xiaomi,redmi note 12 pro 5g,smartphone,6.67,128 GB,Midnight Black,0.0,0,,239.7,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-pro-5g-2176856.html,2024-04-07
-apple,iphone 14 pro,smartphone,6.1,256 GB,Deep Purple,4.7,19,,797.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-pro-2151062.html,2024-04-07
-apple,iphone 15 pro,smartphone,6.1,1 TB,Blue Titanium,4.7,3,2.0,1485.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203423.html,2024-04-07
-apple,iphone 12,smartphone,6.1,64 GB,White,4.4,11,4.0,479.95,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028626.html,2024-04-07
-apple,iphone 14 plus,smartphone,6.7,256 GB,Blue,5.0,2,,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151049.html,2024-04-07
-xiaomi,redmi note 12 4g,smartphone,6.67,128 GB,Onyx Gray,0.0,0,,159.7,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-4g-2176859.html,2024-04-07
+page,brand,model,category,size,storage,color,price,source,condition,date,article_number,n_of_reviews,rating,delivery_time
+1,apple,iphone 15,Smartphone,6.1,128,black,716.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203371.html,new,2024-04-07,2203371.0,25,4.8,2.0
+1,apple,iphone 15 pro max,Smartphone,6.7,256,black,1129.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203426.html,new,2024-04-07,2203426.0,13,4.9,2.0
+1,apple,iphone 14,Smartphone,6.1,128,unknown,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151025.html,new,2024-04-07,2151025.0,12,4.8,2.0
+1,apple,iphone 15 pro,Smartphone,6.1,256,black,1040.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203408.html,new,2024-04-07,2203408.0,14,4.9,2.0
+1,apple,iphone 15 pro max,Smartphone,6.7,256,titanium,1125.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203429.html,new,2024-04-07,2203429.0,32,4.6,2.0
+1,apple,iphone 15,Smartphone,6.1,128,blue,728.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203374.html,new,2024-04-07,2203374.0,8,5.0,2.0
+1,apple,iphone 11 (2020),Smartphone,6.1,64,black,349.0,https://www.mediamarkt.ch/de/product/_apple-iphone-11-2020-2028715.html,new,2024-04-07,2028715.0,67,4.7,4.0
+1,apple,iphone 14,Smartphone,6.1,128,purple,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151027.html,new,2024-04-07,2151027.0,12,4.8,2.0
+1,apple,iphone 15,Smartphone,6.1,256,black,816.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203376.html,new,2024-04-07,2203376.0,4,5.0,2.0
+1,xiaomi,redmi a2,Smartphone,6.52,32,schwarz,84.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178004.html,new,2024-04-07,2178004.0,10,4.1,2.0
+1,apple,iphone 13,Smartphone,6.1,128,unknown,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091429.html,new,2024-04-07,2091429.0,34,4.7,6.0
+1,xiaomi,redmi 13c,Smartphone,6.74,128,black,118.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219843.html,new,2024-04-07,2219843.0,3,4.7,2.0
+1,apple,iphone 15,Smartphone,6.1,128,yellow,711.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203373.html,new,2024-04-07,2203373.0,0,0.0,
+1,apple,iphone 11 (2020),Smartphone,6.1,128,black,399.0,https://www.mediamarkt.ch/de/product/_apple-iphone-11-2020-2028727.html,new,2024-04-07,2028727.0,50,4.5,4.0
+1,apple,iphone 15 pro,Smartphone,6.1,256,white,1031.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203409.html,new,2024-04-07,2203409.0,1,5.0,2.0
+1,apple,iphone 15 pro,Smartphone,6.1,256,blue,1047.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203411.html,new,2024-04-07,2203411.0,11,4.8,2.0
+1,apple,iphone 14,Smartphone,6.1,128,unknown,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151026.html,new,2024-04-07,2151026.0,24,4.9,2.0
+1,samsung,galaxy a15 4g,Smartphone,6.5,128,blue,179.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a15-4g-2221377.html,new,2024-04-07,2221377.0,0,0.0,4.0
+1,apple,iphone 15 pro,Smartphone,6.1,128,titanium,939.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203405.html,new,2024-04-07,2203405.0,11,4.3,2.0
+1,apple,iphone 15 pro max,Smartphone,6.7,256,white,1137.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203427.html,new,2024-04-07,2203427.0,9,4.8,2.0
+1,apple,iphone se,Smartphone,4.7,128,unknown,430.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2118902.html,new,2024-04-07,2118902.0,9,4.4,4.0
+1,apple,iphone 15 pro,Smartphone,6.1,256,titanium,1047.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203410.html,new,2024-04-07,2203410.0,17,4.0,2.0
+1,apple,iphone 15,Smartphone,6.1,256,blue,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203380.html,new,2024-04-07,2203380.0,1,5.0,2.0
+1,apple,iphone 15,Smartphone,6.1,256,yellow,816.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203379.html,new,2024-04-07,2203379.0,0,0.0,2.0
+2,samsung,galaxy a15 4g,Smartphone,6.5,128,black,169.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a15-4g-2221378.html,new,2024-04-07,2221378.0,0,0.0,4.0
+2,apple,iphone 15,Smartphone,6.1,128,pink,719.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203372.html,new,2024-04-07,2203372.0,7,4.4,2.0
+2,samsung,galaxy a55 5g,Smartphone,6.6,256,unknown,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237092.html,new,2024-04-07,2237092.0,1,5.0,6.0
+2,samsung,galaxy s23+,Smartphone,6.6,256,black,729.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167374.html,new,2024-04-07,2167374.0,155,4.6,6.0
+2,nothing,phone (2a),Smartphone,6.7,128,weiss,329.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223932.html,new,2024-04-07,2223932.0,0,0.0,
+2,samsung,galaxy s23,Smartphone,6.1,128,black,598.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167353.html,new,2024-04-07,2167353.0,271,4.4,6.0
+2,nothing,phone (2a),Smartphone,6.7,256,schwarz,379.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223927.html,new,2024-04-07,2223927.0,1,5.0,
+2,samsung,galaxy a55 5g,Smartphone,6.6,256,unknown,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237090.html,new,2024-04-07,2237090.0,0,0.0,7.0
+2,samsung,galaxy z flip5,Smartphone,6.7,512,unknown,844.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193034.html,new,2024-04-07,2193034.0,57,4.5,6.0
+2,xiaomi,redmi note 13 5g,Smartphone,6.67,256,black,254.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-5g-2220891.html,new,2024-04-07,2220891.0,7,4.9,6.0
+2,apple,iphone se (2022),Smartphone,4.7,64,unknown,383.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118897.html,new,2024-04-07,2118897.0,8,4.5,2.0
+2,samsung,galaxy a54 5g,Smartphone,6.4,128,unknown,299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2173979.html,new,2024-04-07,2173979.0,310,4.4,2.0
+2,apple,iphone 13,Smartphone,6.1,128,blue,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091439.html,new,2024-04-07,2091439.0,3,4.7,
+2,nothing,phone (2a),Smartphone,6.7,128,schwarz,329.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223930.html,new,2024-04-07,2223930.0,0,0.0,
+2,xiaomi,redmi note 13 pro+ 5g,Smartphone,6.67,512,black,413.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220879.html,new,2024-04-07,2220879.0,4,5.0,2.0
+2,apple,iphone 15 pro,Smartphone,6.1,128,black,932.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203403.html,new,2024-04-07,2203403.0,28,4.9,2.0
+2,nothing,phone (2a),Smartphone,6.7,256,weiss,379.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2a-2223929.html,new,2024-04-07,2223929.0,1,5.0,
+2,apple,iphone 15,Smartphone,6.1,128,green,719.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203375.html,new,2024-04-07,2203375.0,3,5.0,2.0
+2,apple,iphone 13,Smartphone,6.1,128,green,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2118876.html,new,2024-04-07,2118876.0,0,0.0,2.0
+2,apple,iphone 15 pro,Smartphone,6.1,128,white,948.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203404.html,new,2024-04-07,2203404.0,10,4.9,2.0
+2,apple,iphone 15 pro max,Smartphone,6.7,256,blue,1145.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203430.html,new,2024-04-07,2203430.0,15,4.9,2.0
+2,apple,iphone 15 pro max,Smartphone,6.7,512,titanium,1361.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203433.html,new,2024-04-07,2203433.0,6,5.0,
+2,apple,iphone 14,Smartphone,6.1,128,blue,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151029.html,new,2024-04-07,2151029.0,12,4.8,2.0
+2,apple,iphone 13,Smartphone,6.1,128,pink,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091433.html,new,2024-04-07,2091433.0,2,5.0,
+3,samsung,galaxy a55 5g,Smartphone,6.6,128,unknown,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237050.html,new,2024-04-07,2237050.0,0,0.0,4.0
+3,xiaomi,redmi 9a,Smartphone,6.53,32,unknown,79.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-9a-2012628.html,new,2024-04-07,2012628.0,17,4.2,4.0
+3,apple,iphone 13,Smartphone,6.1,256,unknown,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091353.html,new,2024-04-07,2091353.0,6,4.8,4.0
+3,apple,iphone 15 pro max,Smartphone,6.7,512,black,1375.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203431.html,new,2024-04-07,2203431.0,5,5.0,7.0
+3,apple,iphone 15 pro max,Smartphone,6.7,512,white,1329.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203432.html,new,2024-04-07,2203432.0,0,0.0,
+3,samsung,galaxy s23,Smartphone,6.1,256,green,694.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167361.html,new,2024-04-07,2167361.0,273,4.4,2.0
+3,samsung,galaxy a55 5g,Smartphone,6.6,256,blue,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237093.html,new,2024-04-07,2237093.0,0,0.0,6.0
+3,samsung,galaxy z flip5,Smartphone,6.7,512,unknown,1118.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193033.html,new,2024-04-07,2193033.0,56,4.6,7.0
+3,samsung,galaxy a34 5g,Smartphone,6.6,128,unknown,320.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a34-5g-2173976.html,new,2024-04-07,,0,0.0,
+3,xiaomi,redmi note 13 5g,Smartphone,6.67,256,white,254.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-5g-2220893.html,new,2024-04-07,2220893.0,1,5.0,7.0
+3,apple,iphone 15,Smartphone,6.1,256,green,819.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203381.html,new,2024-04-07,2203381.0,1,5.0,2.0
+3,apple,iphone 14 plus,Smartphone,6.7,128,unknown,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151041.html,new,2024-04-07,2151041.0,5,5.0,7.0
+3,apple,iphone 14,Smartphone,6.1,256,blue,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151034.html,new,2024-04-07,2151034.0,7,5.0,2.0
+3,nothing,phone (2),Smartphone,6.7,256,unknown,549.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189932.html,new,2024-04-07,2189932.0,3,4.3,2.0
+3,apple,iphone 15 pro,Smartphone,6.1,128,blue,920.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203407.html,new,2024-04-07,2203407.0,18,4.9,2.0
+3,apple,iphone 15 pro,Smartphone,6.1,512,white,1232.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203414.html,new,2024-04-07,2203414.0,0,0.0,
+3,samsung,galaxy s24+,Smartphone,6.7,256,black,915.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220719.html,new,2024-04-07,2220719.0,184,4.5,
+3,samsung,galaxy s24 ultra,Smartphone,6.8,512,black,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220733.html,new,2024-04-07,2220733.0,787,4.7,6.0
+3,samsung,galaxy a55 5g,Smartphone,6.6,256,unknown,479.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237094.html,new,2024-04-07,2237094.0,0,0.0,6.0
+3,samsung,galaxy s24 ultra,Smartphone,6.8,256,black,1299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220737.html,new,2024-04-07,2220737.0,787,4.7,6.0
+3,samsung,galaxy s23 ultra,Smartphone,6.8,256,black,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167385.html,new,2024-04-07,2167385.0,607,4.6,
+3,xiaomi,redmi 13c,Smartphone,6.74,128,green,133.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219844.html,new,2024-04-07,2219844.0,1,4.0,7.0
+3,samsung,galaxy a54 5g,Smartphone,6.4,128,unknown,299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2173981.html,new,2024-04-07,,0,0.0,
+3,samsung,galaxy a25 5g,Smartphone,6.5,128,black,259.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a25-5g-2216505.html,new,2024-04-07,2216505.0,5,4.6,2.0
+4,nothing,phone (2),Smartphone,6.7,256,weiss,549.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189933.html,new,2024-04-07,2189933.0,1,5.0,4.0
+4,xiaomi,redmi note 13 4g,Smartphone,6.67,128,black,179.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220885.html,new,2024-04-07,2220885.0,7,3.7,2.0
+4,apple,iphone 15 plus,Smartphone,6.7,128,black,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203388.html,new,2024-04-07,2203388.0,4,3.3,2.0
+4,apple,iphone 15 pro,Smartphone,6.1,512,blue,1236.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203417.html,new,2024-04-07,2203417.0,4,4.8,
+4,apple,iphone 12,Smartphone,6.1,64,black,479.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028624.html,new,2024-04-07,2028624.0,19,4.5,2.0
+4,samsung,galaxy a55 5g,Smartphone,6.6,128,blue,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237049.html,new,2024-04-07,2237049.0,0,0.0,10.0
+4,xiaomi,redmi 13c,Smartphone,6.74,256,black,152.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219846.html,new,2024-04-07,2219846.0,0,0.0,2.0
+4,apple,iphone 14 plus,Smartphone,6.7,256,unknown,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151046.html,new,2024-04-07,2151046.0,3,5.0,7.0
+4,xiaomi,redmi a2,Smartphone,6.52,32,unknown,88.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178002.html,new,2024-04-07,2178002.0,10,4.5,
+4,motorola,moto g13,Smartphone,6.5,128,unknown,129.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g13-2180586.html,new,2024-04-07,2180586.0,15,5.0,4.0
+4,apple,iphone 14,Smartphone,6.1,256,unknown,743.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151030.html,new,2024-04-07,2151030.0,5,5.0,2.0
+4,xiaomi,redmi note 13 pro+ 5g,Smartphone,6.67,256,black,381.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220882.html,new,2024-04-07,2220882.0,0,0.0,2.0
+4,xiaomi,redmi note 13 4g,Smartphone,6.67,128,green,169.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220886.html,new,2024-04-07,2220886.0,3,4.7,7.0
+4,motorola,moto g54 5g,Smartphone,6.5,256,blue,172.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g54-5g-2216177.html,new,2024-04-07,2216177.0,21,4.9,2.0
+4,google,pixel 8 pro,Smartphone,6.7,128,unknown,921.0,https://www.mediamarkt.ch/de/product/_google-pixel-8-pro-2214719.html,new,2024-04-07,2214719.0,11,4.5,
+4,samsung,xcover6 pro enterprise edition,Smartphone,6.6,128,schwarz,419.0,https://www.mediamarkt.ch/de/product/_samsung-xcover6-pro-enterprise-edition-2140676.html,new,2024-04-07,2140676.0,2,3.0,
+4,samsung,galaxy s24 ultra,Smartphone,6.8,512,titanium,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220735.html,new,2024-04-07,2220735.0,786,4.7,2.0
+4,samsung,galaxy s23 ultra,Smartphone,6.8,512,green,987.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167389.html,new,2024-04-07,2167389.0,613,4.6,2.0
+4,samsung,galaxy a55 5g,Smartphone,6.6,128,unknown,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237051.html,new,2024-04-07,2237051.0,0,0.0,2.0
+4,samsung,galaxy a35 5g,Smartphone,6.6,128,unknown,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237047.html,new,2024-04-07,2237047.0,0,0.0,4.0
+4,samsung,galaxy a54 5g,Smartphone,6.4,256,unknown,439.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2177750.html,new,2024-04-07,2177750.0,309,4.4,4.0
+4,samsung,galaxy a35 5g,Smartphone,6.6,128,unknown,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237046.html,new,2024-04-07,2237046.0,0,0.0,4.0
+4,xiaomi,14 + electric scooter 4 lite swiss edition bundle,Smartphone,6.36,512,green,1099.0,https://www.mediamarkt.ch/de/product/_xiaomi-14-electric-scooter-4-lite-swiss-edition-bundle-2238859.html,new,2024-04-07,2238859.0,0,0.0,7.0
+5,fairphone,5 5g,Smartphone,6.46,256,unknown,595.0,https://www.mediamarkt.ch/de/product/_fairphone-5-5g-2195008.html,new,2024-04-07,2195008.0,4,4.8,2.0
+5,apple,iphone 15 pro max,Smartphone,6.7,1000 GB,white,1546.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203439.html,new,2024-04-07,2203439.0,2,5.0,
+5,samsung,galaxy xcover 5 enterprise edition,Smartphone,5.3,64,schwarz,206.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-xcover-5-enterprise-edition-2060202.html,new,2024-04-07,2060202.0,18,3.3,4.0
+5,samsung,galaxy s23+,Smartphone,6.6,256,green,779.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167371.html,new,2024-04-07,2167371.0,154,4.6,2.0
+5,samsung,galaxy s23+,Smartphone,6.6,256,unknown,869.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167370.html,new,2024-04-07,2167370.0,154,4.6,2.0
+5,apple,iphone se (2022),Smartphone,4.7,64,red,383.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118899.html,new,2024-04-07,2118899.0,3,5.0,6.0
+5,apple,iphone 13,Smartphone,6.1,256,green,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2118878.html,new,2024-04-07,2118878.0,1,5.0,4.0
+5,apple,iphone 15 pro,Smartphone,6.1,512,black,1244.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203413.html,new,2024-04-07,2203413.0,4,4.3,7.0
+5,samsung,galaxy s23,Smartphone,6.1,256,black,661.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167365.html,new,2024-04-07,2167365.0,273,4.4,2.0
+5,samsung,galaxy s24,Smartphone,6.2,128,unknown,708.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220729.html,new,2024-04-07,2220729.0,274,4.4,2.0
+5,samsung,galaxy s23,Smartphone,6.1,128,green,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167347.html,new,2024-04-07,2167347.0,270,4.4,2.0
+5,samsung,galaxy s24 ultra,Smartphone,6.8,512,yellow,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220736.html,new,2024-04-07,2220736.0,786,4.7,7.0
+5,samsung,galaxy s24 ultra,Smartphone,6.8,512,titanium,1399.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220734.html,new,2024-04-07,2220734.0,786,4.7,
+5,samsung,galaxy s24+,Smartphone,6.7,512,black,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220715.html,new,2024-04-07,2220715.0,185,4.4,6.0
+5,samsung,galaxy s24 ultra,Smartphone,6.8,1000 GB,titanium,1599.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220714.html,new,2024-04-07,2220714.0,786,4.7,
+5,samsung,galaxy s24+,Smartphone,6.7,512,unknown,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220716.html,new,2024-04-07,2220716.0,184,4.5,2.0
+5,samsung,galaxy a35 5g,Smartphone,6.6,128,blue,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237045.html,new,2024-04-07,2237045.0,0,0.0,4.0
+5,samsung,galaxy s24 ultra,Smartphone,6.8,256,yellow,1169.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220740.html,new,2024-04-07,2220740.0,786,4.7,2.0
+5,samsung,galaxy s24+,Smartphone,6.7,512,unknown,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220717.html,new,2024-04-07,2220717.0,184,4.5,7.0
+5,samsung,galaxy s24+,Smartphone,6.7,256,unknown,949.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220721.html,new,2024-04-07,2220721.0,184,4.5,7.0
+5,samsung,galaxy a15 4g,Smartphone,6.5,128,yellow,169.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a15-4g-2221379.html,new,2024-04-07,2221379.0,0,0.0,4.0
+5,apple,iphone 14 plus,Smartphone,6.7,256,purple,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151047.html,new,2024-04-07,2151047.0,2,5.0,
+5,apple,iphone 15 pro max,Smartphone,6.7,1000 GB,black,1556.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203435.html,new,2024-04-07,2203435.0,0,0.0,
+5,apple,iphone 13,Smartphone,6.1,256,blue,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091358.html,new,2024-04-07,2091358.0,11,5.0,
+6,apple,iphone 14,Smartphone,6.1,128,yellow,619.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2176808.html,new,2024-04-07,2176808.0,13,4.8,
+6,inoi,note 13s,Smartphone,6.95,256,unknown,158.0,https://www.mediamarkt.ch/de/product/_inoi-note-13s-2190696.html,new,2024-04-07,2190696.0,0,0.0,2.0
+6,samsung,galaxy s24,Smartphone,6.2,256,black,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220723.html,new,2024-04-07,2220723.0,274,4.4,4.0
+6,xiaomi,redmi 12,Smartphone,6.79,128,black,144.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203274.html,new,2024-04-07,2203274.0,22,4.0,2.0
+6,apple,iphone 15 pro max,Smartphone,6.7,1000 GB,titanium,1563.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203440.html,new,2024-04-07,2203440.0,0,0.0,2.0
+6,apple,iphone se,Smartphone,4.7,128,unknown,430.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2118903.html,new,2024-04-07,2118903.0,0,0.0,
+6,apple,iphone 12,Smartphone,6.1,64,purple,479.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2066506.html,new,2024-04-07,2066506.0,5,5.0,6.0
+6,apple,iphone 15 plus,Smartphone,6.7,256,black,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203393.html,new,2024-04-07,2203393.0,1,5.0,
+6,samsung,galaxy s23,Smartphone,6.1,256,unknown,694.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167363.html,new,2024-04-07,2167363.0,272,4.4,6.0
+6,emporia,supereasy,Smartphone,,,schwarz,209.0,https://www.mediamarkt.ch/de/product/_emporia-supereasy-2127635.html,new,2024-04-07,2127635.0,0,0.0,2.0
+6,samsung,galaxy s24 ultra,Smartphone,6.8,256,titanium,1299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220738.html,new,2024-04-07,2220738.0,786,4.7,7.0
+6,samsung,galaxy a54 5g,Smartphone,6.4,256,white,439.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2177748.html,new,2024-04-07,2177748.0,308,4.4,2.0
+6,samsung,galaxy a35 5g,Smartphone,6.6,256,unknown,419.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242305.html,new,2024-04-07,2242305.0,1,5.0,10.0
+6,samsung,galaxy z fold5,Smartphone,7.6,512,blue,1778.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193025.html,new,2024-04-07,2193025.0,49,4.3,10.0
+6,xiaomi,redmi note 13 4g,Smartphone,6.67,256,black,222.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220888.html,new,2024-04-07,2220888.0,0,0.0,6.0
+6,one,plus nord ce 3 lite 5g,Smartphone,6.72,128,gray,313.0,https://www.mediamarkt.ch/de/product/_one-plus-nord-ce-3-lite-5g-2180208.html,new,2024-04-07,2180208.0,0,0.0,2.0
+6,xiaomi,redmi 13c,Smartphone,6.74,128,blue,133.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219839.html,new,2024-04-07,2219839.0,3,5.0,
+6,xiaomi,redmi 13c,Smartphone,6.74,256,green,152.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219847.html,new,2024-04-07,2219847.0,0,0.0,7.0
+6,emporia,touchsmart.2,Smartphone,,,schwarz,118.0,https://www.mediamarkt.ch/de/product/_emporia-touchsmart-2-2110132.html,new,2024-04-07,2110132.0,7,2.6,2.0
+6,samsung,galaxy a34 5g,Smartphone,6.6,256,silver,369.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a34-5g-2176866.html,new,2024-04-07,2176866.0,210,4.3,2.0
+6,apple,iphone 14 plus,Smartphone,6.7,128,purple,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151042.html,new,2024-04-07,2151042.0,6,5.0,2.0
+6,xiaomi,13t,Smartphone,6.67,256,black,551.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-2203283.html,new,2024-04-07,2203283.0,8,4.5,7.0
+6,samsung,galaxy s23 fe,Smartphone,6.4,256,unknown,620.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216487.html,new,2024-04-07,2216487.0,2,3.0,2.0
+6,apple,iphone 14 plus,Smartphone,6.7,512,unknown,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151050.html,new,2024-04-07,2151050.0,3,3.7,
+7,motorola,moto e13,Smartphone,6.5,64,black,99.0,https://www.mediamarkt.ch/de/product/_motorola-moto-e13-2180587.html,new,2024-04-07,2180587.0,1,1.0,4.0
+7,apple,iphone 14,Smartphone,6.1,256,red,739.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151033.html,new,2024-04-07,2151033.0,5,5.0,2.0
+7,apple,iphone 14 plus,Smartphone,6.7,128,yellow,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2176811.html,new,2024-04-07,2176811.0,4,5.0,
+7,xiaomi,redmi note 13 pro 4g,Smartphone,6.67,256,black,296.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-4g-2220894.html,new,2024-04-07,2220894.0,1,5.0,
+7,xiaomi,redmi note 13 pro 5g,Smartphone,6.67,256,unknown,356.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220898.html,new,2024-04-07,2220898.0,6,4.7,
+7,xiaomi,redmi note 13 pro 5g,Smartphone,6.67,256,black,349.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220897.html,new,2024-04-07,2220897.0,5,4.0,2.0
+7,xiaomi,redmi note 13 pro+ 5g,Smartphone,6.67,256,purple,399.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220884.html,new,2024-04-07,2220884.0,0,0.0,6.0
+7,samsung,galaxy s24,Smartphone,6.2,256,yellow,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220726.html,new,2024-04-07,2220726.0,274,4.4,2.0
+7,samsung,galaxy s24,Smartphone,6.2,128,black,704.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220727.html,new,2024-04-07,2220727.0,274,4.4,
+7,apple,iphone se (2022),Smartphone,4.7,256,unknown,579.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118906.html,new,2024-04-07,2118906.0,2,5.0,
+7,apple,iphone se,Smartphone,4.7,128,red,430.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2118904.html,new,2024-04-07,2118904.0,1,5.0,
+7,apple,iphone 15 pro,Smartphone,6.1,1000 GB,black,1448.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203418.html,new,2024-04-07,2203418.0,1,5.0,
+7,apple,iphone 15 plus,Smartphone,6.7,128,blue,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203391.html,new,2024-04-07,2203391.0,6,5.0,
+7,apple,iphone 15 plus,Smartphone,6.7,256,yellow,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203395.html,new,2024-04-07,2203395.0,0,0.0,4.0
+7,motorola,moto g30,Smartphone,6.5,128,unknown,224.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g30-2076214.html,new,2024-04-07,2076214.0,0,0.0,7.0
+7,samsung,galaxy s23,Smartphone,6.1,256,unknown,699.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167357.html,new,2024-04-07,2167357.0,270,4.4,2.0
+7,samsung,galaxy s24+,Smartphone,6.7,512,yellow,1149.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220718.html,new,2024-04-07,2220718.0,184,4.5,
+7,samsung,galaxy s24,Smartphone,6.2,128,yellow,749.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220730.html,new,2024-04-07,2220730.0,274,4.4,2.0
+7,samsung,galaxy s24 ultra,Smartphone,6.8,256,titanium,1169.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220739.html,new,2024-04-07,2220739.0,786,4.7,6.0
+7,samsung,galaxy a55 5g,Smartphone,6.6,128,unknown,429.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a55-5g-2237052.html,new,2024-04-07,2237052.0,0,0.0,4.0
+7,samsung,galaxy s23,Smartphone,6.1,128,unknown,629.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167340.html,new,2024-04-07,,0,0.0,
+7,xiaomi,redmi 12c,Smartphone,6.71,64,green,144.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12c-2178005.html,new,2024-04-07,,0,0.0,
+7,samsung,galaxy s23 ultra,Smartphone,6.8,256,green,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167382.html,new,2024-04-07,2167382.0,605,4.6,2.0
+7,samsung,galaxy s23 ultra,Smartphone,6.8,256,unknown,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167380.html,new,2024-04-07,2167380.0,605,4.6,2.0
+8,samsung,galaxy a35 5g,Smartphone,6.6,256,blue,419.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242300.html,new,2024-04-07,2242300.0,1,5.0,
+8,samsung,galaxy s23+,Smartphone,6.6,512,black,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167378.html,new,2024-04-07,,0,0.0,
+8,samsung,galaxy a35 5g,Smartphone,6.6,256,unknown,419.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242333.html,new,2024-04-07,2242333.0,0,0.0,10.0
+8,samsung,galaxy z fold5,Smartphone,7.6,256,blue,1590.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193040.html,new,2024-04-07,,0,0.0,
+8,samsung,galaxy z flip5,Smartphone,6.7,256,unknown,1011.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193032.html,new,2024-04-07,2193032.0,55,4.5,7.0
+8,xiaomi,14 + electric scooter 4 lite swiss edition bundle,Smartphone,6.36,512,black,1099.0,https://www.mediamarkt.ch/de/product/_xiaomi-14-electric-scooter-4-lite-swiss-edition-bundle-2238856.html,new,2024-04-07,2238856.0,0,0.0,2.0
+8,samsung,galaxy z flip5,Smartphone,6.7,512,unknown,1018.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193036.html,new,2024-04-07,2193036.0,57,4.6,2.0
+8,samsung,galaxy z fold5,Smartphone,7.6,512,black,1710.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193041.html,new,2024-04-07,,0,0.0,
+8,samsung,galaxy a54 5g,Smartphone,6.4,128,unknown,299.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2173982.html,new,2024-04-07,,0,0.0,
+8,nokia,g22,Smartphone,6.52,64,unknown,154.0,https://www.mediamarkt.ch/de/product/_nokia-g22-2175509.html,new,2024-04-07,2175509.0,0,0.0,2.0
+8,apple,iphone 14 plus,Smartphone,6.7,256,unknown,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151045.html,new,2024-04-07,2151045.0,5,5.0,7.0
+8,xiaomi,13t pro,Smartphone,6.67,1000 GB,blue,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203278.html,new,2024-04-07,2203278.0,0,0.0,
+8,xiaomi,redmi a2,Smartphone,6.52,32,unknown,88.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-a2-2178003.html,new,2024-04-07,2178003.0,6,4.2,
+8,samsung,galaxy a25 5g,Smartphone,6.5,128,blue,269.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a25-5g-2216496.html,new,2024-04-07,2216496.0,5,4.6,2.0
+8,apple,iphone 14 plus,Smartphone,6.7,512,purple,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151052.html,new,2024-04-07,2151052.0,2,5.0,7.0
+8,samsung,galaxy s23 fe,Smartphone,6.4,128,unknown,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216485.html,new,2024-04-07,2216485.0,2,3.0,2.0
+8,samsung,galaxy s23 fe,Smartphone,6.4,128,unknown,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216483.html,new,2024-04-07,2216483.0,2,3.0,2.0
+8,apple,iphone 14 plus,Smartphone,6.7,128,unknown,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151040.html,new,2024-04-07,2151040.0,5,4.8,2.0
+8,samsung,galaxy s23 fe,Smartphone,6.4,256,purple,629.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216489.html,new,2024-04-07,2216489.0,3,3.7,4.0
+8,ruggear,rg360,Smartphone,,8,schwarz,122.0,https://www.mediamarkt.ch/de/product/_ruggear-rg360-2053578.html,new,2024-04-07,2053578.0,0,0.0,7.0
+8,apple,iphone 14,Smartphone,6.1,512,unknown,980.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151035.html,new,2024-04-07,2151035.0,0,0.0,2.0
+8,inoi,a72,Smartphone,6.5,64,unknown,119.0,https://www.mediamarkt.ch/de/product/_inoi-a72-2190692.html,new,2024-04-07,2190692.0,0,0.0,
+8,inoi,a72,Smartphone,6.5,64,unknown,115.0,https://www.mediamarkt.ch/de/product/_inoi-a72-2190691.html,new,2024-04-07,2190691.0,0,0.0,7.0
+9,doro,8200 plus,Smartphone,6.1,64,unknown,283.0,https://www.mediamarkt.ch/de/product/_doro-8200-plus-2198411.html,new,2024-04-07,2198411.0,0,0.0,7.0
+9,doro,8200,Smartphone,6.1,64,unknown,294.0,https://www.mediamarkt.ch/de/product/_doro-8200-2198408.html,new,2024-04-07,2198408.0,0,0.0,7.0
+9,inoi,a63,Smartphone,6.5,32,schwarz,96.0,https://www.mediamarkt.ch/de/product/_inoi-a63-2190687.html,new,2024-04-07,2190687.0,1,5.0,7.0
+9,apple,iphone 13,Smartphone,6.1,256,pink,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091355.html,new,2024-04-07,2091355.0,0,0.0,
+9,apple,iphone 13,Smartphone,6.1,256,red,625.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091356.html,new,2024-04-07,2091356.0,0,0.0,
+9,apple,iphone 13,Smartphone,6.1,256,unknown,629.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091349.html,new,2024-04-07,2091349.0,14,4.9,4.0
+9,xiaomi,redmi note 13 pro+ 5g,Smartphone,6.67,512,purple,424.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220881.html,new,2024-04-07,2220881.0,2,4.0,2.0
+9,xiaomi,redmi note 13 pro 4g,Smartphone,6.67,256,green,312.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-4g-2220895.html,new,2024-04-07,2220895.0,1,5.0,7.0
+9,apple,iphone 12,Smartphone,6.1,128,purple,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2066507.html,new,2024-04-07,2066507.0,8,4.8,
+9,xiaomi,redmi note 13 pro+ 5g,Smartphone,6.67,256,white,399.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220883.html,new,2024-04-07,2220883.0,0,0.0,7.0
+9,xiaomi,redmi note 13 pro 5g,Smartphone,6.67,256,purple,342.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220899.html,new,2024-04-07,2220899.0,0,0.0,2.0
+9,motorola,razr 40 ultra,Smartphone,6.9,256,unknown,1075.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-ultra-2189432.html,new,2024-04-07,,0,0.0,
+9,samsung,galaxy s24+,Smartphone,6.7,256,yellow,949.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220722.html,new,2024-04-07,2220722.0,184,4.5,
+9,xiaomi,redmi 12,Smartphone,6.79,256,blue,204.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203272.html,new,2024-04-07,2203272.0,1,5.0,
+9,samsung,galaxy s24,Smartphone,6.2,256,unknown,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220725.html,new,2024-04-07,2220725.0,275,4.4,2.0
+9,samsung,galaxy s24,Smartphone,6.2,128,unknown,704.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220728.html,new,2024-04-07,2220728.0,274,4.4,2.0
+9,apple,iphone se (2022),Smartphone,4.7,256,unknown,567.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118907.html,new,2024-04-07,2118907.0,0,0.0,2.0
+9,apple,iphone 12,Smartphone,6.1,128,white,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028654.html,new,2024-04-07,2028654.0,16,4.7,2.0
+9,apple,iphone 15,Smartphone,6.1,512,black,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203382.html,new,2024-04-07,2203382.0,1,3.0,2.0
+9,apple,iphone 15 pro,Smartphone,6.1,1000 GB,titanium,1445.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203421.html,new,2024-04-07,2203421.0,1,5.0,
+9,apple,iphone 15 pro,Smartphone,6.1,512,titanium,1256.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203415.html,new,2024-04-07,2203415.0,1,5.0,
+9,apple,iphone 15 pro,Smartphone,6.1,1000 GB,white,1459.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203419.html,new,2024-04-07,2203419.0,0,0.0,2.0
+9,apple,iphone 15 plus,Smartphone,6.7,128,green,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203392.html,new,2024-04-07,2203392.0,1,5.0,4.0
+9,nokia,g42 5g,Smartphone,6.56,128,unknown,213.0,https://www.mediamarkt.ch/de/product/_nokia-g42-5g-2192169.html,new,2024-04-07,2192169.0,3,4.7,2.0
+10,google,pixel 8,Smartphone,6.2,128,unknown,654.0,https://www.mediamarkt.ch/de/product/_google-pixel-8-2214716.html,new,2024-04-07,2214716.0,26,4.5,2.0
+10,apple,iphone 13,Smartphone,6.1,128,red,539.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091436.html,new,2024-04-07,2091436.0,5,4.8,
+10,apple,iphone 15 plus,Smartphone,6.7,256,green,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203397.html,new,2024-04-07,2203397.0,0,0.0,4.0
+10,xiaomi,13 pro,Smartphone,6.73,256,white,1225.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-pro-2175506.html,new,2024-04-07,2175506.0,0,0.0,
+10,apple,iphone 15 plus,Smartphone,6.7,512,black,1123.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203398.html,new,2024-04-07,2203398.0,0,0.0,2.0
+10,samsung,galaxy s24 ultra,Smartphone,6.8,1000 GB,black,1599.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-ultra-2220713.html,new,2024-04-07,2220713.0,786,4.7,
+10,motorola,moto g82 5g,Smartphone,6.6,128,gray,322.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g82-5g-2134534.html,new,2024-04-07,2134534.0,0,0.0,7.0
+10,xiaomi,redmi note 12 4g,Smartphone,6.67,64,gray,185.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-4g-2195956.html,new,2024-04-07,,0,0.0,
+10,motorola,moto g22,Smartphone,6.5,64,black,204.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g22-2134530.html,new,2024-04-07,2134530.0,0,0.0,7.0
+10,oppo,a58,Smartphone,6.72,128,green,129.0,https://www.mediamarkt.ch/de/product/_oppo-a58-2202444.html,new,2024-04-07,2202444.0,0,0.0,
+10,crosscall,stellar,Smartphone,6.497,128,schwarz,841.0,https://www.mediamarkt.ch/de/product/_crosscall-stellar-x5-2219743.html,new,2024-04-07,2219743.0,0,0.0,7.0
+10,samsung,galaxy s23,Smartphone,6.1,128,unknown,615.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167349.html,new,2024-04-07,,0,0.0,
+10,samsung,galaxy s22 ultra 5g,Smartphone,6.8,256,black,947.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s22-ultra-5g-2109393.html,new,2024-04-07,2109393.0,148,4.3,
+10,xiaomi,redmi note 12 pro 5g,Smartphone,6.67,128,white,356.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-pro-5g-2215826.html,new,2024-04-07,2215826.0,0,0.0,7.0
+10,samsung,galaxy s23 ultra,Smartphone,6.8,512,unknown,997.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-ultra-2167388.html,new,2024-04-07,,0,0.0,
+10,motorola,edge 20 pro,Smartphone,6.7,256,blue,538.0,https://www.mediamarkt.ch/de/product/_motorola-edge-20-pro-2095383.html,new,2024-04-07,,0,0.0,
+10,samsung,galaxy a35 5g,Smartphone,6.6,128,unknown,359.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2237048.html,new,2024-04-07,2237048.0,0,0.0,2.0
+10,xiaomi,redmi 12c,Smartphone,6.71,64,gray,133.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12c-2178006.html,new,2024-04-07,,0,0.0,
+10,xiaomi,redmi 12c,Smartphone,6.71,64,blue,133.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12c-2178007.html,new,2024-04-07,,0,0.0,
+10,samsung,galaxy s24+,Smartphone,6.7,256,unknown,949.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220720.html,new,2024-04-07,2220720.0,184,4.5,2.0
+10,samsung,galaxy a35 5g,Smartphone,6.6,256,unknown,419.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a35-5g-2242341.html,new,2024-04-07,2242341.0,0,0.0,10.0
+10,xiaomi,redmi note 13 4g,Smartphone,6.67,256,green,222.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220889.html,new,2024-04-07,2220889.0,0,0.0,7.0
+10,xiaomi,redmi note 13 4g,Smartphone,6.67,128,blue,178.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220887.html,new,2024-04-07,2220887.0,3,3.0,7.0
+11,samsung,galaxy z flip5,Smartphone,6.7,256,unknown,1011.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-flip5-2193030.html,new,2024-04-07,2193030.0,55,4.5,7.0
+11,samsung,galaxy z fold4,Smartphone,7.6,256,black,1837.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold4-2141921.html,new,2024-04-07,2141921.0,55,4.1,
+11,emporia,smart.5mini,Smartphone,4.95,64,schwarz,176.0,https://www.mediamarkt.ch/de/product/_emporia-smart-5mini-2192175.html,new,2024-04-07,2192175.0,0,0.0,7.0
+11,samsung,galaxy z fold5,Smartphone,7.6,256,black,1608.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193037.html,new,2024-04-07,,0,0.0,
+11,nokia,c21 plus,Smartphone,6.517,32,unknown,84.0,https://www.mediamarkt.ch/de/product/_nokia-c21-plus-2127663.html,new,2024-04-07,2127663.0,1,5.0,
+11,samsung,galaxy z fold5,Smartphone,7.6,256,unknown,1693.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193038.html,new,2024-04-07,,0,0.0,
+11,samsung,galaxy z fold5,Smartphone,7.6,512,unknown,1899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-z-fold5-2193042.html,new,2024-04-07,,0,0.0,
+11,one,plus nord ce 3 lite 5g,Smartphone,6.72,128,unknown,314.0,https://www.mediamarkt.ch/de/product/_one-plus-nord-ce-3-lite-5g-2180209.html,new,2024-04-07,2180209.0,0,0.0,6.0
+11,wiko,y52,Smartphone,,16,blue,49.0,https://www.mediamarkt.ch/de/product/_wiko-y52-2127285.html,new,2024-04-07,2127285.0,2,1.5,
+11,doro,8100 plus,Smartphone,6.1,32,unknown,242.0,https://www.mediamarkt.ch/de/product/_doro-8100-plus-2119149.html,new,2024-04-07,2119149.0,0,0.0,2.0
+11,xiaomi,redmi 13c,Smartphone,6.74,256,blue,160.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-13c-2219845.html,new,2024-04-07,2219845.0,0,0.0,7.0
+11,nokia,c32,Smartphone,6.517,64,unknown,129.0,https://www.mediamarkt.ch/de/product/_nokia-c32-2181891.html,new,2024-04-07,2181891.0,0,0.0,2.0
+11,nokia,g22,Smartphone,6.52,64,blue,153.0,https://www.mediamarkt.ch/de/product/_nokia-g22-2175510.html,new,2024-04-07,2175510.0,1,5.0,2.0
+11,samsung,galaxy s21 fe 5g,Smartphone,6.4,128,unknown,567.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s21-fe-5g-2105599.html,new,2024-04-07,2105599.0,27,4.1,
+11,apple,iphone 14 plus,Smartphone,6.7,256,red,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151048.html,new,2024-04-07,2151048.0,2,5.0,
+11,apple,iphone 14 plus,Smartphone,6.7,128,blue,739.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151044.html,new,2024-04-07,2151044.0,6,5.0,
+11,fairphone,4 5g,Smartphone,6.3,128,unknown,449.0,https://www.mediamarkt.ch/de/product/_fairphone-4-5g-2093552.html,new,2024-04-07,2093552.0,4,4.0,7.0
+11,samsung,galaxy a54 5g,Smartphone,6.4,256,unknown,449.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a54-5g-2176862.html,new,2024-04-07,,0,0.0,
+11,apple,iphone 14 plus,Smartphone,6.7,512,blue,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151054.html,new,2024-04-07,2151054.0,2,5.0,
+11,apple,iphone 14 plus,Smartphone,6.7,128,red,737.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151043.html,new,2024-04-07,2151043.0,3,5.0,2.0
+11,xiaomi,13t pro,Smartphone,6.67,512,green,804.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203281.html,new,2024-04-07,2203281.0,2,3.0,7.0
+12,samsung,galaxy s23 fe,Smartphone,6.4,256,unknown,618.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216491.html,new,2024-04-07,2216491.0,2,3.0,4.0
+12,xiaomi,13t pro,Smartphone,6.67,512,black,763.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203279.html,new,2024-04-07,2203279.0,1,3.0,
+12,samsung,galaxy s23 fe,Smartphone,6.4,128,unknown,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216482.html,new,2024-04-07,2216482.0,2,3.0,2.0
+12,doro,8050 (mit ladestation + handyhülle),Smartphone,5.45,16,schwarz,229.0,https://www.mediamarkt.ch/de/product/_doro-8050-mit-ladestation-handyh%C3%BClle-1980442.html,new,2024-04-07,1980442.0,0,0.0,2.0
+12,xiaomi,13t pro,Smartphone,6.67,512,blue,804.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203282.html,new,2024-04-07,2203282.0,1,5.0,
+12,apple,iphone 14 plus,Smartphone,6.7,512,red,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151053.html,new,2024-04-07,2151053.0,2,5.0,
+12,xiaomi,13t,Smartphone,6.67,256,blue,580.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-2203285.html,new,2024-04-07,2203285.0,0,0.0,
+12,xiaomi,13t,Smartphone,6.67,256,green,580.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-2203284.html,new,2024-04-07,2203284.0,3,4.3,7.0
+12,xiaomi,13t pro,Smartphone,6.67,1000 GB,black,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13t-pro-2203276.html,new,2024-04-07,2203276.0,0,0.0,7.0
+12,samsung,galaxy s23 fe,Smartphone,6.4,128,purple,619.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216484.html,new,2024-04-07,2216484.0,2,3.0,2.0
+12,one,plus 11 5g,Smartphone,6.7,256,black,829.0,https://www.mediamarkt.ch/de/product/_one-plus-11-5g-2171795.html,new,2024-04-07,2171795.0,1,5.0,2.0
+12,apple,iphone 14 plus,Smartphone,6.7,512,unknown,1026.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151051.html,new,2024-04-07,2151051.0,2,5.0,
+12,one,plus 11 5g,Smartphone,6.7,128,black,792.0,https://www.mediamarkt.ch/de/product/_one-plus-11-5g-2171793.html,new,2024-04-07,2171793.0,0,0.0,7.0
+12,apple,iphone 14,Smartphone,6.1,512,blue,931.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151039.html,new,2024-04-07,2151039.0,1,5.0,2.0
+12,motorola,moto g32,Smartphone,6.5,128,unknown,174.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g32-2161925.html,new,2024-04-07,2161925.0,0,0.0,7.0
+12,samsung,galaxy s23 fe,Smartphone,6.4,256,unknown,626.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-fe-2216488.html,new,2024-04-07,2216488.0,2,3.0,7.0
+12,apple,iphone 14,Smartphone,6.1,512,purple,931.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151037.html,new,2024-04-07,2151037.0,0,0.0,
+12,apple,iphone 14,Smartphone,6.1,512,red,931.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151038.html,new,2024-04-07,2151038.0,0,0.0,
+12,samsung,galaxy a25 5g,Smartphone,6.5,128,yellow,269.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-a25-5g-2216507.html,new,2024-04-07,2216507.0,5,4.6,2.0
+12,apple,iphone 14,Smartphone,6.1,512,unknown,1008.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151036.html,new,2024-04-07,2151036.0,0,0.0,
+12,apple,iphone 13,Smartphone,6.1,512,unknown,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091361.html,new,2024-04-07,2091361.0,0,0.0,
+12,inoi,a62,Smartphone,6.1,64,schwarz,89.0,https://www.mediamarkt.ch/de/product/_inoi-a62-2190679.html,new,2024-04-07,2190679.0,0,0.0,2.0
+12,apple,iphone 13,Smartphone,6.1,512,red,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091364.html,new,2024-04-07,2091364.0,2,5.0,
+12,apple,iphone 14,Smartphone,6.1,256,unknown,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151031.html,new,2024-04-07,2151031.0,5,5.0,2.0
+13,inoi,a63,Smartphone,6.5,32,unknown,96.0,https://www.mediamarkt.ch/de/product/_inoi-a63-2190688.html,new,2024-04-07,2190688.0,0,0.0,2.0
+13,apple,iphone 13,Smartphone,6.1,512,blue,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2091365.html,new,2024-04-07,2091365.0,0,0.0,
+13,apple,iphone 14,Smartphone,6.1,256,yellow,749.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2176809.html,new,2024-04-07,2176809.0,5,5.0,
+13,doro,8200 secure,Smartphone,6.1,64,unknown,358.0,https://www.mediamarkt.ch/de/product/_doro-8200-secure-2198416.html,new,2024-04-07,2198416.0,0,0.0,7.0
+13,apple,iphone 14 plus,Smartphone,6.7,256,yellow,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2176812.html,new,2024-04-07,2176812.0,2,5.0,
+13,inoi,a83,Smartphone,6.52,128,schwarz,129.0,https://www.mediamarkt.ch/de/product/_inoi-a83-2190693.html,new,2024-04-07,2190693.0,0,0.0,2.0
+13,motorola,moto g100,Smartphone,6.7,128,unknown,600.0,https://www.mediamarkt.ch/de/product/_motorola-moto-g100-2076212.html,new,2024-04-07,2076212.0,0,0.0,7.0
+13,xiaomi,redmi note 11,Smartphone,6.43,128,unknown,169.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-11-2112524.html,new,2024-04-07,2112524.0,44,4.1,
+13,xiaomi,redmi note 13 4g,Smartphone,6.67,256,blue,222.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-4g-2220890.html,new,2024-04-07,2220890.0,0,0.0,6.0
+13,xiaomi,redmi note 13 pro+ 5g,Smartphone,6.67,512,white,446.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-5g-2220880.html,new,2024-04-07,2220880.0,1,2.0,
+13,xiaomi,redmi note 13 5g,Smartphone,6.67,256,unknown,254.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-5g-2220892.html,new,2024-04-07,2220892.0,4,4.8,7.0
+13,nokia,x30 5g,Smartphone,6.43,128,white,429.0,https://www.mediamarkt.ch/de/product/_nokia-x30-5g-2161084.html,new,2024-04-07,2161084.0,2,3.5,7.0
+13,xiaomi,13 lite,Smartphone,6.55,128,blue,446.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-lite-2176850.html,new,2024-04-07,2176850.0,0,0.0,
+13,nokia,x30 5g,Smartphone,6.43,256,blue,431.0,https://www.mediamarkt.ch/de/product/_nokia-x30-5g-2161082.html,new,2024-04-07,2161082.0,0,0.0,7.0
+13,motorola,edge 30 ultra,Smartphone,6.67,256,black,839.0,https://www.mediamarkt.ch/de/product/_motorola-edge-30-ultra-2161930.html,new,2024-04-07,2161930.0,1,1.0,7.0
+13,motorola,edge 30 fusion,Smartphone,6.55,128,black,699.0,https://www.mediamarkt.ch/de/product/_motorola-edge-30-fusion-2161928.html,new,2024-04-07,2161928.0,0,0.0,7.0
+13,peaq,psp 400,Smartphone,4.95,32,schwarz,139.0,https://www.mediamarkt.ch/de/product/_peaq-psp-400-2059893.html,new,2024-04-07,2059893.0,25,4.0,
+13,motorola,edge 30,Smartphone,6.5,128,unknown,509.0,https://www.mediamarkt.ch/de/product/_motorola-edge-30-2161926.html,new,2024-04-07,2161926.0,0,0.0,7.0
+13,xiaomi,13,Smartphone,6.36,256,weiss,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-2176848.html,new,2024-04-07,2176848.0,2,5.0,
+13,motorola,razr 40,Smartphone,6.9,256,unknown,736.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-2189430.html,new,2024-04-07,,0,0.0,
+13,nokia,g60 5g,Smartphone,6.58,128,unknown,239.0,https://www.mediamarkt.ch/de/product/_nokia-g60-5g-2161081.html,new,2024-04-07,2161081.0,1,5.0,4.0
+13,motorola,moto e22i,Smartphone,6.5,32,unknown,149.0,https://www.mediamarkt.ch/de/product/_motorola-moto-e22i-2161924.html,new,2024-04-07,2161924.0,0,0.0,7.0
+13,xiaomi,redmi note 13 pro 4g,Smartphone,6.67,256,purple,312.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-13-pro-4g-2220896.html,new,2024-04-07,2220896.0,0,0.0,7.0
+13,crosscall,core,Smartphone,6.08,64,schwarz,711.0,https://www.mediamarkt.ch/de/product/_crosscall-core-z5-2162748.html,new,2024-04-07,2162748.0,0,0.0,7.0
+14,nothing,phone (2),Smartphone,6.7,512,unknown,649.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189934.html,new,2024-04-07,2189934.0,0,0.0,
+14,motorola,razr 40,Smartphone,6.9,256,green,736.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-2189431.html,new,2024-04-07,,0,0.0,
+14,motorola,razr 40 ultra,Smartphone,6.9,256,black,1004.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-ultra-2189435.html,new,2024-04-07,,0,0.0,
+14,motorola,razr 40 ultra,Smartphone,6.9,256,blue,790.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-ultra-2189433.html,new,2024-04-07,,0,0.0,
+14,nothing,phone (2),Smartphone,6.7,512,weiss,649.0,https://www.mediamarkt.ch/de/product/_nothing-phone-2-2189935.html,new,2024-04-07,2189935.0,1,5.0,
+14,crosscall,action,Smartphone,5.45,64,schwarz,511.0,https://www.mediamarkt.ch/de/product/_crosscall-action-x5-2111324.html,new,2024-04-07,2111324.0,0,0.0,7.0
+14,motorola,razr 40,Smartphone,6.9,256,unknown,698.0,https://www.mediamarkt.ch/de/product/_motorola-razr-40-2189429.html,new,2024-04-07,,0,0.0,
+14,samsung,galaxy s23+,Smartphone,6.6,512,unknown,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167377.html,new,2024-04-07,,0,0.0,
+14,motorola,edge 40 neo,Smartphone,6.55,256,unknown,371.0,https://www.mediamarkt.ch/de/product/_motorola-edge-40-neo-2216176.html,new,2024-04-07,2216176.0,0,0.0,
+14,samsung,galaxy s23+,Smartphone,6.6,512,green,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167376.html,new,2024-04-07,,0,0.0,
+14,xiaomi,redmi 12,Smartphone,6.79,256,silver,204.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203270.html,new,2024-04-07,2203270.0,0,0.0,
+14,samsung,galaxy s23+,Smartphone,6.6,512,unknown,849.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s23-2167375.html,new,2024-04-07,,0,0.0,
+14,motorola,edge 40 neo,Smartphone,6.55,256,black,371.0,https://www.mediamarkt.ch/de/product/_motorola-edge-40-neo-2216174.html,new,2024-04-07,2216174.0,18,5.0,7.0
+14,motorola,edge 40 neo,Smartphone,6.55,256,unknown,371.0,https://www.mediamarkt.ch/de/product/_motorola-edge-40-neo-2216175.html,new,2024-04-07,2216175.0,7,4.7,7.0
+14,samsung,galaxy s24,Smartphone,6.2,256,unknown,899.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s24-2220724.html,new,2024-04-07,2220724.0,274,4.4,2.0
+14,xiaomi,redmi 12,Smartphone,6.79,128,silver,178.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203273.html,new,2024-04-07,2203273.0,7,4.9,
+14,xiaomi,redmi 12,Smartphone,6.79,128,blue,178.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-12-2203275.html,new,2024-04-07,2203275.0,15,4.3,7.0
+14,apple,iphone 13,Smartphone,6.1,512,green,835.0,https://www.mediamarkt.ch/de/product/_apple-iphone-13-2118879.html,new,2024-04-07,2118879.0,0,0.0,
+14,apple,iphone 12,Smartphone,6.1,128,green,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028661.html,new,2024-04-07,2028661.0,4,4.8,7.0
+14,apple,iphone 15 pro max,Smartphone,6.7,1000 GB,blue,1579.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-max-2203441.html,new,2024-04-07,2203441.0,1,5.0,
+14,oppo,reno8 lite 5g,Smartphone,6.43,128,unknown,179.0,https://www.mediamarkt.ch/de/product/_oppo-reno8-lite-5g-2131454.html,new,2024-04-07,2131454.0,2,5.0,
+14,apple,iphone 15 plus,Smartphone,6.7,512,blue,1149.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203401.html,new,2024-04-07,2203401.0,0,0.0,2.0
+14,apple,iphone 12,Smartphone,6.1,128,black,529.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028653.html,new,2024-04-07,2028653.0,8,3.3,2.0
+14,apple,iphone 15 plus,Smartphone,6.7,512,yellow,1130.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203400.html,new,2024-04-07,2203400.0,0,0.0,2.0
+15,apple,iphone 15 plus,Smartphone,6.7,512,green,1149.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203402.html,new,2024-04-07,2203402.0,0,0.0,2.0
+15,apple,iphone 12,Smartphone,6.1,64,green,479.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028652.html,new,2024-04-07,2028652.0,4,4.8,2.0
+15,xiaomi,redmi note 11 pro 4g,Smartphone,6.67,128,unknown,339.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-11-pro-4g-2122548.html,new,2024-04-07,2122548.0,8,4.5,
+15,xiaomi,black shark 2 pro,Smartphone,6.39,128,unknown,598.0,https://www.mediamarkt.ch/de/product/_xiaomi-black-shark-2-pro-1971824.html,new,2024-04-07,1971824.0,0,0.0,7.0
+15,apple,iphone se (2022),Smartphone,4.7,64,unknown,383.0,https://www.mediamarkt.ch/de/product/_apple-iphone-se-2022-2118898.html,new,2024-04-07,2118898.0,6,5.0,6.0
+15,apple,iphone 15,Smartphone,6.1,512,yellow,1049.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203384.html,new,2024-04-07,2203384.0,0,0.0,2.0
+15,apple,iphone 15,Smartphone,6.1,512,pink,1039.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203383.html,new,2024-04-07,2203383.0,0,0.0,2.0
+15,apple,iphone 15,Smartphone,6.1,512,blue,1049.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203386.html,new,2024-04-07,2203386.0,2,5.0,2.0
+15,apple,iphone 15,Smartphone,6.1,512,green,1049.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-2203387.html,new,2024-04-07,2203387.0,0,0.0,2.0
+15,apple,iphone 14,Smartphone,6.1,128,red,621.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-2151028.html,new,2024-04-07,2151028.0,16,4.8,2.0
+15,apple,iphone 15 plus,Smartphone,6.7,128,yellow,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203390.html,new,2024-04-07,2203390.0,0,0.0,4.0
+15,samsung,galaxy s21 fe 5g,Smartphone,6.4,128,unknown,707.0,https://www.mediamarkt.ch/de/product/_samsung-galaxy-s21-fe-5g-2105601.html,new,2024-04-07,2105601.0,6,3.7,
+15,apple,iphone 15 plus,Smartphone,6.7,256,pink,929.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203394.html,new,2024-04-07,2203394.0,2,5.0,
+15,xiaomi,redmi note 12 pro 4g,Smartphone,6.67,256,blue,383.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-pro-4g-2195958.html,new,2024-04-07,,0,0.0,
+15,xiaomi,poco m5s,Smartphone,6.43,64,unknown,191.0,https://www.mediamarkt.ch/de/product/_xiaomi-poco-m5s-2152694.html,new,2024-04-07,2152694.0,0,0.0,7.0
+15,xiaomi,poco m5s,Smartphone,6.43,64,weiss,206.0,https://www.mediamarkt.ch/de/product/_xiaomi-poco-m5s-2152695.html,new,2024-04-07,2152695.0,0,0.0,7.0
+15,xiaomi,redmi 10,Smartphone,6.5,128,unknown,149.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-10-2141006.html,new,2024-04-07,2141006.0,10,3.4,2.0
+15,xiaomi,13 pro,Smartphone,6.73,256,black,1161.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-pro-2175507.html,new,2024-04-07,2175507.0,2,5.0,
+15,fairphone,4 5g,Smartphone,6.3,256,unknown,515.0,https://www.mediamarkt.ch/de/product/_fairphone-4-5g-2093553.html,new,2024-04-07,2093553.0,0,0.0,2.0
+15,xiaomi,13,Smartphone,6.36,256,schwarz,893.0,https://www.mediamarkt.ch/de/product/_xiaomi-13-2175508.html,new,2024-04-07,2175508.0,6,4.2,
+15,apple,iphone 15 plus,Smartphone,6.7,512,pink,1173.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-plus-2203399.html,new,2024-04-07,2203399.0,0,0.0,
+15,xiaomi,redmi note 12 pro 5g,Smartphone,6.67,128,black,239.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-pro-5g-2176856.html,new,2024-04-07,,0,0.0,
+15,apple,iphone 14 pro,Smartphone,6.1,256,purple,797.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-pro-2151062.html,new,2024-04-07,2151062.0,19,4.7,
+15,apple,iphone 15 pro,Smartphone,6.1,1000 GB,blue,1485.0,https://www.mediamarkt.ch/de/product/_apple-iphone-15-pro-2203423.html,new,2024-04-07,2203423.0,3,4.7,2.0
+16,apple,iphone 12,Smartphone,6.1,64,white,479.0,https://www.mediamarkt.ch/de/product/_apple-iphone-12-2028626.html,new,2024-04-07,2028626.0,11,4.4,4.0
+16,apple,iphone 14 plus,Smartphone,6.7,256,blue,829.0,https://www.mediamarkt.ch/de/product/_apple-iphone-14-plus-2151049.html,new,2024-04-07,2151049.0,2,5.0,
+16,xiaomi,redmi note 12 4g,Smartphone,6.67,128,gray,159.0,https://www.mediamarkt.ch/de/product/_xiaomi-redmi-note-12-4g-2176859.html,new,2024-04-07,,0,0.0,

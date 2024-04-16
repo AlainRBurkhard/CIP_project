@@ -1,0 +1,359 @@
+brand,model,memory_GB,camera_MP,size,color,rating_100,reviews_count,price,screen_price_ratio,source,date
+apple,iphone 15,128,48.0,6.1,black,96.0,24,719.0,117.8688524590164,mediamarkt,2024-04-15
+xiaomi,redmi a2,32,8.0,6.52,black,82.0,10,79.95,12.262269938650308,mediamarkt,2024-04-15
+apple,iphone 15 pro,256,48.0,6.1,black titanium,98.0,15,1029.0,168.68852459016395,mediamarkt,2024-04-15
+apple,iphone 15 pro max,256,48.0,6.7,black titanium,98.0,13,1129.0,168.50746268656715,mediamarkt,2024-04-15
+apple,iphone 15,128,48.0,6.1,yellow,0.0,0,719.0,117.8688524590164,mediamarkt,2024-04-15
+apple,iphone 14,128,12.0,6.1,midnight,96.0,12,619.0,101.47540983606558,mediamarkt,2024-04-15
+apple,iphone 15 pro max,256,48.0,6.7,natural titanium,92.0,32,1129.0,168.50746268656715,mediamarkt,2024-04-15
+apple,iphone 15,128,48.0,6.1,blue,100.0,8,719.0,117.8688524590164,mediamarkt,2024-04-15
+apple,iphone 13,128,12.0,6.1,starlight,94.0,34,525.0,86.06557377049181,mediamarkt,2024-04-15
+apple,iphone 11 (2020),64,12.0,6.1,black,94.0,67,399.0,65.40983606557377,mediamarkt,2024-04-15
+apple,iphone 15 pro,256,48.0,6.1,white titanium,100.0,1,1029.0,168.68852459016395,mediamarkt,2024-04-15
+apple,iphone 13,128,12.0,6.1,green,0.0,0,525.0,86.06557377049181,mediamarkt,2024-04-15
+apple,iphone 15,256,48.0,6.1,black,100.0,4,816.0,133.7704918032787,mediamarkt,2024-04-15
+apple,iphone 14,128,12.0,6.1,purple,96.0,12,619.0,101.47540983606558,mediamarkt,2024-04-15
+xiaomi,redmi 13c,128,50.0,6.74,midnight black,94.0,3,118.95,17.648367952522253,mediamarkt,2024-04-15
+apple,iphone 15 pro,128,48.0,6.1,natural titanium,86.0,11,929.0,152.29508196721312,mediamarkt,2024-04-15
+apple,iphone 15 pro max,256,48.0,6.7,white titanium,96.0,9,1129.0,168.50746268656715,mediamarkt,2024-04-15
+apple,iphone 11 (2020),128,12.0,6.1,black,90.0,50,497.95,81.6311475409836,mediamarkt,2024-04-15
+apple,iphone 15,128,48.0,6.1,pink,88.0,7,719.0,117.8688524590164,mediamarkt,2024-04-15
+apple,iphone se (2022),64,12.0,4.7,midnight,90.0,8,383.95,81.69148936170212,mediamarkt,2024-04-15
+apple,iphone 15,256,48.0,6.1,yellow,0.0,0,816.0,133.7704918032787,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,256,50.0,6.6,awesome lilac,100.0,1,479.95,72.71969696969697,mediamarkt,2024-04-15
+samsung,galaxy a15 4g,128,50.0,6.5,blue,0.0,0,169.0,26.0,mediamarkt,2024-04-15
+apple,iphone 15 pro,128,48.0,6.1,blue titanium,98.0,18,929.0,152.29508196721312,mediamarkt,2024-04-15
+apple,iphone 15,256,48.0,6.1,blue,100.0,1,829.0,135.9016393442623,mediamarkt,2024-04-15
+apple,iphone se,128,12.0,4.7,midnight,88.0,9,430.95,91.69148936170212,mediamarkt,2024-04-15
+apple,iphone 15 pro,256,48.0,6.1,blue titanium,96.0,11,1029.0,168.68852459016395,mediamarkt,2024-04-15
+apple,iphone 15 pro max,256,48.0,6.7,blue titanium,98.0,15,1129.0,168.50746268656715,mediamarkt,2024-04-15
+samsung,galaxy a15 4g,128,50.0,6.5,blue black,0.0,0,169.0,26.0,mediamarkt,2024-04-15
+apple,iphone 13,128,12.0,6.1,midnight,92.0,78,525.0,86.06557377049181,mediamarkt,2024-04-15
+apple,iphone 15 pro,256,48.0,6.1,natural titanium,80.0,17,1029.0,168.68852459016395,mediamarkt,2024-04-15
+apple,iphone 15 pro max,512,48.0,6.7,black titanium,100.0,5,1349.0,201.34328358208955,mediamarkt,2024-04-15
+samsung,galaxy s23+,256,50.0,6.6,phantom black,92.0,155,699.0,105.90909090909092,mediamarkt,2024-04-15
+apple,iphone 15 pro,128,48.0,6.1,black titanium,98.0,28,929.0,152.29508196721312,mediamarkt,2024-04-15
+apple,iphone 14,128,12.0,6.1,starlight,98.0,24,619.0,101.47540983606558,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,256,50.0,6.6,awesome navy,0.0,0,479.0,72.57575757575758,mediamarkt,2024-04-15
+samsung,galaxy z flip5,512,12.0,6.7,graphite,90.0,57,844.0,125.97014925373134,mediamarkt,2024-04-15
+samsung,galaxy a54 5g,128,50.0,6.4,awesome lime,88.0,320,347.95,54.36718749999999,mediamarkt,2024-04-15
+apple,iphone 15,128,48.0,6.1,green,100.0,3,719.0,117.8688524590164,mediamarkt,2024-04-15
+apple,iphone 13,128,12.0,6.1,blue,94.0,3,525.0,86.06557377049181,mediamarkt,2024-04-15
+apple,iphone 13,128,12.0,6.1,pink,100.0,2,525.0,86.06557377049181,mediamarkt,2024-04-15
+nothing,phone (2a),128,50.0,6.7,white,0.0,0,329.95,49.24626865671642,mediamarkt,2024-04-15
+apple,iphone 13,256,12.0,6.1,starlight,96.0,6,629.0,103.11475409836066,mediamarkt,2024-04-15
+samsung,galaxy s23,128,50.0,6.1,phantom black,88.0,272,629.0,103.11475409836066,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro+ 5g,512,200.0,6.67,midnight black,100.0,4,413.95,62.061469265367315,mediamarkt,2024-04-15
+apple,iphone 15 pro,128,48.0,6.1,white titanium,98.0,10,929.0,152.29508196721312,mediamarkt,2024-04-15
+apple,iphone 14,128,12.0,6.1,blue,96.0,12,619.0,101.47540983606558,mediamarkt,2024-04-15
+apple,iphone 15 pro max,512,48.0,6.7,blue titanium,94.0,3,1349.0,201.34328358208955,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,128,50.0,6.6,awesome navy,0.0,0,429.95,65.14393939393939,mediamarkt,2024-04-15
+samsung,galaxy a54 5g,256,50.0,6.4,awesome white,88.0,318,339.7,53.07812499999999,mediamarkt,2024-04-15
+nothing,phone (2a),128,50.0,6.7,black,0.0,0,329.95,49.24626865671642,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,256,200.0,6.8,titanium black,94.0,882,1179.0,173.38235294117646,mediamarkt,2024-04-15
+apple,iphone 11 (2020),128,12.0,6.1,white,96.0,16,497.95,81.6311475409836,mediamarkt,2024-04-15
+xiaomi,redmi note 13 5g,256,108.0,6.67,graphite black,98.0,8,254.95,38.223388305847074,mediamarkt,2024-04-15
+apple,iphone 15,256,48.0,6.1,green,100.0,1,819.0,134.2622950819672,mediamarkt,2024-04-15
+samsung,galaxy s24+,256,50.0,6.7,onyx black,90.0,210,915.0,136.56716417910448,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,256,50.0,6.6,awesome iceblue,0.0,0,479.95,72.71969696969697,mediamarkt,2024-04-15
+apple,iphone 15 plus,128,48.0,6.7,black,66.0,4,849.0,126.71641791044776,mediamarkt,2024-04-15
+apple,iphone 15 pro max,512,48.0,6.7,natural titanium,100.0,6,1349.0,201.34328358208955,mediamarkt,2024-04-15
+samsung,galaxy s23,256,50.0,6.1,green,88.0,274,691.0,113.27868852459017,mediamarkt,2024-04-15
+nothing,phone (2a),256,50.0,6.7,black,100.0,1,379.95,56.708955223880594,mediamarkt,2024-04-15
+apple,iphone 15 pro max,512,48.0,6.7,white titanium,0.0,0,1349.0,201.34328358208955,mediamarkt,2024-04-15
+samsung,galaxy a15 4g,128,50.0,6.5,yellow,0.0,0,169.0,26.0,mediamarkt,2024-04-15
+nothing,phone (2a),256,50.0,6.7,white,100.0,1,378.95,56.55970149253731,mediamarkt,2024-04-15
+nothing,phone (2),256,50.0,6.7,gray,86.0,3,549.0,81.94029850746269,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,128,50.0,6.6,awesome lilac,0.0,0,429.0,65.0,mediamarkt,2024-04-15
+samsung,galaxy z flip5,512,12.0,6.7,cream,92.0,56,1118.0,166.86567164179104,mediamarkt,2024-04-15
+samsung,galaxy a54 5g,128,50.0,6.4,awesome graphite,88.0,326,347.95,54.36718749999999,mediamarkt,2024-04-15
+apple,iphone 14 plus,256,12.0,6.7,starlight,100.0,0,829.0,123.73134328358209,mediamarkt,2024-04-15
+apple,iphone 14,256,12.0,6.1,midnight,100.0,5,726.0,119.01639344262296,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro+ 5g,256,200.0,6.67,midnight black,0.0,0,381.95,57.26386806596702,mediamarkt,2024-04-15
+xiaomi,redmi note 13 5g,256,108.0,6.67,arctic white,100.0,1,263.95,39.57271364317841,mediamarkt,2024-04-15
+apple,iphone 15 pro,512,48.0,6.1,blue titanium,96.0,4,1242.0,203.6065573770492,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,512,200.0,6.8,titanium violet,94.0,881,1399.0,205.73529411764707,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,512,200.0,6.8,titanium grey,94.0,881,1399.0,205.73529411764707,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,256,50.0,6.6,awesome lemon,0.0,0,479.95,72.71969696969697,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,128,50.0,6.6,awesome iceblue,0.0,0,429.0,65.0,mediamarkt,2024-04-15
+xiaomi,redmi 9a,32,13.0,6.53,granite grey,84.0,17,79.95,12.243491577335375,mediamarkt,2024-04-15
+xiaomi,redmi 13c,128,50.0,6.74,clover green,80.0,1,133.95,19.87388724035608,mediamarkt,2024-04-15
+samsung,galaxy a25 5g,128,50.0,6.5,blue black,94.0,6,269.95,41.53076923076923,mediamarkt,2024-04-15
+apple,iphone 14,256,12.0,6.1,blue,100.0,7,729.0,119.50819672131148,mediamarkt,2024-04-15
+xiaomi,redmi note 13 4g,128,108.0,6.67,mint green,94.0,3,169.95,25.47976011994003,mediamarkt,2024-04-15
+apple,iphone 12,64,12.0,6.1,black,90.0,19,479.95,78.68032786885246,mediamarkt,2024-04-15
+samsung,galaxy s24,128,50.0,6.2,cobalt violet,90.0,295,749.0,120.80645161290322,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,512,200.0,6.8,titanium black,94.0,882,1399.0,205.73529411764707,mediamarkt,2024-04-15
+samsung,galaxy s24+,256,50.0,6.7,cobalt violet,90.0,210,949.0,141.6417910447761,mediamarkt,2024-04-15
+xiaomi,14 + electric scooter 4 lite swiss edition bundle,512,50.0,6.36,jade green,0.0,0,1099.0,172.79874213836476,mediamarkt,2024-04-15
+apple,iphone 15 pro max,1000,48.0,6.7,black titanium,0.0,0,1556.0,232.23880597014926,mediamarkt,2024-04-15
+samsung,galaxy a34 5g,256,48.0,6.6,awesome silver,86.0,216,309.7,46.92424242424242,mediamarkt,2024-04-15
+xiaomi,redmi a2,32,8.0,6.52,light green,90.0,10,88.95,13.642638036809817,mediamarkt,2024-04-15
+samsung,galaxy a25 5g,128,50.0,6.5,blue,94.0,6,269.95,41.53076923076923,mediamarkt,2024-04-15
+motorola,moto g13,128,50.0,6.5,matte charcoal,100.0,15,129.95,19.99230769230769,mediamarkt,2024-04-15
+nothing,phone (2),256,50.0,6.7,white,100.0,1,549.0,81.94029850746269,mediamarkt,2024-04-15
+xiaomi,redmi note 13 4g,128,108.0,6.67,midnight black,74.0,7,169.0,25.337331334332834,mediamarkt,2024-04-15
+motorola,moto g54 5g,256,50.0,6.5,midnight blue,98.0,21,176.95,27.22307692307692,mediamarkt,2024-04-15
+apple,iphone 15 pro max,1000,48.0,6.7,natural titanium,0.0,0,1563.0,233.28358208955223,mediamarkt,2024-04-15
+apple,iphone se (2022),64,12.0,4.7,red,100.0,3,383.95,81.69148936170212,mediamarkt,2024-04-15
+apple,iphone 15 pro,512,48.0,6.1,black titanium,86.0,4,1258.0,206.22950819672133,mediamarkt,2024-04-15
+apple,iphone 15 plus,256,48.0,6.7,black,100.0,1,949.0,141.6417910447761,mediamarkt,2024-04-15
+samsung,galaxy s23,128,50.0,6.1,green,88.0,271,621.0,101.8032786885246,mediamarkt,2024-04-15
+samsung,galaxy s23 ultra,512,200.0,6.8,green,92.0,613,997.0,146.61764705882354,mediamarkt,2024-04-15
+samsung,galaxy s24+,512,50.0,6.7,marble grey,90.0,210,1149.0,171.49253731343282,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,256,200.0,6.8,titanium yellow,94.0,881,1179.0,173.38235294117646,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,128,50.0,6.6,awesome lilac,0.0,0,359.0,54.3939393939394,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,128,50.0,6.6,awesome navy,0.0,0,359.95,54.53787878787879,mediamarkt,2024-04-15
+xiaomi,14 + electric scooter 4 lite swiss edition bundle,512,50.0,6.36,black,0.0,0,998.0,156.91823899371067,mediamarkt,2024-04-15
+xiaomi,redmi 13c,128,50.0,6.74,navy blue,100.0,3,126.95,18.835311572700295,mediamarkt,2024-04-15
+apple,iphone 14 plus,128,12.0,6.7,starlight,100.0,5,729.0,108.80597014925372,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,256,50.0,6.4,graphite,60.0,2,629.0,98.28125,mediamarkt,2024-04-15
+samsung,galaxy s23+,256,50.0,6.6,lavender,92.0,155,699.0,105.90909090909092,mediamarkt,2024-04-15
+samsung,galaxy s24,128,50.0,6.2,marble grey,90.0,295,749.0,120.80645161290322,mediamarkt,2024-04-15
+apple,iphone 13,256,12.0,6.1,green,100.0,1,629.0,103.11475409836066,mediamarkt,2024-04-15
+apple,iphone se (2022),64,12.0,4.7,starlight,100.0,6,383.95,81.69148936170212,mediamarkt,2024-04-15
+google,pixel 8 pro,128,50.0,6.7,obsidian,90.0,11,921.0,137.46268656716418,mediamarkt,2024-04-15
+apple,iphone 15 plus,256,48.0,6.7,green,0.0,0,929.0,138.65671641791045,mediamarkt,2024-04-15
+samsung,xcover6 pro enterprise edition,128,50.0,6.6,black,60.0,2,412.95,62.56818181818182,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,512,200.0,6.8,titanium yellow,94.0,881,1399.0,205.73529411764707,mediamarkt,2024-04-15
+samsung,galaxy s23 ultra,512,200.0,6.8,cream,92.0,604,887.0,130.44117647058823,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,1000,200.0,6.8,titanium grey,94.0,881,1599.0,235.14705882352942,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,128,50.0,6.6,awesome iceblue,0.0,0,359.0,54.3939393939394,mediamarkt,2024-04-15
+samsung,galaxy s23 ultra,256,,6.8,phantom black,0.0,0,847.0,124.55882352941177,mediamarkt,2024-04-15
+samsung,galaxy s23 ultra,256,200.0,6.8,green,92.0,605,767.0,112.79411764705883,mediamarkt,2024-04-15
+xiaomi,redmi 13c,256,50.0,6.74,midnight black,0.0,0,152.95,22.69287833827893,mediamarkt,2024-04-15
+xiaomi,redmi 13c,256,50.0,6.74,clover green,0.0,0,152.95,22.69287833827893,mediamarkt,2024-04-15
+fairphone,5 5g,256,50.0,6.46,matte black,86.0,4,610.0,94.42724458204334,mediamarkt,2024-04-15
+apple,iphone 14 plus,128,12.0,6.7,purple,100.0,7,729.0,108.80597014925372,mediamarkt,2024-04-15
+samsung,galaxy xcover 5 enterprise edition,64,16.0,5.3,black,66.0,18,206.0,38.86792452830189,mediamarkt,2024-04-15
+apple,iphone 14 plus,128,12.0,6.7,midnight,96.0,5,729.0,108.80597014925372,mediamarkt,2024-04-15
+apple,iphone 13,256,12.0,6.1,blue,100.0,11,642.0,105.24590163934427,mediamarkt,2024-04-15
+apple,iphone 13,256,12.0,6.1,midnight,98.0,14,649.0,106.39344262295083,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro 4g,256,200.0,6.67,midnight black,60.0,2,296.95,44.52023988005997,mediamarkt,2024-04-15
+samsung,galaxy s23+,256,50.0,6.6,green,92.0,154,699.0,105.90909090909092,mediamarkt,2024-04-15
+xiaomi,redmi 12,128,50.0,6.79,midnight black,80.0,22,139.95,20.611192930780557,mediamarkt,2024-04-15
+apple,iphone 15 pro,1000,48.0,6.1,black titanium,100.0,1,1459.0,239.1803278688525,mediamarkt,2024-04-15
+apple,iphone 15 plus,128,48.0,6.7,blue,100.0,6,849.0,126.71641791044776,mediamarkt,2024-04-15
+apple,iphone 15 plus,256,48.0,6.7,pink,100.0,2,912.0,136.11940298507463,mediamarkt,2024-04-15
+apple,iphone 15 plus,256,48.0,6.7,yellow,0.0,0,949.0,141.6417910447761,mediamarkt,2024-04-15
+samsung,galaxy s23,256,50.0,6.1,lavender,88.0,273,699.0,114.59016393442623,mediamarkt,2024-04-15
+samsung,galaxy s24+,512,50.0,6.7,onyx black,90.0,211,1149.0,171.49253731343282,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,256,200.0,6.8,titanium grey,94.0,881,1179.0,173.38235294117646,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,256,50.0,6.6,awesome lemon,100.0,1,419.95,63.62878787878788,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,256,50.0,6.6,awesome lilac,0.0,0,389.95,59.083333333333336,mediamarkt,2024-04-15
+fairphone,5 5g,256,50.0,6.46,transparent edition,96.0,4,606.0,93.80804953560371,mediamarkt,2024-04-15
+emporia,touchsmart.2,8,8.0,3.25,black,50.0,8,115.95,35.676923076923075,mediamarkt,2024-04-15
+apple,iphone 14 plus,256,12.0,6.7,purple,100.0,2,829.0,123.73134328358209,mediamarkt,2024-04-15
+xiaomi,13t,256,50.0,6.67,black,90.0,8,551.0,82.6086956521739,mediamarkt,2024-04-15
+apple,iphone 14 plus,512,12.0,6.7,midnight,74.0,3,1026.0,153.13432835820896,mediamarkt,2024-04-15
+ruggear,rg360,8,2.0,3.0,black,0.0,0,121.95,40.65,mediamarkt,2024-04-15
+apple,iphone 14,256,12.0,6.1,purple,100.0,5,729.0,119.50819672131148,mediamarkt,2024-04-15
+apple,iphone 14,256,12.0,6.1,red,100.0,5,729.0,119.50819672131148,mediamarkt,2024-04-15
+apple,iphone 14,256,12.0,6.1,starlight,100.0,5,729.0,119.50819672131148,mediamarkt,2024-04-15
+apple,iphone 14,128,12.0,6.1,yellow,96.0,13,619.0,101.47540983606558,mediamarkt,2024-04-15
+apple,iphone 14 plus,128,12.0,6.7,yellow,100.0,4,729.0,108.80597014925372,mediamarkt,2024-04-15
+apple,iphone 13,256,12.0,6.1,pink,0.0,0,649.0,106.39344262295083,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro 4g,256,200.0,6.67,forest green,100.0,1,296.95,44.52023988005997,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro 5g,256,200.0,6.67,midnight black,80.0,5,349.95,52.46626686656671,mediamarkt,2024-04-15
+samsung,galaxy s24,256,50.0,6.2,amber yellow,90.0,295,899.0,145.0,mediamarkt,2024-04-15
+samsung,galaxy s23+,256,50.0,6.6,cream,92.0,154,699.0,105.90909090909092,mediamarkt,2024-04-15
+samsung,galaxy s24,128,50.0,6.2,onyx black,90.0,295,749.0,120.80645161290322,mediamarkt,2024-04-15
+apple,iphone se,128,12.0,4.7,starlight,0.0,0,430.95,91.69148936170212,mediamarkt,2024-04-15
+apple,iphone se (2022),256,12.0,4.7,starlight,0.0,0,567.0,120.63829787234042,mediamarkt,2024-04-15
+apple,iphone 15,256,48.0,6.1,pink,80.0,4,829.0,135.9016393442623,mediamarkt,2024-04-15
+apple,iphone 12,128,12.0,6.1,black,66.0,8,529.0,86.72131147540983,mediamarkt,2024-04-15
+apple,iphone 12,64,12.0,6.1,purple,100.0,5,479.95,78.68032786885246,mediamarkt,2024-04-15
+apple,iphone 15,512,48.0,6.1,black,60.0,1,1026.0,168.19672131147541,mediamarkt,2024-04-15
+apple,iphone 15 pro,1000,48.0,6.1,natural titanium,100.0,1,1456.0,238.68852459016395,mediamarkt,2024-04-15
+apple,iphone 15 pro,512,48.0,6.1,white titanium,0.0,0,1253.0,205.40983606557378,mediamarkt,2024-04-15
+nokia,g42 5g,128,50.0,6.56,so grey,96.0,4,203.95,31.089939024390244,mediamarkt,2024-04-15
+google,pixel 8,128,50.0,6.2,obsidian,90.0,26,652.0,105.16129032258064,mediamarkt,2024-04-15
+apple,iphone 13,128,12.0,6.1,red,96.0,5,525.0,86.06557377049181,mediamarkt,2024-04-15
+apple,iphone 15 pro,1000,48.0,6.1,blue titanium,94.0,3,1474.0,241.63934426229508,mediamarkt,2024-04-15
+samsung,galaxy s23,256,,6.1,cream,0.0,0,669.0,109.672131147541,mediamarkt,2024-04-15
+samsung,galaxy s24,128,50.0,6.2,amber yellow,90.0,295,749.0,120.80645161290322,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,256,200.0,6.8,titanium violet,94.0,881,1179.0,173.38235294117646,mediamarkt,2024-04-15
+samsung,galaxy a55 5g,128,50.0,6.6,awesome lemon,0.0,0,429.0,65.0,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,128,50.0,6.6,awesome lemon,0.0,0,359.0,54.3939393939394,mediamarkt,2024-04-15
+samsung,galaxy s24+,512,50.0,6.7,cobalt violet,90.0,210,1149.0,171.49253731343282,mediamarkt,2024-04-15
+samsung,galaxy s23 ultra,256,200.0,6.8,cream,92.0,605,867.0,127.5,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,256,50.0,6.6,awesome navy,0.0,0,412.95,62.56818181818182,mediamarkt,2024-04-15
+xiaomi,redmi note 13 4g,256,108.0,6.67,mint green,0.0,0,222.95,33.425787106446776,mediamarkt,2024-04-15
+samsung,galaxy z fold5,512,50.0,7.6,icy blue,86.0,49,1770.0,232.89473684210526,mediamarkt,2024-04-15
+xiaomi,redmi note 13 4g,256,108.0,6.67,midnight black,0.0,0,222.95,33.425787106446776,mediamarkt,2024-04-15
+samsung,galaxy z flip5,512,12.0,6.7,mint,92.0,57,1003.0,149.70149253731344,mediamarkt,2024-04-15
+nokia,g22,64,50.0,6.52,meteor grey,0.0,0,159.95,24.532208588957054,mediamarkt,2024-04-15
+nokia,g22,64,50.0,6.52,lagoon blue,100.0,1,153.95,23.61196319018405,mediamarkt,2024-04-15
+apple,iphone 15 pro max,1000,48.0,6.7,white titanium,100.0,2,1582.0,236.11940298507463,mediamarkt,2024-04-15
+xiaomi,13t pro,1000,50.0,6.67,alpine blue,0.0,0,893.0,133.8830584707646,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,256,50.0,6.4,cream,60.0,2,629.0,98.28125,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,128,50.0,6.4,cream,60.0,2,599.0,93.59375,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,128,50.0,6.4,mint,60.0,2,599.0,93.59375,mediamarkt,2024-04-15
+xiaomi,13t pro,1000,50.0,6.67,black,0.0,0,893.0,133.8830584707646,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,256,50.0,6.4,purple,74.0,3,629.0,98.28125,mediamarkt,2024-04-15
+motorola,moto g32,128,50.0,6.5,mineral grey,0.0,0,174.95,26.915384615384614,mediamarkt,2024-04-15
+motorola,moto e13,64,13.0,6.5,cosmic black,20.0,1,99.95,15.376923076923077,mediamarkt,2024-04-15
+apple,iphone 14,512,12.0,6.1,midnight,0.0,0,980.0,160.65573770491804,mediamarkt,2024-04-15
+samsung,galaxy a25 5g,128,50.0,6.5,yellow,94.0,6,269.95,41.53076923076923,mediamarkt,2024-04-15
+inoi,a62,64,13.0,6.1,black,0.0,0,89.95,14.745901639344263,mediamarkt,2024-04-15
+inoi,a72,64,13.0,6.5,violet,0.0,0,121.95,18.76153846153846,mediamarkt,2024-04-15
+inoi,a72,64,13.0,6.5,gray,0.0,0,116.95,17.992307692307694,mediamarkt,2024-04-15
+doro,8200 plus,64,16.0,6.1,dark blue,0.0,0,283.95,46.549180327868854,mediamarkt,2024-04-15
+doro,8200,64,16.0,6.1,dark blue,0.0,0,290.95,47.69672131147541,mediamarkt,2024-04-15
+inoi,a63,32,13.0,6.5,black,100.0,1,93.95,14.453846153846154,mediamarkt,2024-04-15
+apple,iphone 13,256,12.0,6.1,red,0.0,0,625.0,102.45901639344262,mediamarkt,2024-04-15
+inoi,note 13s,256,16.0,6.95,gray,0.0,0,158.95,22.8705035971223,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro+ 5g,512,200.0,6.67,moonlight white,40.0,1,446.95,67.00899550224888,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro+ 5g,512,200.0,6.67,aurora purple,80.0,2,424.95,63.71064467766117,mediamarkt,2024-04-15
+apple,iphone 12,128,12.0,6.1,purple,96.0,8,529.0,86.72131147540983,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro+ 5g,256,200.0,6.67,moonlight white,0.0,0,399.95,59.96251874062968,mediamarkt,2024-04-15
+nothing,phone (2),512,50.0,6.7,white,100.0,1,649.0,96.86567164179104,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro+ 5g,256,200.0,6.67,aurora purple,0.0,0,399.95,59.96251874062968,mediamarkt,2024-04-15
+samsung,galaxy s24,256,50.0,6.2,onyx black,90.0,295,899.0,145.0,mediamarkt,2024-04-15
+xiaomi,redmi 12,256,50.0,6.79,sky blue,100.0,1,204.95,30.184094256259204,mediamarkt,2024-04-15
+samsung,galaxy s24,256,50.0,6.2,marble grey,90.0,295,899.0,145.0,mediamarkt,2024-04-15
+samsung,galaxy s24,256,50.0,6.2,cobalt violet,90.0,296,899.0,145.0,mediamarkt,2024-04-15
+apple,iphone 12,128,12.0,6.1,green,96.0,4,529.0,86.72131147540983,mediamarkt,2024-04-15
+apple,iphone se (2022),256,12.0,4.7,midnight,100.0,2,579.0,123.19148936170212,mediamarkt,2024-04-15
+apple,iphone 15 plus,512,48.0,6.7,yellow,0.0,0,1129.0,168.50746268656715,mediamarkt,2024-04-15
+apple,iphone 12,128,12.0,6.1,white,94.0,16,529.0,86.72131147540983,mediamarkt,2024-04-15
+apple,iphone 15,512,48.0,6.1,pink,0.0,0,1029.0,168.68852459016395,mediamarkt,2024-04-15
+apple,iphone 15,512,48.0,6.1,blue,100.0,2,1045.0,171.31147540983608,mediamarkt,2024-04-15
+apple,iphone 15 plus,128,48.0,6.7,green,100.0,1,829.0,123.73134328358209,mediamarkt,2024-04-15
+xiaomi,13 pro,256,50.0,6.73,ceramic white,0.0,0,1225.0,182.02080237741455,mediamarkt,2024-04-15
+apple,iphone 15 plus,512,48.0,6.7,black,0.0,0,1123.0,167.61194029850745,mediamarkt,2024-04-15
+samsung,galaxy s24 ultra,1000,200.0,6.8,titanium black,94.0,881,1599.0,235.14705882352942,mediamarkt,2024-04-15
+motorola,moto g82 5g,128,50.0,6.6,meteorite gray,0.0,0,322.95,48.93181818181818,mediamarkt,2024-04-15
+xiaomi,redmi note 12 4g,64,50.0,6.67,onyx gray,0.0,0,178.95,26.82908545727136,mediamarkt,2024-04-15
+motorola,moto g22,64,50.0,6.5,cosmic black,0.0,0,204.95,31.53076923076923,mediamarkt,2024-04-15
+motorola,moto g30,128,64.0,6.5,dark pearl,0.0,0,259.95,39.99230769230769,mediamarkt,2024-04-15
+oppo,a58,128,50.0,6.72,dazzling green,0.0,0,129.7,19.300595238095237,mediamarkt,2024-04-15
+samsung,galaxy s24+,512,50.0,6.7,amber yellow,90.0,210,1149.0,171.49253731343282,mediamarkt,2024-04-15
+crosscall,stellar,128,50.0,6.497,black,0.0,0,892.0,137.29413575496383,mediamarkt,2024-04-15
+samsung,galaxy s23,128,50.0,6.1,lavender,88.0,271,602.0,98.68852459016394,mediamarkt,2024-04-15
+samsung,galaxy s22 ultra 5g,256,108.0,6.8,phantom black,86.0,148,947.0,139.26470588235296,mediamarkt,2024-04-15
+xiaomi,redmi note 12 pro 5g,128,50.0,6.67,polar white,0.0,0,356.95,53.51574212893553,mediamarkt,2024-04-15
+motorola,edge 20 pro,256,108.0,6.7,blue vegan leather,0.0,0,533.0,79.55223880597015,mediamarkt,2024-04-15
+samsung,galaxy s23,128,,6.1,cream,0.0,0,629.0,103.11475409836066,mediamarkt,2024-04-15
+xiaomi,redmi 12c,64,50.0,6.71,mint green,100.0,4,133.95,19.962742175856928,mediamarkt,2024-04-15
+xiaomi,redmi 12c,64,50.0,6.71,graphite gray,76.0,6,133.95,19.962742175856928,mediamarkt,2024-04-15
+xiaomi,redmi 12c,64,50.0,6.71,ocean blue,100.0,4,133.95,19.962742175856928,mediamarkt,2024-04-15
+samsung,galaxy a35 5g,256,50.0,6.6,awesome iceblue,100.0,1,419.95,63.62878787878788,mediamarkt,2024-04-15
+samsung,galaxy s24+,256,50.0,6.7,marble grey,90.0,210,949.0,141.6417910447761,mediamarkt,2024-04-15
+samsung,galaxy s23+,512,50.0,6.6,phantom black,92.0,156,849.0,128.63636363636365,mediamarkt,2024-04-15
+xiaomi,redmi note 13 4g,128,108.0,6.67,ice blue,60.0,3,178.95,26.82908545727136,mediamarkt,2024-04-15
+samsung,galaxy z flip5,256,12.0,6.7,graphite,90.0,55,1011.0,150.8955223880597,mediamarkt,2024-04-15
+samsung,galaxy z fold4,256,50.0,7.6,phantom black,82.0,55,1837.0,241.71052631578948,mediamarkt,2024-04-15
+emporia,smart.5mini,64,13.0,4.95,black,0.0,0,178.95,36.15151515151515,mediamarkt,2024-04-15
+samsung,galaxy z fold5,256,50.0,7.6,icy blue,86.0,49,1629.0,214.34210526315792,mediamarkt,2024-04-15
+samsung,galaxy z flip5,256,12.0,6.7,mint,90.0,55,1011.0,150.8955223880597,mediamarkt,2024-04-15
+samsung,galaxy z fold5,256,50.0,7.6,phantom black,86.0,48,1608.0,211.57894736842107,mediamarkt,2024-04-15
+nokia,c21 plus,32,13.0,6.517,dark cyan,100.0,1,84.7,12.996777658431794,mediamarkt,2024-04-15
+samsung,galaxy z fold5,256,50.0,7.6,cream,86.0,48,1693.0,222.76315789473685,mediamarkt,2024-04-15
+samsung,galaxy z fold5,512,50.0,7.6,cream,86.0,49,1899.0,249.8684210526316,mediamarkt,2024-04-15
+samsung,galaxy z fold5,512,50.0,7.6,phantom black,86.0,48,1710.0,225.0,mediamarkt,2024-04-15
+one,plus nord ce 3 lite 5g,128,108.0,6.72,chromatic gray,100.0,1,313.95,46.71875,mediamarkt,2024-04-15
+one,plus nord ce 3 lite 5g,128,108.0,6.72,pastel lime,0.0,0,314.95,46.867559523809526,mediamarkt,2024-04-15
+wiko,y52,16,5.0,5.0,deep blue,30.0,2,49.7,9.940000000000001,mediamarkt,2024-04-15
+samsung,galaxy a34 5g,128,48.0,6.6,awesome graphite,86.0,216,320.95,48.62878787878788,mediamarkt,2024-04-15
+doro,8100 plus,32,13.0,6.1,graphite,0.0,0,242.0,39.67213114754099,mediamarkt,2024-04-15
+xiaomi,redmi 13c,256,50.0,6.74,navy blue,0.0,0,160.95,23.879821958456972,mediamarkt,2024-04-15
+nokia,c32,64,50.0,6.517,charcoal,0.0,0,134.95,20.707380696639554,mediamarkt,2024-04-15
+samsung,galaxy a54 5g,128,50.0,6.4,awesome violet,88.0,319,347.95,54.36718749999999,mediamarkt,2024-04-15
+apple,iphone 14 plus,256,12.0,6.7,red,100.0,2,829.0,123.73134328358209,mediamarkt,2024-04-15
+apple,iphone 14 plus,128,12.0,6.7,blue,100.0,6,729.0,108.80597014925372,mediamarkt,2024-04-15
+fairphone,4 5g,128,48.0,6.3,gray,80.0,4,449.95,71.42063492063492,mediamarkt,2024-04-15
+apple,iphone 14 plus,256,12.0,6.7,midnight,100.0,5,829.0,123.73134328358209,mediamarkt,2024-04-15
+samsung,galaxy a54 5g,256,50.0,6.4,awesome graphite,88.0,320,449.95,70.3046875,mediamarkt,2024-04-15
+apple,iphone 14 plus,512,12.0,6.7,blue,100.0,2,1026.0,153.13432835820896,mediamarkt,2024-04-15
+apple,iphone 14 plus,128,12.0,6.7,red,100.0,3,729.0,108.80597014925372,mediamarkt,2024-04-15
+xiaomi,13t pro,512,50.0,6.67,meadow green,46.0,3,804.0,120.53973013493254,mediamarkt,2024-04-15
+xiaomi,13t pro,512,50.0,6.67,black,86.0,3,763.0,114.3928035982009,mediamarkt,2024-04-15
+xiaomi,redmi a2,32,8.0,6.52,light blue,84.0,6,88.95,13.642638036809817,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,128,50.0,6.4,graphite,60.0,2,619.0,96.71875,mediamarkt,2024-04-15
+doro,8050 (mit ladestation + handyhülle),16,13.0,5.45,black,0.0,0,229.7,42.146788990825684,mediamarkt,2024-04-15
+xiaomi,13t pro,512,50.0,6.67,alpine blue,100.0,1,804.0,120.53973013493254,mediamarkt,2024-04-15
+apple,iphone 14 plus,512,12.0,6.7,red,100.0,2,1026.0,153.13432835820896,mediamarkt,2024-04-15
+xiaomi,13t,256,50.0,6.67,alpine blue,0.0,0,580.0,86.95652173913044,mediamarkt,2024-04-15
+apple,iphone 14 plus,512,12.0,6.7,deep purple,100.0,2,1026.0,153.13432835820896,mediamarkt,2024-04-15
+xiaomi,13t,256,50.0,6.67,meadow green,86.0,3,580.0,86.95652173913044,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,128,50.0,6.4,purple,74.0,3,599.0,93.59375,mediamarkt,2024-04-15
+one,plus 11 5g,256,50.0,6.7,titan black,100.0,1,829.0,123.73134328358209,mediamarkt,2024-04-15
+apple,iphone 14 plus,512,12.0,6.7,starlight,100.0,2,1026.0,153.13432835820896,mediamarkt,2024-04-15
+one,plus 11 5g,128,50.0,6.7,titan black,0.0,0,816.0,121.7910447761194,mediamarkt,2024-04-15
+apple,iphone 14,512,12.0,6.1,blue,100.0,1,931.0,152.62295081967213,mediamarkt,2024-04-15
+samsung,galaxy s23 fe,256,50.0,6.4,mint,60.0,2,619.0,96.71875,mediamarkt,2024-04-15
+apple,iphone 14,512,12.0,6.1,purple,0.0,0,931.0,152.62295081967213,mediamarkt,2024-04-15
+apple,iphone 14,512,12.0,6.1,red,0.0,0,931.0,152.62295081967213,mediamarkt,2024-04-15
+apple,iphone 14,512,12.0,6.1,starlight,0.0,0,999.0,163.7704918032787,mediamarkt,2024-04-15
+apple,iphone 13,512,12.0,6.1,starlight,0.0,0,835.0,136.88524590163937,mediamarkt,2024-04-15
+apple,iphone 13,512,12.0,6.1,red,100.0,2,835.0,136.88524590163937,mediamarkt,2024-04-15
+inoi,a63,32,13.0,6.5,blue,0.0,0,91.95,14.146153846153847,mediamarkt,2024-04-15
+apple,iphone 13,512,12.0,6.1,blue,0.0,0,835.0,136.88524590163937,mediamarkt,2024-04-15
+apple,iphone 14,256,12.0,6.1,yellow,100.0,5,729.0,119.50819672131148,mediamarkt,2024-04-15
+doro,8200 secure,64,16.0,6.1,dark blue,0.0,0,358.95,58.84426229508197,mediamarkt,2024-04-15
+apple,iphone 14 plus,256,12.0,6.7,yellow,100.0,2,829.0,123.73134328358209,mediamarkt,2024-04-15
+inoi,a83,128,48.0,6.52,black,0.0,0,129.95,19.930981595092025,mediamarkt,2024-04-15
+motorola,moto g100,128,64.0,6.7,iridescent ocean,0.0,0,600.0,89.55223880597015,mediamarkt,2024-04-15
+xiaomi,redmi note 11,128,50.0,6.43,graphite grey,82.0,44,169.7,26.391912908242613,mediamarkt,2024-04-15
+xiaomi,redmi note 13 4g,256,108.0,6.67,ice blue,0.0,0,222.95,33.425787106446776,mediamarkt,2024-04-15
+xiaomi,redmi note 13 5g,256,108.0,6.67,ocean teal,96.0,4,267.95,40.172413793103445,mediamarkt,2024-04-15
+nokia,x30 5g,128,50.0,6.43,ice white,70.0,2,408.95,63.60031104199067,mediamarkt,2024-04-15
+xiaomi,13 lite,128,50.0,6.55,lite blue,0.0,0,446.95,68.23664122137404,mediamarkt,2024-04-15
+motorola,edge 30 ultra,256,200.0,6.67,interstellar black,20.0,1,869.0,130.2848575712144,mediamarkt,2024-04-15
+motorola,edge 30 fusion,128,50.0,6.55,quartz black,0.0,0,619.0,94.50381679389314,mediamarkt,2024-04-15
+peaq,psp 400,32,13.0,4.95,black,80.0,25,139.7,28.222222222222218,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro 5g,256,200.0,6.67,ocean teal,94.0,6,356.95,53.51574212893553,mediamarkt,2024-04-15
+motorola,edge 30,128,50.0,6.5,meteor grey,0.0,0,509.0,78.3076923076923,mediamarkt,2024-04-15
+xiaomi,13,256,50.0,6.36,white,100.0,2,893.0,140.40880503144655,mediamarkt,2024-04-15
+motorola,razr 40,256,64.0,6.9,vanilla cream,0.0,0,736.0,106.66666666666666,mediamarkt,2024-04-15
+nokia,g60 5g,128,50.0,6.58,gray,100.0,1,239.7,36.42857142857142,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro 5g,256,200.0,6.67,aurora purple,0.0,0,339.95,50.96701649175412,mediamarkt,2024-04-15
+apple,iphone 11 (2020),64,12.0,6.1,white,96.0,24,399.0,65.40983606557377,mediamarkt,2024-04-15
+motorola,moto e22i,32,16.0,6.5,graphite grey,0.0,0,149.95,23.069230769230767,mediamarkt,2024-04-15
+xiaomi,redmi note 13 pro 4g,256,200.0,6.67,lavender purple,0.0,0,312.95,46.91904047976012,mediamarkt,2024-04-15
+crosscall,core,64,48.0,6.08,black,0.0,0,724.0,119.07894736842105,mediamarkt,2024-04-15
+motorola,razr 40 ultra,256,12.0,6.9,viva magenta,100.0,1,1075.0,155.79710144927535,mediamarkt,2024-04-15
+nothing,phone (2),512,50.0,6.7,gray,0.0,0,649.0,96.86567164179104,mediamarkt,2024-04-15
+motorola,razr 40,256,64.0,6.9,sage green,0.0,0,736.0,106.66666666666666,mediamarkt,2024-04-15
+motorola,razr 40 ultra,256,12.0,6.9,infinite black,100.0,1,1004.0,145.5072463768116,mediamarkt,2024-04-15
+motorola,razr 40 ultra,256,12.0,6.9,glacier blue,100.0,2,790.0,114.4927536231884,mediamarkt,2024-04-15
+crosscall,action,64,48.0,5.45,black,0.0,0,563.0,103.30275229357798,mediamarkt,2024-04-15
+motorola,razr 40,256,64.0,6.9,summer lilac,0.0,0,698.0,101.15942028985506,mediamarkt,2024-04-15
+samsung,galaxy s23+,512,50.0,6.6,lavender,92.0,154,849.0,128.63636363636365,mediamarkt,2024-04-15
+motorola,edge 40 neo,256,50.0,6.55,caneel bay,0.0,0,371.95,56.786259541984734,mediamarkt,2024-04-15
+samsung,galaxy s23+,512,,6.6,green,0.0,0,849.0,128.63636363636365,mediamarkt,2024-04-15
+xiaomi,redmi 12,256,50.0,6.79,polar silver,0.0,0,204.95,30.184094256259204,mediamarkt,2024-04-15
+samsung,galaxy s23+,512,,6.6,cream,0.0,0,849.0,128.63636363636365,mediamarkt,2024-04-15
+samsung,galaxy s24+,256,50.0,6.7,amber yellow,90.0,210,949.0,141.6417910447761,mediamarkt,2024-04-15
+motorola,edge 40 neo,256,50.0,6.55,black beauty,100.0,18,371.95,56.786259541984734,mediamarkt,2024-04-15
+motorola,edge 40 neo,256,50.0,6.55,soothing sea,94.0,7,371.95,56.786259541984734,mediamarkt,2024-04-15
+xiaomi,redmi 12,128,50.0,6.79,polar silver,98.0,7,178.95,26.354933726067745,mediamarkt,2024-04-15
+xiaomi,redmi 12,128,50.0,6.79,sky blue,86.0,16,178.95,26.354933726067745,mediamarkt,2024-04-15
+apple,iphone 13,512,12.0,6.1,green,0.0,0,835.0,136.88524590163937,mediamarkt,2024-04-15
+apple,iphone 15 pro max,1000,48.0,6.7,blue titanium,100.0,1,1565.0,233.5820895522388,mediamarkt,2024-04-15
+oppo,reno8 lite 5g,128,64.0,6.43,rainbow spectrum,100.0,2,179.7,27.947122861586312,mediamarkt,2024-04-15
+apple,iphone 15 plus,512,48.0,6.7,blue,0.0,0,1136.0,169.55223880597015,mediamarkt,2024-04-15
+apple,iphone 15 plus,512,48.0,6.7,green,0.0,0,1149.0,171.49253731343282,mediamarkt,2024-04-15
+apple,iphone 12,64,12.0,6.1,green,96.0,4,479.95,78.68032786885246,mediamarkt,2024-04-15
+xiaomi,redmi note 11 pro 4g,128,108.0,6.67,graphite grey,90.0,8,339.7,50.929535232383806,mediamarkt,2024-04-15
+xiaomi,black shark 2 pro,128,48.0,6.39,iceberg grey,0.0,0,598.0,93.58372456964007,mediamarkt,2024-04-15
+apple,iphone se,128,12.0,4.7,red,100.0,1,430.95,91.69148936170212,mediamarkt,2024-04-15
+apple,iphone 15,512,48.0,6.1,green,0.0,0,1029.0,168.68852459016395,mediamarkt,2024-04-15
+apple,iphone 15 pro,512,48.0,6.1,natural titanium,100.0,1,1264.0,207.21311475409837,mediamarkt,2024-04-15
+apple,iphone 14,128,12.0,6.1,red,96.0,16,619.0,101.47540983606558,mediamarkt,2024-04-15
+apple,iphone 15 plus,128,48.0,6.7,yellow,0.0,0,829.0,123.73134328358209,mediamarkt,2024-04-15
+samsung,galaxy s21 fe 5g,128,12.0,6.4,olive,74.0,6,707.0,110.46875,mediamarkt,2024-04-15
+xiaomi,redmi note 12 pro 4g,256,108.0,6.67,glacier blue,90.0,6,383.95,57.56371814092953,mediamarkt,2024-04-15
+xiaomi,poco m5s,64,64.0,6.43,blue,0.0,0,177.95,27.674961119751167,mediamarkt,2024-04-15
+xiaomi,poco m5s,64,64.0,6.43,white,0.0,0,206.95,32.1850699844479,mediamarkt,2024-04-15
+xiaomi,redmi 10,128,50.0,6.5,carbon grey,68.0,10,149.7,23.03076923076923,mediamarkt,2024-04-15
+xiaomi,13 pro,256,50.0,6.73,ceramic black,100.0,2,1161.0,172.5111441307578,mediamarkt,2024-04-15
+fairphone,4 5g,256,48.0,6.3,gray,0.0,0,516.0,81.90476190476191,mediamarkt,2024-04-15
+xiaomi,13,256,50.0,6.36,black,84.0,6,893.0,140.40880503144655,mediamarkt,2024-04-15
+apple,iphone 14 pro,128,48.0,6.1,space black,92.0,36,937.0,153.6065573770492,mediamarkt,2024-04-15
+apple,iphone 15 plus,512,48.0,6.7,pink,0.0,0,1159.0,172.98507462686567,mediamarkt,2024-04-15
+xiaomi,redmi note 12 pro 5g,128,50.0,6.67,midnight black,92.0,14,239.7,35.93703148425787,mediamarkt,2024-04-15
+apple,iphone 12,64,12.0,6.1,white,88.0,11,479.95,78.68032786885246,mediamarkt,2024-04-15
+apple,iphone 14 plus,256,12.0,6.7,blue,100.0,2,829.0,123.73134328358209,mediamarkt,2024-04-15
+xiaomi,redmi note 12 4g,128,50.0,6.67,onyx gray,76.0,35,159.7,23.94302848575712,mediamarkt,2024-04-15

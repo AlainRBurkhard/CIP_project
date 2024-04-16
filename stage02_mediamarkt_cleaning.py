@@ -1,30 +1,47 @@
-# This script was initially developed as a Jupyter notebook for interactive data cleaning and exploration. 
-# For practical reasons and to enhance performance during batch processing, all interactive User Interface (UI) 
-# elements and visualizations have been commented out. 
-# This adjustment ensures that the script runs efficiently in a non-interactive, automated environment.
+""" 
+Stage02 - cleaning process
 
-#P.S. Iniatial cleaning process was made during the scraping 
+Input - stage01_scraped_mediamarkt.csv
+Output - stage02_cleaned_mediamarkt.csv
+
+This script was initially developed as a Jupyter notebook for interactive data cleaning and exploration. 
+For practical reasons and to enhance performance during batch processing, all interactive User Interface (UI) 
+elements and visualizations have been commented out. 
+This adjustment ensures that the script runs efficiently in a non-interactive, automated environment. 
+"""
+
+#P.S. Iniatial cleaning process was made during the scraping
 
 ################################################################################################################################
                     # Library importing
     
-import pandas as pd
 import time
 from datetime import datetime
 import ydata_profiling
 from pandas_profiling import ProfileReport
 import numpy as np
+import pandas as pd
 import re
-import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.options import Options
+
+options = Options()
+options.add_argument("--headless")
 
 ################################################################################################################################
                     # Reading CSV-File
     
-df = pd.read_csv('data/scraped_mediamarkt.csv')
+df = pd.read_csv('data/stage_01_scraped_mediamarkt.csv')
 
 # Interesting ressources that creates a resume of all your dataset
 profile = ProfileReport(df, title='Data Profiling Report', explorative=True)
-
+# html profile
 # General information about the dataframe
 
 """
@@ -123,23 +140,52 @@ df['category'] = df['category'].str.lower() #Transforming all data in column to 
 df_size_nan = df[np.isnan(df['size'])] #filtering rows with missing values for size
 #print(len(df_size_nan))
 
-size_verification = df_size_nan['source']     #printing to user url link for manual input
+driver = webdriver.Firefox(options=options)
+wait = WebDriverWait(driver, 5) 
+
+display_sizes = {} # Assuming size_verification is a series with URLs to check
+size_verification = df_size_nan['webpage']
+
 for index, url in size_verification.items():
-    #print(f"{index}: {url}")
+    try:
+        driver.get(url)  # Navigate to each URL
+        wait.until(EC.presence_of_element_located((By.ID, 'features')))  # Wait for the features section to load
 
-#Few phones don't follow the main structure and is necessary to manual verify values
-#Columns could be left empty
+        display_size_in_inches = driver.execute_script("""
+            var features = document.querySelector('#features');
+            var sections = features.querySelectorAll('section');
+            for (var i = 0; i < sections.length; i++) {
+                var h2 = sections[i].querySelector('h2');
+                if (h2 && h2.textContent.trim().toLowerCase() === 'display') {
+                    var dts = sections[i].querySelectorAll('dt');
+                    for (var j = 0; j < dts.length; j++) {
+                        if (dts[j].textContent.trim() === 'Bildschirmdiagonale (Zoll):') {
+                            var dd = dts[j].nextElementSibling;
+                            if (dd) {
+                                return dd.textContent.replace('"', '').trim();
+                            }
+                            return null;
+                        }
+                    }
+                }
+            }
+            return 'Display section or data not found';
+            """)
 
-    size_manually = {  #dict with index and size collected
-    131: 5.00,
-    142: 3.25,
-    189: 3.00,
-    254: 5.00
-    }
+        display_sizes[url] = display_size_in_inches
+        
+       
 
-# Update the 'size' column in the DataFrame with the manual colected data
-for index, size in size_manually.items():
-    df.at[index, 'size'] = size
+    except TimeoutException:
+        pass
+    except Exception as e:
+        pass
+
+# Close the WebDriver after the loop
+driver.quit()
+
+for url, size in display_sizes.items():
+    df.loc[df['webpage'] == url, 'size'] = size
 
 #Confirming that there is no more missing values
 #df['size'].isnull().sum() 
@@ -151,18 +197,50 @@ for index, size in size_manually.items():
 #df['storage'].unique()
 
 df_space_nan = df[pd.isnull(df['storage'])]    #filtering df to rows where storage column has missing values
-storage_verification = df_space_nan['source']  #Serie from df_space_nan with all source column results 
-for index, url in storage_verification.items():
-    #print(f"{index}: {url}")                  #Printing all urls for manual input
-    
-    storage_manually = {  #dict of index storage value
-    131: '32 GB',
-    142: '8 GB'
-    }
 
-# Update the 'size' column in the DataFrame wth storage_manually
-for index, storage in storage_manually.items():
-    df.at[index, 'storage'] = storage
+driver = webdriver.Firefox(options=options)
+wait = WebDriverWait(driver, 5) 
+
+storages = {}
+storage_verification = df_space_nan['webpage'] # Assuming size_verification is a series with URLs to check
+
+for index, url in storage_verification.items():
+    try:
+        driver.get(url)  # Navigate to each URL 
+        wait.until(EC.presence_of_element_located((By.ID, 'features')))  # Wait for the features section to load
+
+        storagevalues = driver.execute_script("""
+            var features = document.getElementById('features');
+            if (!features) {
+                return 'Features section not found';
+            }
+            var sections = features.querySelectorAll('section');
+            for (var i = 0; i < sections.length; i++) {
+                var h2 = sections[i].querySelector('h2');
+                if (h2 && h2.textContent.trim().toLowerCase() === 'technische merkmale') {
+                    var dts = sections[i].querySelectorAll('dt');
+                    for (var j = 0; j < dts.length; j++) {
+                        if (dts[j].textContent.trim() === 'Speicherkapazität:') {
+                            var dd = dts[j].nextElementSibling;
+                            return dd ? dd.textContent.trim() : null;
+                        }
+                    }
+                }
+            }
+            return 'Display section or data not found';
+        """)
+
+        storages[url] = storagevalues
+        
+    except TimeoutException:
+        pass
+    except Exception as e:
+        pass
+
+driver.quit()  # Close the WebDriver after the loop
+
+for url, storage in storages.items():
+    df.loc[df['webpage'] == url, 'storage'] = storage
     
 ################################################################################################################################
                     # Color Column
@@ -175,27 +253,41 @@ df['color'] = df['color'].str.lower()
 colors = ['black', 'blue', 'green', 'red', 'yellow', 'white', 'gray', 'purple', 'pink', 'orange', 
           'brown', 'silver', 'gold', 'titanium', 'platinum', 'schwarz', 'weiss']
 
+color_translation = {
+    'schwarz': 'black', 'weiss': 'white', 'grau': 'gray',
+    'hellgrün': 'light green', 'hellblau': 'light blue', 'violett': 'violet',
+    'dunkelblau': 'dark blue', 'blau': 'blue', 'graphit': 'graphite',
+    'rot': 'red', 'grün': 'green', 'gelb': 'yellow',
+    'orange': 'orange', 'rosa': 'pink', 'lila': 'purple',
+    'braun': 'brown', 'beige': 'beige', 'türkis': 'turquoise',
+    'gold': 'gold', 'silber': 'silver', 'kupfer': 'copper',
+    'marine': 'navy', 'oliv': 'olive', 'khaki': 'khaki',
+    'karmesin': 'crimson', 'fuchsia': 'fuchsia', 'aquamarin': 'aquamarine',
+    'koralle': 'coral', 'indigo': 'indigo', 'elfenbein': 'ivory',
+    'lavendel': 'lavender', 'limette': 'lime', 'magenta': 'magenta',
+    'maroon': 'maroon', 'ocker': 'ochre', 'pfirsich': 'peach',
+    'pflaume': 'plum', 'saphir': 'sapphire', 'smaragd': 'emerald',
+    'sonne': 'sun', 'taupe': 'taupe', 'teal': 'teal',
+    'zimt': 'cinnamon', 'zitrone': 'lemon'
+}
+
+
 def extract_color(value):
     # Check if the string contains numbers, 'GB', or specific special characters
     if re.search(r'\d|GB|[()/]', value):
-        # Convert the value to lowercase to make the search case-insensitive
-        value_lower = value.lower()
+        value_lower = value.lower()   # Convert the value to lowercase to make the search case-insensitive
 
-        # Search for each color in the string
-        for color in colors:
+        for color in colors:        # Search for each color in the string
             if re.search(r'\b' + color + r'\b', value_lower):
-                return color.capitalize()  # Return the color with the first letter capitalized
+                return color  # Return the color with the first letter capitalized
 
-        # Return 'Unknown' or any other placeholder if no known color is found
-        return 'unknown'
+        return 'unknown'   # Return 'Unknown' or any other placeholder if no known color is found
+
     
-    # If the string doesn't contain the specified patterns, return it as is
-    return value
+    return value    # If the string doesn't contain the specified patterns, return it as is
 
 df['color'] = df['color'].apply(extract_color)
-#df['color'].unique()
-
-df_color_nan = df[pd.isnull(df['color'])]
+df['color'] = df['color'].replace(color_translation)
 
 ################################################################################################################################
                     # Price Column
@@ -204,35 +296,17 @@ df_color_nan = df[pd.isnull(df['color'])]
 #df['price'].unique()
 
 def clean_price(value):
-    # Find all numeric sequences
-    matches = re.findall(r'\d+\.?\d*', value)
-    if matches:
-        # Return the last match
-        return matches[-1]
-    return value 
+    try:
+        value = str(value)    # Convert the value to string in case it's not
+        matches = re.findall(r'\d+\.?\d*', value)  # Find all numeric sequences
+        if matches:
+            # Return the last match as a float
+            return float(matches[-1])
+    except Exception as e:
+        print(f"Error cleaning price for value {value}: {e}")  # Log the error and return the value as is or return NaN
 
 df['price'] = df['price'].apply(clean_price)
 df['price'] = df['price'].astype(float)
-
-################################################################################################################################
-                    # Source Column
-    
-df_source_nan = df[pd.isnull(df['source'])]
-
-"""
-def check_url_status(url):
-    try:
-        response = requests.head(url, timeout=2)  # Using HEAD instead of GET to speed up the process
-        if response.status_code == 200:
-            return 'Working'
-        else:
-            return f'Broken ({response.status_code})'
-    except requests.RequestException as e:
-        return f'Error ({e})'
-
-# Apply the function to check each URL
-df['status'] = df['source'].apply(check_url_status)
-"""
 
 ################################################################################################################################
                     # Date Column
@@ -240,25 +314,13 @@ df['status'] = df['source'].apply(check_url_status)
 df['date'] = pd.to_datetime(df['date']) #Transforming date column to datetime
 
 ################################################################################################################################
-                    # N_of_reviews Column
+                    # Reviews count
     
-#Overall look on the dataname of column N_of_reviews          
-#df['n_of_reviews'].unique()
-
-df_n_of_reviews_nan = df[pd.isnull(df['n_of_reviews'])] #Filtering df to rows where n_of_reviews has a missing value
-#len(df_n_of_reviews_nan)
-
-n_of_reviews_nan_verification = df_n_of_reviews_nan['source']  #Serie from df_n_of_reviews_nan with all source column results
-                                                               #for manual verification
-for index, url in n_of_reviews_nan_verification.items():
-    #print(f"{index}: {url}")
-    reviews_manually = {54: '(5)'}
+#Overall look on the dataname of column reviews_count       
+#df['reviews_count'].unique()
     
-for index, reviews in reviews_manually.items():
-    df.at[index, 'n_of_reviews'] = reviews
-    
-df['n_of_reviews'] = df['n_of_reviews'].str.replace('(', '', regex=False).str.replace(')', '', regex=False)
-df['n_of_reviews'] = df['n_of_reviews'].fillna('0').astype(int)
+df['reviews_count'] = df['reviews_count'].str.replace('(', '', regex=False).str.replace(')', '', regex=False)
+df['reviews_count'] = df['reviews_count'].fillna('0').astype(int)
 
 ################################################################################################################################
                     # Rating Column
@@ -278,47 +340,54 @@ df['rating'] = df['rating'].fillna('0').astype(float)
                     # Delivery Column
     
 #df['delivery_time'].unique()
-
 def extract_days(text):
-    # Convert text to string to handle cases where text is not a string
-    text = str(text)
-    
+    text = str(text)    # Convert text to string to handle cases where text is not a string
+
     if pd.isnull(text) or "nicht mehr verfügbar" in text or "nicht lieferbar" in text or "ausverkauft" in text or "kein Liefertermin" in text:
         return None
     else:
-        # Find all numbers in the string
-        numbers = [int(num) for num in re.findall(r'\d+', text)]
+        numbers = [int(num) for num in re.findall(r'\d+', text)]  # Find all numbers in the string
+
         if numbers:
             return max(numbers)  # Return the highest number, assuming it's the upper limit of days
         else:
             return None  # Return None if no numbers are found
 
-# Assuming you have a DataFrame 'df' with a column 'delivery_time'
-df['delivery_time'] = df['delivery_time'].apply(extract_days)
+df['delivery_time'] = df['delivery_time'].apply(extract_days) # Assuming you have a DataFrame 'df' with a column 'delivery_time'
 
-# Apply the function to the delivery_time column
-df['delivery_time'].astype(float)
+df['delivery_time'].astype(float) # Apply the function to the delivery_time column
+
+################################################################################################################################
+                    # Camera_MP
+    
+def extract_memory_mp(value):
+    if not isinstance(value, str):
+        return None  # Return None if the value is not a string
+    
+    # Find all numeric sequences in the string
+    matches = re.findall(r'\d+', value)
+    if matches:
+        return int(matches[0])         # Convert the first match to an integer
+    return None
+
+df['camera_MP'] = df['camera_MP'].apply(extract_memory_mp)
 
 ################################################################################################################################
                     # Dropping columns 
     
-df = df.drop(columns=['page', 'article_number', 'condition' ])
+df = df.drop(columns=['category', 'article_number', 'condition' ])
 
 ################################################################################################################################
                     # Reorganizing columns order
 
-new_order = ['brand', 'model', 'category', 'size', 'storage', 'color', 'rating', 'n_of_reviews', 'delivery_time', 'price', 'source', 'date']
+new_order = ['brand', 'model', 'size', 'storage', 'color', 'rating', 'reviews_count', 'delivery_time', 'price', 'webpage', 'source', 'camera_MP', 'date']
 df = df[new_order]
 
-
-
-new_order = ['id', 'brand', 'model', 'memory_GB', 'camera_MP', 'size', 'color', 'rating_100', 'reviews_count', 'price', 'screen_price_ratio', 'source', 'date']
-df = df[new_order]
 ################################################################################################################################
                     # Saving Df to CSV
     
-file_name = "data/cleaned_mediamarkt.csv"
-# Save the DataFrame to CSV in the same directory as the script
-df.to_csv(file_name, index=False)
+file_name = "data/stage02_cleaned_mediamarkt.csv"
+df.to_csv(file_name, index=False) # Save the DataFrame to CSV in the same directory as the script
 
-print("File sucessfully ran, cleaned_mediamarkt.csv is on the folder data")
+################################################################################################################################
+""" Author: Alain Ramon Burkhard """
