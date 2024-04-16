@@ -2,3 +2,7 @@ venv/
 driver/
 .ipynb_checkpoints
 .DS_store
+.example.log
+sb_imports.pyb
+logs/
+sb_*
