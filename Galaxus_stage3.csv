@@ -1,0 +1,1173 @@
+id,brand,model,memory_GB,camera_MP,size,color,rating_100,reviews_count,price,delivery_time,screen_price_ratio,source,date
+1,Apple,iPhone 15,128,48.0,6.1,Black,92.0,629.0,719.0,1.0,0.008484,galaxus,2024-04-16
+2,Samsung,Galaxy S23,256,50.0,6.1,Phantom Black,90.0,394.0,639.0,1.0,0.009546,galaxus,2024-04-16
+3,Samsung,Galaxy A54 5G,128,50.0,6.4,Awesome Graphite,90.0,684.0,320.0,1.0,0.02,galaxus,2024-04-16
+4,Samsung,Galaxy S24 Ultra,512,200.0,6.8,Titanium Black,0.0,141.0,1282.0,1.0,0.005304,galaxus,2024-04-16
+5,Apple,iPhone 15 Pro,256,48.0,6.1,Black Titanium,92.0,702.0,1043.0,1.0,0.005849,galaxus,2024-04-16
+6,Google,Pixel 8,256,50.0,6.2,Obsidian,86.0,246.0,669.0,1.0,0.009268,galaxus,2024-04-16
+7,Fairphone,5,256,50.0,6.46,Transparent Edition,90.0,151.0,606.0,1.0,0.01066,galaxus,2024-04-16
+8,Apple,iPhone 15,256,48.0,6.1,Black,92.0,629.0,807.0,1.0,0.007559,galaxus,2024-04-16
+9,Samsung,Galaxy S24,256,50.0,6.2,Onyx Black,94.0,44.0,764.0,1.0,0.008115,galaxus,2024-04-16
+10,Xiaomi,Redmi Note 13 Pro 5G,256,200.0,6.67,Midnight Black,94.0,68.0,280.0,1.0,0.023821,galaxus,2024-04-16
+11,Apple,iPhone 13,128,12.0,6.1,Midnight,94.0,433.0,525.0,1.0,0.011619,galaxus,2024-04-16
+12,Apple,iPhone 15,128,48.0,6.1,Blue,92.0,629.0,720.0,1.0,0.008472,galaxus,2024-04-16
+13,Apple,iPhone 15 Pro Max,256,48.0,6.7,Black Titanium,92.0,583.0,1129.0,1.0,0.005934,galaxus,2024-04-16
+14,Google,Pixel 8,256,50.0,6.2,Hazel,86.0,246.0,669.0,1.0,0.009268,galaxus,2024-04-16
+15,Apple,iPhone 15 Pro,256,48.0,6.1,Natural Titanium,92.0,702.0,1035.0,1.0,0.005894,galaxus,2024-04-16
+16,Apple,iPhone 14,128,12.0,6.1,Midnight,94.0,1087.0,619.0,1.0,0.009855,galaxus,2024-04-16
+17,Samsung,Galaxy A34 5G,128,48.0,6.6,Awesome Graphite,92.0,235.0,245.0,1.0,0.026939,galaxus,2024-04-16
+18,Fairphone,5,256,50.0,6.46,Black matte,90.0,151.0,610.0,1.0,0.01059,galaxus,2024-04-16
+19,Xiaomi,14 Ultra,512,50.0,6.73,Black,94.0,7.0,1147.0,1.0,0.005867,galaxus,2024-04-16
+20,Samsung,Galaxy A54 5G,256,50.0,6.4,Awesome Graphite,90.0,684.0,380.0,1.0,0.016842,galaxus,2024-04-16
+21,Google,Pixel 8,128,50.0,6.2,Hazel,86.0,246.0,589.0,1.0,0.010526,galaxus,2024-04-16
+22,Apple,iPhone 15 Pro,256,48.0,6.1,Blue Titanium,92.0,702.0,1043.0,1.0,0.005849,galaxus,2024-04-16
+23,Apple,iPhone 15 Pro,128,48.0,6.1,Black Titanium,92.0,702.0,929.0,1.0,0.006566,galaxus,2024-04-16
+24,Google,Pixel 7a,128,64.0,6.1,Charcoal,88.0,314.0,369.0,1.0,0.016531,galaxus,2024-04-16
+25,OPPO,Find X5 Pro,256,50.0,6.7,Ceramic White,90.0,228.0,475.0,1.0,0.014105,galaxus,2024-04-16
+26,Apple,iPhone 15,128,48.0,6.1,Pink,92.0,629.0,675.0,1.0,0.009037,galaxus,2024-04-16
+27,Apple,iPhone 15 Pro Max,256,48.0,6.7,Natural Titanium,92.0,583.0,1132.0,1.0,0.005919,galaxus,2024-04-16
+28,Samsung,Galaxy S24 Ultra,512,200.0,6.8,Titanium Gray,0.0,141.0,1187.0,1.0,0.005729,galaxus,2024-04-16
+29,Apple,iPhone SE (3rd Gen),128,12.0,4.7,Midnight,92.0,308.0,428.0,1.0,0.010981,galaxus,2024-04-16
+30,Samsung,Galaxy S23 Ultra,512,200.0,6.8,Green,92.0,410.0,899.0,1.0,0.007564,galaxus,2024-04-16
+31,Xiaomi,Redmi Note 13 Pro 5G,512,200.0,6.67,Ocean Teal,94.0,68.0,342.0,1.0,0.019503,galaxus,2024-04-16
+32,Samsung,Galaxy A53 5G Enterprise Edition,128,64.0,6.5,Awesome Black,92.0,116.0,280.0,1.0,0.023214,galaxus,2024-04-16
+33,Samsung,Galaxy A54 5G,128,50.0,6.4,Awesome White,90.0,684.0,318.0,1.0,0.020126,galaxus,2024-04-16
+34,Samsung,Galaxy A54 5G,256,50.0,6.4,Awesome Lime,90.0,684.0,357.0,1.0,0.017927,galaxus,2024-04-16
+35,Samsung,Galaxy XCover7,128,50.0,6.6,Black,0.0,3.0,285.0,1.0,0.023158,galaxus,2024-04-16
+36,Google,Pixel 8 Pro,256,50.0,6.7,Obsidian,86.0,275.0,801.95,2.0,0.008355,galaxus,2024-04-16
+37,Samsung,Galaxy S24,256,50.0,6.2,Marble grey,94.0,44.0,792.0,1.0,0.007828,galaxus,2024-04-16
+38,Google,Pixel 8 Pro,256,50.0,6.7,porcelain,86.0,275.0,929.0,1.0,0.007212,galaxus,2024-04-16
+39,Samsung,Galaxy XCover 5 EE Enterprise Edition,64,16.0,5.3,Black,0.0,190.0,206.0,1.0,0.025728,galaxus,2024-04-16
+40,Apple,iPhone 15 Pro,128,48.0,6.1,Blue Titanium,92.0,702.0,921.0,1.0,0.006623,galaxus,2024-04-16
+41,Samsung,Galaxy S23+,256,50.0,6.6,Cream,90.0,105.0,833.0,1.0,0.007923,galaxus,2024-04-16
+42,Cat,S75,128,50.0,6.58,Black,0.0,42.0,343.0,1.0,0.019184,galaxus,2024-04-16
+43,Samsung,Galaxy A54 5G,128,50.0,6.4,Awesome Lime,90.0,684.0,321.0,1.0,0.019938,galaxus,2024-04-16
+44,Samsung,Galaxy A54 5G,128,50.0,6.4,Awesome Violet,90.0,684.0,315.0,1.0,0.020317,galaxus,2024-04-16
+45,Samsung,Galaxy S23+,256,50.0,6.6,Lavender,90.0,105.0,649.0,1.0,0.010169,galaxus,2024-04-16
+46,Google,Pixel 8 Pro,512,50.0,6.7,Obsidian,86.0,275.0,1079.0,1.0,0.006209,galaxus,2024-04-16
+47,Samsung,Galaxy S23,128,50.0,6.1,Green,90.0,394.0,566.0,1.0,0.010777,galaxus,2024-04-16
+48,Xiaomi,Redmi Note 13 Pro 5G,512,200.0,6.67,Midnight Black,94.0,68.0,342.0,1.0,0.019503,galaxus,2024-04-16
+49,Samsung,Galaxy S21 FE 5G EU,128,12.0,6.4,Graphites,90.0,171.0,362.0,1.0,0.01768,galaxus,2024-04-16
+50,Apple,iPhone 15,128,48.0,6.1,Green,92.0,629.0,719.0,1.0,0.008484,galaxus,2024-04-16
+51,Samsung,Galaxy A54 5G,256,50.0,6.4,Awesome Violet,90.0,684.0,350.0,1.0,0.018286,galaxus,2024-04-16
+52,Apple,iPhone 15 Pro,128,48.0,6.1,Natural Titanium,92.0,702.0,930.0,1.0,0.006559,galaxus,2024-04-16
+53,Samsung,Galaxy A15,128,50.0,6.5,Blue,94.0,22.0,130.0,1.0,0.05,galaxus,2024-04-16
+54,Google,Pixel 8 Pro,256,50.0,6.7,Bay,86.0,275.0,929.0,1.0,0.007212,galaxus,2024-04-16
+55,Samsung,Galaxy S24,128,50.0,6.2,Onyx Black,94.0,44.0,730.0,1.0,0.008493,galaxus,2024-04-16
+56,Apple,iPhone 13,128,12.0,6.1,Starlight,94.0,1058.0,525.0,1.0,0.011619,galaxus,2024-04-16
+57,Apple,iPhone 15 Pro,512,48.0,6.1,Black Titanium,92.0,702.0,1267.0,1.0,0.004815,galaxus,2024-04-16
+58,Samsung,Galaxy A33 5G Enterprise Edition,128,48.0,6.4,Awesome Black,90.0,146.0,232.0,1.0,0.027586,galaxus,2024-04-16
+59,Apple,iPhone 14,128,12.0,6.1,Starlight,94.0,1087.0,619.0,1.0,0.009855,galaxus,2024-04-16
+60,Google,Pixel 7a,128,64.0,6.1,Sea,88.0,314.0,369.0,1.0,0.016531,galaxus,2024-04-16
+61,OnePlus,12,512,50.0,6.82,Silky Black,86.0,33.0,896.0,1.0,0.007612,galaxus,2024-04-16
+62,Samsung,Galaxy S24+,256,50.0,6.7,Onyx Black,92.0,21.0,914.0,1.0,0.00733,galaxus,2024-04-16
+63,Google,Pixel 8,256,50.0,6.2,Rose,86.0,246.0,669.0,1.0,0.009268,galaxus,2024-04-16
+64,Xiaomi,13T Pro,512,50.0,6.67,Black,88.0,53.0,591.0,1.0,0.011286,galaxus,2024-04-16
+65,Samsung,Galaxy A14 LTE,128,50.0,6.6,Black,86.0,117.0,150.0,1.0,0.044,galaxus,2024-04-16
+66,Xiaomi,Poco X6 Pro,512,64.0,6.67,Black,0.0,11.0,349.0,1.0,0.019112,galaxus,2024-04-16
+67,Samsung,Galaxy S24+,512,50.0,6.7,Onyx Black,92.0,21.0,1008.0,1.0,0.006647,galaxus,2024-04-16
+68,Samsung,Galaxy A55,128,50.0,6.6,Awesome Navy,88.0,21.0,429.0,1.0,0.015385,galaxus,2024-04-16
+69,Xiaomi,Redmi 13C,256,50.0,6.74,Midnight Black,92.0,32.0,125.0,1.0,0.05392,galaxus,2024-04-16
+70,Apple,iPhone 15 Pro Max,256,48.0,6.7,Blue Titanium,92.0,583.0,1131.0,1.0,0.005924,galaxus,2024-04-16
+71,Apple,iPhone SE (3rd Gen),64,12.0,4.7,Midnight,92.0,308.0,383.0,1.0,0.012272,galaxus,2024-04-16
+72,Samsung,Galaxy S24 Ultra,512,200.0,6.8,Titanium Yellow,0.0,141.0,1178.0,1.0,0.005772,galaxus,2024-04-16
+73,OnePlus,12,512,50.0,6.82,Flowy Emerald,86.0,33.0,929.0,1.0,0.007341,galaxus,2024-04-16
+74,Apple,iPhone 14,128,12.0,6.1,Blue,94.0,1087.0,619.0,1.0,0.009855,galaxus,2024-04-16
+75,Apple,iPhone 14,128,12.0,6.1,Purple,94.0,1087.0,619.0,1.0,0.009855,galaxus,2024-04-16
+76,Samsung,Galaxy S24 Ultra,1000,200.0,6.8,Titanium Black,0.0,141.0,1499.0,1.0,0.004536,galaxus,2024-04-16
+77,Google,Pixel 8 Pro,128,50.0,6.7,Obsidian,86.0,275.0,779.0,1.0,0.008601,galaxus,2024-04-16
+78,Apple,iPhone 15 Pro Max,256,48.0,6.7,White titanium,92.0,583.0,1149.0,1.0,0.005831,galaxus,2024-04-16
+79,Samsung,Galaxy A55,256,50.0,6.6,Awesome Iceblue,88.0,21.0,479.0,1.0,0.013779,galaxus,2024-04-16
+80,Samsung,Galaxy A34 5G,128,48.0,6.6,Awesome Violet,92.0,235.0,249.0,1.0,0.026506,galaxus,2024-04-16
+81,Xiaomi,Redmi Note 13 Pro+ 5G,512,200.0,6.67,Midnight Black,88.0,47.0,400.0,1.0,0.016675,galaxus,2024-04-16
+82,Samsung,Galaxy S24,256,50.0,6.2,Cobalt Violet,94.0,44.0,799.0,1.0,0.00776,galaxus,2024-04-16
+83,Apple,iPhone 15,256,48.0,6.1,Pink,92.0,629.0,829.0,1.0,0.007358,galaxus,2024-04-16
+84,Cat,S42 H+,32,13.0,5.5,Black,0.0,73.0,187.0,1.0,0.029412,galaxus,2024-04-16
+85,Apple,iPhone 15,128,48.0,6.1,Yellow,92.0,629.0,675.0,1.0,0.009037,galaxus,2024-04-16
+86,Apple,iPhone 15 Pro Max,512,48.0,6.7,Blue Titanium,92.0,583.0,1398.0,1.0,0.004793,galaxus,2024-04-16
+87,Samsung,Galaxy A23 5G,128,50.0,6.6,Awesome Black,86.0,138.0,207.0,1.0,0.031884,galaxus,2024-04-16
+88,Samsung,Galaxy A14 5G,128,50.0,6.6,Black,92.0,62.0,167.0,1.0,0.039521,galaxus,2024-04-16
+89,Samsung,Galaxy S22,128,50.0,6.1,Phantom Black,86.0,479.0,458.51,6.0,0.013304,galaxus,2024-04-16
+90,Samsung,Galaxy S23 Ultra,256,200.0,6.8,Cream,92.0,410.0,829.0,1.0,0.008203,galaxus,2024-04-16
+91,Samsung,Galaxy Z Flip5,512,12.0,6.7,Graphites,0.0,90.0,844.0,1.0,0.007938,galaxus,2024-04-16
+92,Xiaomi,Redmi Note 13 Pro+ 5G,256,200.0,6.67,Midnight Black,88.0,47.0,353.0,1.0,0.018895,galaxus,2024-04-16
+93,Samsung,Galaxy A55,256,50.0,6.6,Awesome Navy,88.0,21.0,432.83,6.0,0.015248,galaxus,2024-04-16
+94,Google,Pixel 8,128,50.0,6.2,Obsidian,86.0,246.0,589.0,1.0,0.010526,galaxus,2024-04-16
+95,Samsung,Galaxy A55,256,50.0,6.6,Awesome Lilac,88.0,21.0,479.0,1.0,0.013779,galaxus,2024-04-16
+96,Apple,iPhone 15 Plus,128,48.0,6.7,Black,94.0,73.0,849.0,1.0,0.007892,galaxus,2024-04-16
+97,Apple,iPhone 15,256,48.0,6.1,Green,92.0,629.0,819.0,1.0,0.007448,galaxus,2024-04-16
+98,Apple,iPhone 15,256,48.0,6.1,Blue,92.0,629.0,913.89,1.0,0.006675,galaxus,2024-04-16
+99,Nothing,Phone (2),256,50.0,6.7,Grey,88.0,98.0,504.0,1.0,0.013294,galaxus,2024-04-16
+100,Samsung,Galaxy S24,256,50.0,6.2,Amber Yellow,94.0,44.0,799.0,1.0,0.00776,galaxus,2024-04-16
+101,Samsung,Galaxy A53 5G,128,64.0,6.5,Awesome Black,90.0,637.0,294.0,1.0,0.022109,galaxus,2024-04-16
+102,Samsung,Galaxy A34 5G,128,48.0,6.6,Awesome Silver,92.0,235.0,270.0,1.0,0.024444,galaxus,2024-04-16
+103,Samsung,Galaxy A34 5G,128,48.0,6.6,Awesome Lime,92.0,235.0,250.0,1.0,0.0264,galaxus,2024-04-16
+104,Google,Pixel 8,128,50.0,6.2,Rose,86.0,246.0,589.0,1.0,0.010526,galaxus,2024-04-16
+105,Samsung,Galaxy S24 Ultra,512,200.0,6.8,Titanium Violet,0.0,141.0,1282.0,1.0,0.005304,galaxus,2024-04-16
+106,Motorola,Moto G54,256,50.0,6.5,Midnight Blue,92.0,54.0,177.0,1.0,0.036723,galaxus,2024-04-16
+107,Samsung,Galaxy S24 Ultra,256,200.0,6.8,Titanium Black,0.0,141.0,1069.0,,0.006361,galaxus,2024-04-16
+108,Apple,iPhone 14,256,12.0,6.1,Midnight,94.0,1087.0,726.0,1.0,0.008402,galaxus,2024-04-16
+109,Apple,iPhone 15 Pro,256,48.0,6.1,White titanium,92.0,702.0,1029.0,1.0,0.005928,galaxus,2024-04-16
+110,Apple,iPhone 15 Pro,128,48.0,6.1,White titanium,92.0,702.0,938.0,1.0,0.006503,galaxus,2024-04-16
+111,Samsung,Galaxy S24 Ultra,256,200.0,6.8,Titanium Gray,0.0,141.0,1109.0,,0.006132,galaxus,2024-04-16
+112,Samsung,Galaxy S22,256,50.0,6.1,Phantom Black,88.0,139.0,529.0,1.0,0.011531,galaxus,2024-04-16
+113,Apple,iPhone 15 Pro Max,512,48.0,6.7,Black Titanium,92.0,583.0,1352.0,1.0,0.004956,galaxus,2024-04-16
+114,Apple,iPhone 15 Pro Max,512,48.0,6.7,Natural Titanium,92.0,583.0,1349.0,1.0,0.004967,galaxus,2024-04-16
+115,Sony,Xperia 10 V,128,48.0,6.1,Black,0.0,82.0,370.0,1.0,0.016486,galaxus,2024-04-16
+116,Apple,iPhone SE (3rd Gen),128,12.0,4.7,Starlight,90.0,44.0,420.0,1.0,0.01119,galaxus,2024-04-16
+117,Samsung,Galaxy S23 Ultra,256,200.0,6.8,Green,92.0,410.0,860.0,1.0,0.007907,galaxus,2024-04-16
+118,Apple,iPhone 11,64,12.0,6.1,Black,94.0,2618.0,383.0,1.0,0.015927,galaxus,2024-04-16
+119,Samsung,Galaxy S23,128,50.0,6.1,Cream,90.0,394.0,624.0,1.0,0.009776,galaxus,2024-04-16
+120,Samsung,Galaxy A04s,32,50.0,6.5,Black,86.0,140.0,106.0,1.0,0.061321,galaxus,2024-04-16
+121,Samsung,Galaxy A04s,32,50.0,6.5,Green,86.0,140.0,107.0,1.0,0.060748,galaxus,2024-04-16
+122,Samsung,Galaxy A54 5G,256,50.0,6.4,Awesome White,90.0,684.0,340.0,,0.018824,galaxus,2024-04-16
+123,Samsung,Galaxy S23,128,50.0,6.1,Phantom Black,90.0,394.0,580.0,1.0,0.010517,galaxus,2024-04-16
+124,Apple,iPhone 12,64,12.0,6.1,Black,0.0,1650.0,449.0,1.0,0.013586,galaxus,2024-04-16
+125,Nothing,Phone (2a),256,50.0,6.7,Black,90.0,4.0,380.0,1.0,0.017632,galaxus,2024-04-16
+126,Apple,iPhone 15 Pro,512,48.0,6.1,Blue Titanium,92.0,702.0,1269.0,1.0,0.004807,galaxus,2024-04-16
+127,Xiaomi,Redmi Note 13,128,108.0,6.67,Ice Blue,88.0,16.0,155.0,1.0,0.043032,galaxus,2024-04-16
+128,Samsung,Galaxy S24,128,50.0,6.2,Marble grey,94.0,44.0,707.0,1.0,0.008769,galaxus,2024-04-16
+129,Xiaomi,14,512,50.0,6.36,Jade Green,86.0,7.0,753.0,2.0,0.008446,galaxus,2024-04-16
+130,Sony,Xperia 1 V,256,52.0,6.5,Khaki Green,86.0,113.0,1074.0,1.0,0.006052,galaxus,2024-04-16
+131,Google,Pixel 7a,128,64.0,6.1,Snow,88.0,314.0,369.0,1.0,0.016531,galaxus,2024-04-16
+132,Samsung,Galaxy A15 5G,128,50.0,6.5,Yellow,92.0,14.0,197.0,1.0,0.032995,galaxus,2024-04-16
+133,Xiaomi,Redmi 13C,256,50.0,6.74,Navy Blue,92.0,32.0,134.0,1.0,0.050299,galaxus,2024-04-16
+134,Samsung,Galaxy S22,128,50.0,6.1,Green,86.0,479.0,429.0,1.0,0.014219,galaxus,2024-04-16
+135,Sony,Xperia 1 V,256,52.0,6.5,Black,86.0,113.0,972.0,1.0,0.006687,galaxus,2024-04-16
+136,Apple,iPhone 13,256,12.0,6.1,Midnight,94.0,1058.0,649.0,1.0,0.009399,galaxus,2024-04-16
+137,Apple,iPhone 13,128,12.0,6.1,Green,94.0,1058.0,583.47,1.0,0.010455,galaxus,2024-04-16
+138,Samsung,Galaxy A55,128,50.0,6.6,Awesome Iceblue,88.0,21.0,429.0,1.0,0.015385,galaxus,2024-04-16
+139,Apple,iPhone 15 Pro,512,48.0,6.1,White titanium,92.0,702.0,1253.0,1.0,0.004868,galaxus,2024-04-16
+140,ZTE,Blade L9,32,5.0,5.0,Gray,0.0,17.0,41.9,1.0,0.119332,galaxus,2024-04-16
+141,Xiaomi,Redmi Note 13 Pro,256,200.0,6.67,Midnight Black,94.0,16.0,237.0,1.0,0.028143,galaxus,2024-04-16
+142,Apple,iPhone 13,128,12.0,6.1,Pink,94.0,1058.0,525.0,1.0,0.011619,galaxus,2024-04-16
+143,Sony,Xperia 5 V,128,52.0,6.1,Black,0.0,40.0,835.0,1.0,0.007305,galaxus,2024-04-16
+144,Samsung,Galaxy A34 5G,256,48.0,6.6,Awesome Lime,92.0,235.0,283.0,1.0,0.023322,galaxus,2024-04-16
+145,Fairphone,4,128,48.0,6.3,Grey,90.0,544.0,449.0,1.0,0.014031,galaxus,2024-04-16
+146,Samsung,Galaxy A34 5G,256,48.0,6.6,Awesome Silver,92.0,235.0,310.0,1.0,0.02129,galaxus,2024-04-16
+147,Samsung,Galaxy A25 5G,128,50.0,6.5,Blue Black,92.0,16.0,241.57,6.0,0.026907,galaxus,2024-04-16
+148,Apple,iPhone 12,128,12.0,6.1,Black,0.0,1650.0,499.0,1.0,0.012224,galaxus,2024-04-16
+149,Xiaomi,13T,256,50.0,6.67,Black,0.0,51.0,407.0,1.0,0.016388,galaxus,2024-04-16
+150,Xiaomi,Redmi Note 12 Pro,128,50.0,6.67,Sky blue,0.0,24.0,215.0,1.0,0.031023,galaxus,2024-04-16
+151,Samsung,Galaxy S23 FE,128,50.0,6.4,Graphites,94.0,20.0,493.0,1.0,0.012982,galaxus,2024-04-16
+152,Xiaomi,Redmi Note 13 Pro+ 5G,256,200.0,6.67,Aurora Purple,88.0,47.0,347.0,1.0,0.019222,galaxus,2024-04-16
+153,Google,Pixel 7,128,50.0,6.3,Lemongrass,88.0,384.0,431.0,1.0,0.014617,galaxus,2024-04-16
+154,Apple,iPhone SE (3rd Gen),64,12.0,4.7,Starlight,92.0,308.0,384.0,1.0,0.01224,galaxus,2024-04-16
+155,Samsung,Galaxy S24+,512,50.0,6.7,Amber Yellow,92.0,21.0,962.0,1.0,0.006965,galaxus,2024-04-16
+156,Motorola,moto g84,256,50.0,6.5,Marshmallow Blue,94.0,45.0,244.0,1.0,0.026639,galaxus,2024-04-16
+157,Samsung,Galaxy S24 Ultra,1000,200.0,6.8,Titanium Gray,0.0,141.0,1487.0,1.0,0.004573,galaxus,2024-04-16
+158,Nothing,Phone (2a),128,50.0,6.7,Black,86.0,3.0,312.0,1.0,0.021474,galaxus,2024-04-16
+159,Xiaomi,12 5G,256,50.0,6.28,Blue,86.0,132.0,382.0,1.0,0.01644,galaxus,2024-04-16
+160,Apple,iPhone 13 mini,256,12.0,5.4,Blue,0.0,1203.0,773.65,6.0,0.00698,galaxus,2024-04-16
+161,Apple,iPhone 15 Pro,512,48.0,6.1,Natural Titanium,92.0,702.0,1268.0,1.0,0.004811,galaxus,2024-04-16
+162,Samsung,Galaxy A25 5G,128,50.0,6.5,Blue,92.0,16.0,265.0,1.0,0.024528,galaxus,2024-04-16
+163,Samsung,Galaxy S23,128,50.0,6.1,Lavender,90.0,394.0,596.0,2.0,0.010235,galaxus,2024-04-16
+164,OnePlus,Open,512,48.0,7.82,Voyager Black,86.0,30.0,1552.0,1.0,0.005039,galaxus,2024-04-16
+165,Xiaomi,13,256,50.0,6.36,Black,90.0,110.0,652.0,1.0,0.009755,galaxus,2024-04-16
+166,Apple,iPhone 14 Pro,128,48.0,6.1,Deep Purple,92.0,1024.0,899.0,1.0,0.006785,galaxus,2024-04-16
+167,OPPO,Reno 8,256,50.0,6.43,Shimmer Black,92.0,69.0,259.0,1.0,0.024826,galaxus,2024-04-16
+168,Google,Pixel 7,128,50.0,6.3,Obsidian,88.0,384.0,417.0,1.0,0.015108,galaxus,2024-04-16
+169,Samsung,Galaxy A55,128,50.0,6.6,Awesome Lilac,88.0,21.0,429.0,1.0,0.015385,galaxus,2024-04-16
+170,Emporia,Smart 5 mini,64,13.0,4.95,Black,0.0,4.0,178.0,1.0,0.027809,galaxus,2024-04-16
+171,Google,Pixel 7 Pro,128,50.0,6.7,Obsidian,90.0,356.0,557.0,1.0,0.012029,galaxus,2024-04-16
+172,Samsung,Galaxy S23 Ultra,512,200.0,6.8,Phantom Black,92.0,410.0,999.0,1.0,0.006807,galaxus,2024-04-16
+173,Motorola,moto g84,256,50.0,6.5,Midnight Blue,94.0,45.0,224.0,1.0,0.029018,galaxus,2024-04-16
+174,Nokia,X30 5G,256,50.0,6.43,Cloudy Blue,92.0,39.0,297.0,1.0,0.02165,galaxus,2024-04-16
+175,Nokia,G22,128,50.0,6.5,Lagoon Blue,0.0,17.0,127.0,1.0,0.051181,galaxus,2024-04-16
+176,Samsung,Galaxy A15,128,50.0,6.5,Yellow,94.0,22.0,132.0,1.0,0.049242,galaxus,2024-04-16
+177,Xiaomi,13T,256,50.0,6.67,meadow green,0.0,51.0,506.0,1.0,0.013182,galaxus,2024-04-16
+178,Google,Pixel 7,256,50.0,6.3,Obsidian,88.0,384.0,459.0,1.0,0.013725,galaxus,2024-04-16
+179,Xiaomi,Redmi Note 13 Pro+ 5G,512,200.0,6.67,Aurora Purple,88.0,47.0,419.99,6.0,0.015881,galaxus,2024-04-16
+180,Nothing,Phone (2),128,50.0,6.7,Grey,92.0,11.0,445.0,1.0,0.015056,galaxus,2024-04-16
+181,Emporia,SMART.6 Senior smartphone,128,50.0,6.58,Black,94.0,7.0,337.0,1.0,0.019525,galaxus,2024-04-16
+182,Apple,iPhone SE (3rd Gen),128,12.0,4.7,(PRODUCT)RED,92.0,308.0,421.0,1.0,0.011164,galaxus,2024-04-16
+183,Xiaomi,Redmi Note 13 Pro 5G,512,200.0,6.67,Aurora Purple,94.0,68.0,342.0,1.0,0.019503,galaxus,2024-04-16
+184,Apple,iPhone 15 Plus,128,48.0,6.7,Blue,94.0,73.0,849.0,1.0,0.007892,galaxus,2024-04-16
+185,OPPO,Reno 10,256,64.0,6.7,Silvery Grey,90.0,44.0,328.95,3.0,0.020368,galaxus,2024-04-16
+186,Samsung,Galaxy A14 LTE Worldline Tap on Mobile Edition,64,50.0,6.6,Black,90.0,20.0,99.0,1.0,0.066667,galaxus,2024-04-16
+187,Xiaomi,Redmi Note 12,128,50.0,6.67,Onyx Gray,90.0,117.0,138.0,1.0,0.048333,galaxus,2024-04-16
+188,Samsung,Galaxy A23 5G,128,50.0,6.6,Light blue,86.0,138.0,207.0,1.0,0.031884,galaxus,2024-04-16
+189,Xiaomi,Redmi Note 12 Pro+,256,200.0,6.67,Midnight Black,90.0,192.0,286.0,1.0,0.023322,galaxus,2024-04-16
+190,Samsung,Galaxy S24,128,50.0,6.2,Cobalt Violet,94.0,44.0,702.0,1.0,0.008832,galaxus,2024-04-16
+191,Apple,iPhone 15,256,48.0,6.1,Yellow,92.0,629.0,816.0,1.0,0.007475,galaxus,2024-04-16
+192,Xiaomi,Poco M4 5G,64,13.0,6.58,Power Black,92.0,10.0,98.9,1.0,0.066532,galaxus,2024-04-16
+193,Apple,iPhone 15 Plus,128,48.0,6.7,Pink,94.0,73.0,843.0,1.0,0.007948,galaxus,2024-04-16
+194,Motorola,Razr 40 Ultra,256,12.0,6.9,Infinite Black,0.0,28.0,751.0,1.0,0.009188,galaxus,2024-04-16
+195,Xiaomi,Redmi Note 12 Pro 5G,128,50.0,6.67,Midnight Black,0.0,65.0,210.0,1.0,0.031762,galaxus,2024-04-16
+196,Xiaomi,Poco M4 5G,64,13.0,6.58,Cool Blue,92.0,10.0,98.9,1.0,0.066532,galaxus,2024-04-16
+197,Samsung,Galaxy S23 Ultra,256,200.0,6.8,Phantom Black,92.0,410.0,936.56,6.0,0.007261,galaxus,2024-04-16
+198,Samsung,Galaxy A55,256,50.0,6.6,Awesome Lemon,88.0,21.0,479.0,1.0,0.013779,galaxus,2024-04-16
+199,Xiaomi,Redmi Note 13 Pro,512,200.0,6.67,Forest Green,94.0,16.0,280.0,1.0,0.023821,galaxus,2024-04-16
+200,Samsung,Galaxy Z Flip5,512,12.0,6.7,Lavender,0.0,90.0,899.0,1.0,0.007453,galaxus,2024-04-16
+201,Apple,iPhone XR,64,12.0,6.1,(PRODUCT)RED,94.0,621.0,749.0,1.0,0.008144,galaxus,2024-04-16
+202,Nokia,G42 5G,128,50.0,6.56,Purple,86.0,43.0,179.0,1.0,0.036648,galaxus,2024-04-16
+203,Apple,iPhone 15 Pro Max,512,48.0,6.7,White titanium,92.0,583.0,1349.0,2.0,0.004967,galaxus,2024-04-16
+204,Samsung,Galaxy S23 FE,256,50.0,6.4,Mint,94.0,20.0,619.0,1.0,0.010339,galaxus,2024-04-16
+205,Sony,Xperia 10 V,128,48.0,6.1,White,0.0,82.0,363.0,1.0,0.016804,galaxus,2024-04-16
+206,Xiaomi,Redmi 9A,32,13.0,6.53,Granite Grey,0.0,242.0,75.6,1.0,0.086376,galaxus,2024-04-16
+207,Apple,iPhone 13,256,12.0,6.1,Starlight,94.0,1058.0,629.0,1.0,0.009698,galaxus,2024-04-16
+208,Samsung,Galaxy S24+,256,50.0,6.7,Marble grey,92.0,21.0,949.0,1.0,0.00706,galaxus,2024-04-16
+209,Samsung,Galaxy S24 Enterprise Edition,256,50.0,6.2,Onyx Black,0.0,1.0,784.0,1.0,0.007908,galaxus,2024-04-16
+210,Apple,iPhone 13,256,12.0,6.1,Blue,94.0,1058.0,649.0,1.0,0.009399,galaxus,2024-04-16
+211,Apple,iPhone 15 Pro Max,1000,48.0,6.7,Black Titanium,92.0,583.0,1556.0,1.0,0.004306,galaxus,2024-04-16
+212,Apple,iPhone 15 Pro Max,1000,48.0,6.7,Natural Titanium,92.0,583.0,1563.0,1.0,0.004287,galaxus,2024-04-16
+213,Samsung,Galaxy S24+,512,50.0,6.7,Cobalt Violet,92.0,21.0,1049.0,1.0,0.006387,galaxus,2024-04-16
+214,Apple,iPhone 11,128,12.0,6.1,Black,94.0,2618.0,448.0,1.0,0.013616,galaxus,2024-04-16
+215,Samsung,Galaxy S23,256,50.0,6.1,Green,90.0,394.0,691.0,1.0,0.008828,galaxus,2024-04-16
+216,Samsung,Xcover 6 Pro EE Enterprise Edition,128,50.0,6.6,Black,88.0,45.0,452.57,1.0,0.014583,galaxus,2024-04-16
+217,Xiaomi,Redmi 12,256,50.0,6.79,Polar Silver,94.0,7.0,141.0,1.0,0.048156,galaxus,2024-04-16
+218,Xiaomi,Redmi Note 13,256,108.0,6.67,Midnight Black,88.0,16.0,196.95,3.0,0.033866,galaxus,2024-04-16
+219,Nothing,Phone (2),256,50.0,6.7,White,88.0,98.0,500.0,1.0,0.0134,galaxus,2024-04-16
+220,Apple,iPhone SE (3rd Gen),256,12.0,4.7,Midnight,94.0,11.0,579.0,1.0,0.008117,galaxus,2024-04-16
+221,Xiaomi,Redmi Note 13 Pro,512,200.0,6.67,Midnight Black,94.0,16.0,283.0,1.0,0.023569,galaxus,2024-04-16
+222,Xiaomi,Poco X5 Pro 5G,256,108.0,6.67,Black,0.0,95.0,283.0,1.0,0.023569,galaxus,2024-04-16
+223,Xiaomi,13T,256,50.0,6.67,meadow green,0.0,51.0,468.7,2.0,0.014231,galaxus,2024-04-16
+224,Apple,iPhone 13 mini,128,12.0,5.4,Midnight,0.0,1203.0,786.18,6.0,0.006869,galaxus,2024-04-16
+225,ASUS,ROG Phone 8 Pro,512,50.0,6.78,Phantom Black,94.0,3.0,1100.0,1.0,0.006164,galaxus,2024-04-16
+226,Xiaomi,Redmi Note 13 5G,256,108.0,6.67,Ocean Teal,90.0,11.0,266.0,1.0,0.025075,galaxus,2024-04-16
+227,Xiaomi,Redmi Note 13 5G,256,108.0,6.67,Graphite Black,90.0,11.0,248.95,3.0,0.026793,galaxus,2024-04-16
+228,Nothing,Phone (1) (8GB),256,50.0,6.55,Black,90.0,483.0,318.0,1.0,0.020597,galaxus,2024-04-16
+229,Google,Pixel 7,128,50.0,6.3,Snow,88.0,384.0,397.0,1.0,0.015869,galaxus,2024-04-16
+230,Apple,iPhone 14 Pro,128,48.0,6.1,Space Black,92.0,1024.0,972.0,1.0,0.006276,galaxus,2024-04-16
+231,OPPO,Reno 10 Pro,256,50.0,6.7,Glossy Purple,0.0,30.0,457.0,1.0,0.014661,galaxus,2024-04-16
+232,Apple,iPhone 15 Plus,256,48.0,6.7,Black,94.0,73.0,949.0,1.0,0.00706,galaxus,2024-04-16
+233,Samsung,Galaxy A14 LTE,128,50.0,6.6,Lime Green,86.0,117.0,162.0,1.0,0.040741,galaxus,2024-04-16
+234,Nothing,Phone (2),512,50.0,6.7,Grey,88.0,98.0,629.0,1.0,0.010652,galaxus,2024-04-16
+235,Samsung,Galaxy A15,128,50.0,6.5,Blue,0.0,0.0,122.0,1.0,0.053279,galaxus,2024-04-16
+236,Sony,Xperia 10 V,128,48.0,6.1,Say Green,0.0,82.0,363.0,1.0,0.016804,galaxus,2024-04-16
+237,Apple,iPhone SE (3rd Gen),64,12.0,4.7,(PRODUCT)RED,94.0,30.0,379.0,1.0,0.012401,galaxus,2024-04-16
+238,Samsung,Galaxy A14 5G,128,50.0,6.6,Silver,92.0,62.0,164.0,1.0,0.040244,galaxus,2024-04-16
+239,Apple,iPhone 14,256,12.0,6.1,Starlight,94.0,1087.0,729.0,1.0,0.008368,galaxus,2024-04-16
+240,Apple,iPhone 15 Plus,128,48.0,6.7,Green,94.0,73.0,829.0,1.0,0.008082,galaxus,2024-04-16
+241,Google,Pixel 6 Pro,128,50.0,6.7,Stormy Black,88.0,142.0,385.0,1.0,0.017403,galaxus,2024-04-16
+242,OPPO,A96,128,50.0,6.59,Sunset Blue,94.0,26.0,178.0,1.0,0.037022,galaxus,2024-04-16
+243,Apple,iPhone 13 mini,128,12.0,5.4,Starlight,0.0,1203.0,699.0,1.0,0.007725,galaxus,2024-04-16
+244,Fairphone,5,256,50.0,6.46,Sky blue,90.0,151.0,684.23,2.0,0.009441,galaxus,2024-04-16
+245,Xiaomi,Redmi Note 12S,256,108.0,6.43,Onyx Black,86.0,12.0,176.0,1.0,0.036534,galaxus,2024-04-16
+246,Samsung,Galaxy S23,256,50.0,6.1,Lavender,90.0,394.0,699.0,1.0,0.008727,galaxus,2024-04-16
+247,Xiaomi,Redmi Note 11S,128,108.0,6.43,Graphite gray,92.0,103.0,148.0,1.0,0.043446,galaxus,2024-04-16
+248,Xiaomi,Redmi Note 13 Pro 5G,256,200.0,6.67,Aurora Purple,94.0,68.0,298.0,1.0,0.022383,galaxus,2024-04-16
+249,Honor,Magic6 Pro,512,50.0,6.8,Midnight Black,0.0,6.0,1099.45,6.0,0.006185,galaxus,2024-04-16
+250,Apple,iPhone 14 Plus,128,12.0,6.7,Midnight,94.0,231.0,729.0,1.0,0.009191,galaxus,2024-04-16
+251,Xiaomi,Redmi A2,32,8.0,6.52,Black,0.0,30.0,90.95,3.0,0.071688,galaxus,2024-04-16
+252,Google,Pixel 8 Pro,128,50.0,6.7,Bay,86.0,275.0,779.0,1.0,0.008601,galaxus,2024-04-16
+253,Samsung,Galaxy A23 5G,64,50.0,6.6,Awesome Black,86.0,138.0,185.0,1.0,0.035676,galaxus,2024-04-16
+254,Apple,iPhone 15 Pro Max,1000,48.0,6.7,Blue Titanium,92.0,583.0,1567.0,1.0,0.004276,galaxus,2024-04-16
+255,OnePlus,Nord 3,256,50.0,6.74,Misty Green,0.0,7.0,405.0,1.0,0.016642,galaxus,2024-04-16
+256,Xiaomi,Poco X6 Pro,512,64.0,6.67,Yellow,0.0,1.0,409.0,1.0,0.016308,galaxus,2024-04-16
+257,Ulefone,Armor 22,128,64.0,6.58,Black,90.0,2.0,232.0,1.0,0.028362,galaxus,2024-04-16
+258,Apple,iPhone XR,64,12.0,6.1,Black,94.0,621.0,339.0,1.0,0.017994,galaxus,2024-04-16
+259,Google,Pixel 4a 5G,128,16.0,6.2,Just Black,92.0,162.0,259.0,1.0,0.023938,galaxus,2024-04-16
+260,Google,Pixel 7 Pro,128,50.0,6.7,White,90.0,356.0,680.0,1.0,0.009853,galaxus,2024-04-16
+261,Samsung,Galaxy S23+,512,50.0,6.6,Phantom Black,90.0,105.0,849.0,1.0,0.007774,galaxus,2024-04-16
+262,Samsung,Galaxy A15 LTE,128,50.0,6.5,Blue Black,0.0,0.0,135.0,1.0,0.048148,galaxus,2024-04-16
+263,Apple,iPhone 14 Pro,256,48.0,6.1,Silver,92.0,1024.0,1116.0,1.0,0.005466,galaxus,2024-04-16
+264,Xiaomi,Redmi 12,256,50.0,6.79,Midnight Black,90.0,34.0,158.0,1.0,0.042975,galaxus,2024-04-16
+265,Xiaomi,Redmi 12,256,50.0,6.79,Sky blue,88.0,7.0,158.0,1.0,0.042975,galaxus,2024-04-16
+266,Xiaomi,Redmi 12,128,50.0,6.79,Sky blue,88.0,22.0,113.0,1.0,0.060088,galaxus,2024-04-16
+267,OPPO,Find X5,256,50.0,6.55,White,86.0,61.0,371.95,3.0,0.01761,galaxus,2024-04-16
+268,Apple,iPhone 15,512,48.0,6.1,Black,92.0,629.0,1026.0,1.0,0.005945,galaxus,2024-04-16
+269,Samsung,Galaxy A35,128,50.0,6.6,Awesome Navy,0.0,2.0,305.0,1.0,0.021639,galaxus,2024-04-16
+270,Emporia,Super Easy,32,13.0,4.95,Black,0.0,3.0,259.0,1.0,0.019112,galaxus,2024-04-16
+271,Xiaomi,Redmi 13C,128,50.0,6.74,Midnight Black,0.0,5.0,115.44,6.0,0.058385,galaxus,2024-04-16
+272,ZTE,Blade A52,32,13.0,6.52,Space grey,0.0,2.0,68.9,1.0,0.09463,galaxus,2024-04-16
+273,Xiaomi,Redmi Note 13 Pro,256,200.0,6.67,Forest Green,94.0,16.0,258.0,1.0,0.025853,galaxus,2024-04-16
+274,Xiaomi,Redmi Note 11 Pro 5G,128,108.0,6.67,Atlantic blue,88.0,235.0,205.0,1.0,0.032537,galaxus,2024-04-16
+275,Samsung,Galaxy Z Flip5,512,12.0,6.7,Mint,0.0,90.0,899.0,1.0,0.007453,galaxus,2024-04-16
+276,OPPO,Reno 8 Lite,128,64.0,6.43,Cosmic Black,90.0,12.0,237.0,1.0,0.027131,galaxus,2024-04-16
+277,Motorola,Moto E13,64,13.0,6.5,Cosmic Black,88.0,42.0,76.9,1.0,0.084525,galaxus,2024-04-16
+278,Apple,iPhone 14,128,12.0,6.1,(PRODUCT)RED,94.0,1087.0,629.0,1.0,0.009698,galaxus,2024-04-16
+279,Apple,iPhone 15 Pro,1000,48.0,6.1,Blue Titanium,92.0,702.0,1474.0,1.0,0.004138,galaxus,2024-04-16
+280,Xiaomi,Redmi Note 12 Pro 5G,128,50.0,6.67,Polar White,0.0,15.0,238.0,1.0,0.028025,galaxus,2024-04-16
+281,Apple,iPhone 14,256,12.0,6.1,Purple,94.0,1087.0,729.0,1.0,0.008368,galaxus,2024-04-16
+282,Xiaomi,Redmi Note 11 Pro 5G,128,108.0,6.67,Graphite gray,88.0,235.0,188.0,1.0,0.035479,galaxus,2024-04-16
+283,Google,Pixel 8 Pro,128,50.0,6.7,porcelain,86.0,275.0,779.0,1.0,0.008601,galaxus,2024-04-16
+284,Doro,8200,64,16.0,6.1,Black,0.0,1.0,290.0,1.0,0.021034,galaxus,2024-04-16
+285,Samsung,Galaxy S24 Ultra,256,200.0,6.8,Titanium Violet,0.0,141.0,1169.0,1.0,0.005817,galaxus,2024-04-16
+286,OnePlus,12R,256,50.0,6.78,Iron Gray,0.0,2.0,602.0,2.0,0.011262,galaxus,2024-04-16
+287,Samsung,Galaxy A55,128,50.0,6.6,Awesome Lemon,88.0,21.0,429.0,1.0,0.015385,galaxus,2024-04-16
+288,Cat,S62 Pro,128,12.0,5.7,Black,0.0,124.0,457.0,1.0,0.012473,galaxus,2024-04-16
+289,Sony,Xperia 10 V,128,48.0,6.1,Lavender,0.0,82.0,363.0,1.0,0.016804,galaxus,2024-04-16
+290,Samsung,Galaxy S22,128,50.0,6.1,Pink Gold,86.0,479.0,462.0,1.0,0.013203,galaxus,2024-04-16
+291,Google,Pixel 7,256,50.0,6.3,Snow,88.0,384.0,452.0,1.0,0.013938,galaxus,2024-04-16
+292,Xiaomi,Redmi 13C,128,50.0,6.74,Navy Blue,92.0,32.0,113.0,1.0,0.059646,galaxus,2024-04-16
+293,Apple,iPhone 13 mini,256,12.0,5.4,Green,0.0,35.0,712.0,1.0,0.007584,galaxus,2024-04-16
+294,Xiaomi,13T Pro,512,50.0,6.67,meadow green,90.0,23.0,623.95,3.0,0.01069,galaxus,2024-04-16
+295,Google,Pixel 6a,128,12.2,6.1,Say Green,90.0,503.0,425.0,1.0,0.014353,galaxus,2024-04-16
+296,Samsung,Galaxy S23 FE,256,50.0,6.4,Graphites,94.0,20.0,580.91,6.0,0.011017,galaxus,2024-04-16
+297,OnePlus,OnePlus 12R,256,0.0,6.78,Cool Blue,0.0,2.0,655.0,1.0,0.010351,galaxus,2024-04-16
+298,Samsung,Galaxy S23 FE,128,50.0,6.4,Purple,94.0,20.0,483.0,7.0,0.013251,galaxus,2024-04-16
+299,Nothing,Phone (2a),128,50.0,6.7,White,86.0,3.0,320.0,1.0,0.020938,galaxus,2024-04-16
+300,Apple,iPhone 14 Plus,128,12.0,6.7,Blue,94.0,231.0,729.0,1.0,0.009191,galaxus,2024-04-16
+301,Samsung,Galaxy A13 5G,64,50.0,6.5,Black,86.0,25.0,209.0,1.0,0.0311,galaxus,2024-04-16
+302,Ulefone,Power Armor 18 Ultra,512,108.0,6.58,Black,0.0,1.0,443.0,1.0,0.014853,galaxus,2024-04-16
+303,Samsung,Galaxy A14 5G,128,50.0,6.6,Lime Green,92.0,62.0,189.0,4.0,0.034921,galaxus,2024-04-16
+304,Samsung,Galaxy XCover 5 EE Enterprise Edition EU,64,16.0,5.3,Black,0.0,21.0,282.0,1.0,0.018794,galaxus,2024-04-16
+305,HTC,U23 Pro,256,108.0,6.7,Coffee black,86.0,22.0,358.0,1.0,0.018715,galaxus,2024-04-16
+306,Apple,iPhone 12,64,12.0,6.1,White,0.0,1650.0,449.0,1.0,0.013586,galaxus,2024-04-16
+307,OnePlus,Nord 3,256,50.0,6.74,Tempest Gray,0.0,10.0,405.0,1.0,0.016642,galaxus,2024-04-16
+308,Honor,90,512,200.0,6.7,Midnight Emerald Green,94.0,9.0,359.0,1.0,0.018663,galaxus,2024-04-16
+309,Samsung,Galaxy S24+,256,50.0,6.7,Amber Yellow,92.0,21.0,949.0,1.0,0.00706,galaxus,2024-04-16
+310,OnePlus,11,128,50.0,6.7,Titan Black,88.0,19.0,664.0,1.0,0.01009,galaxus,2024-04-16
+311,OPPO,Reno6 Pro,256,50.0,6.5,Arctic Blue,0.0,51.0,299.0,1.0,0.021739,galaxus,2024-04-16
+312,Apple,iPhone 15 Pro,1000,48.0,6.1,Natural Titanium,92.0,702.0,1456.0,1.0,0.00419,galaxus,2024-04-16
+313,Xiaomi,13T Pro,512,50.0,6.67,Alpine blue,0.0,7.0,588.28,6.0,0.011338,galaxus,2024-04-16
+314,Xiaomi,Redmi Note 13,256,108.0,6.67,Ice Blue,88.0,16.0,190.0,4.0,0.035105,galaxus,2024-04-16
+315,Apple,iPhone 14 Pro Max,128,48.0,6.7,Space Black,88.0,649.0,1049.0,1.0,0.006387,galaxus,2024-04-16
+316,OPPO,A57s,128,50.0,6.56,Starry Black,88.0,10.0,160.0,1.0,0.041,galaxus,2024-04-16
+317,Apple,iPhone 13,256,12.0,6.1,Green,94.0,1058.0,629.0,1.0,0.009698,galaxus,2024-04-16
+318,Xiaomi,Redmi Note 13,256,108.0,6.67,Mint green,88.0,16.0,205.0,1.0,0.032537,galaxus,2024-04-16
+319,Google,Pixel 6a,128,12.2,6.1,Charcoal,90.0,503.0,319.0,1.0,0.019122,galaxus,2024-04-16
+320,Xiaomi,Redmi 10C,64,50.0,6.71,Mint green,0.0,1.0,125.0,1.0,0.05368,galaxus,2024-04-16
+321,Ulefone,Power Armor 19T,256,108.0,6.58,Black,0.0,6.0,492.0,1.0,0.013374,galaxus,2024-04-16
+322,OPPO,Reno 10 Pro,256,50.0,6.7,Silvery Grey,0.0,30.0,533.95,3.0,0.012548,galaxus,2024-04-16
+323,OPPO,Find X5 Lite,256,64.0,6.43,Starry Black,90.0,66.0,256.0,1.0,0.025117,galaxus,2024-04-16
+324,Xiaomi,11T Pro,256,108.0,6.67,Meteorite Gray,90.0,238.0,364.0,1.0,0.018324,galaxus,2024-04-16
+325,Honor,90,512,200.0,6.7,Midnight Black,0.0,25.0,350.0,1.0,0.019143,galaxus,2024-04-16
+326,Apple,iPhone 14,256,12.0,6.1,Blue,94.0,1087.0,731.0,1.0,0.008345,galaxus,2024-04-16
+327,Xiaomi,14,512,50.0,6.36,Black,86.0,7.0,823.78,6.0,0.007721,galaxus,2024-04-16
+328,Samsung,Galaxy S24+,512,50.0,6.7,Marble grey,92.0,21.0,1049.0,1.0,0.006387,galaxus,2024-04-16
+329,Samsung,Galaxy A13 5G,128,50.0,6.5,Black,92.0,10.0,199.0,1.0,0.032663,galaxus,2024-04-16
+330,Xiaomi,Poco F5,256,64.0,6.67,Black,86.0,19.0,349.0,1.0,0.019112,galaxus,2024-04-16
+331,Samsung,Galaxy S23+,256,50.0,6.6,Phantom Black,90.0,105.0,743.0,16.0,0.008883,galaxus,2024-04-16
+332,Samsung,Galaxy A15 5G,128,50.0,6.5,Blue,92.0,14.0,176.09,6.0,0.036913,galaxus,2024-04-16
+333,Xiaomi,Redmi 12C,128,50.0,6.71,Ocean Blue,88.0,59.0,112.0,1.0,0.059911,galaxus,2024-04-16
+334,Apple,iPhone 13,128,12.0,6.1,(PRODUCT)RED,94.0,1058.0,535.0,1.0,0.011402,galaxus,2024-04-16
+335,Apple,iPhone 15 Pro,1000,48.0,6.1,White titanium,92.0,702.0,1499.0,1.0,0.004069,galaxus,2024-04-16
+336,Samsung,Galaxy S23 FE,256,50.0,6.4,Purple,94.0,20.0,629.0,1.0,0.010175,galaxus,2024-04-16
+337,Apple,iPhone 13 mini,256,12.0,5.4,Midnight,0.0,1203.0,799.0,1.0,0.006758,galaxus,2024-04-16
+338,ASUS,Zenfone 10,256,50.0,5.9,Starry blue,86.0,44.0,666.0,1.0,0.008859,galaxus,2024-04-16
+339,Samsung,Galaxy A35,256,50.0,6.6,Awesome Navy,0.0,1.0,331.03,6.0,0.019938,galaxus,2024-04-16
+340,Samsung,Galaxy Z Flip5,512,12.0,6.7,Cream,0.0,90.0,877.0,1.0,0.00764,galaxus,2024-04-16
+341,Apple,iPhone 13 mini,512,12.0,5.4,Green,0.0,1203.0,766.0,1.0,0.00705,galaxus,2024-04-16
+342,Apple,iPhone 15 Plus,256,48.0,6.7,Blue,94.0,73.0,949.0,1.0,0.00706,galaxus,2024-04-16
+343,Samsung,Galaxy A04s,32,50.0,6.5,White,86.0,140.0,115.0,1.0,0.056522,galaxus,2024-04-16
+344,Xiaomi,Redmi Note 11S,128,108.0,6.43,Twilight Blue,92.0,103.0,151.0,1.0,0.042583,galaxus,2024-04-16
+345,Xiaomi,Poco X6 Pro,256,64.0,6.67,Black,0.0,0.0,313.0,2.0,0.02131,galaxus,2024-04-16
+346,OPPO,Find N2 Flip,256,50.0,6.8,Astral Black,88.0,32.0,1031.0,1.0,0.006596,galaxus,2024-04-16
+347,OPPO,Reno 10,256,64.0,6.7,Ice Blue,90.0,44.0,369.0,1.0,0.018157,galaxus,2024-04-16
+348,Xiaomi,Poco X5 5G,256,48.0,6.67,Green,90.0,20.0,259.0,1.0,0.025753,galaxus,2024-04-16
+349,Motorola,Moto G53,128,50.0,6.5,Ink blue,0.0,8.0,125.0,1.0,0.052,galaxus,2024-04-16
+350,Nokia,G42 5G,128,50.0,6.56,Grey,86.0,43.0,185.0,4.0,0.035459,galaxus,2024-04-16
+351,Motorola,ThinkPhone,256,50.0,6.6,Carbon black,0.0,8.0,502.0,1.0,0.013147,galaxus,2024-04-16
+352,Apple,iPhone 13,128,12.0,6.1,Blue,94.0,1058.0,583.62,1.0,0.010452,galaxus,2024-04-16
+353,Samsung,Galaxy S24 Enterprise Edition,128,50.0,6.2,Onyx Black,0.0,1.0,714.0,1.0,0.008683,galaxus,2024-04-16
+354,Sony,Xperia 5 V,128,52.0,6.1,Platinum Silver,0.0,40.0,835.0,10.0,0.007305,galaxus,2024-04-16
+355,ASUS,Zenfone 11 Ultra,512,50.0,6.78,Ethernal Black,0.0,0.0,999.0,1.0,0.006787,galaxus,2024-04-16
+356,OPPO,Reno 8 Pro,256,50.0,6.7,Glazed Black,92.0,23.0,355.0,1.0,0.018873,galaxus,2024-04-16
+357,Apple,iPhone 15 Pro,1000,48.0,6.1,Black Titanium,92.0,702.0,1459.0,1.0,0.004181,galaxus,2024-04-16
+358,Samsung,Galaxy S22 EU,128,50.0,6.1,Phantom Black,0.0,52.0,471.34,6.0,0.012942,galaxus,2024-04-16
+359,Xiaomi,Redmi A2,64,8.0,6.52,Black,0.0,2.0,83.0,1.0,0.078554,galaxus,2024-04-16
+360,Nokia,XR21 6 128 GB,128,64.0,6.5,Green,0.0,2.0,553.0,1.0,0.011754,galaxus,2024-04-16
+361,Samsung,Galaxy A23 5G,128,50.0,6.6,White,86.0,138.0,206.0,1.0,0.032039,galaxus,2024-04-16
+362,Honor,90 Lite,256,100.0,6.7,Midnight Black,86.0,15.0,182.0,1.0,0.036813,galaxus,2024-04-16
+363,Apple,iPhone 12,64,12.0,6.1,Green,0.0,1650.0,455.0,1.0,0.013407,galaxus,2024-04-16
+364,Xiaomi,12T Pro,256,200.0,6.67,Blue,92.0,75.0,527.0,1.0,0.012657,galaxus,2024-04-16
+365,Motorola,30 Neo,256,64.0,6.28,Black,94.0,10.0,190.0,1.0,0.033053,galaxus,2024-04-16
+366,Apple,iPhone 14 Pro,1000,48.0,6.1,Space Black,92.0,1024.0,1262.37,6.0,0.004832,galaxus,2024-04-16
+367,Xiaomi,Redmi 12,128,50.0,6.79,Midnight Black,88.0,22.0,122.0,1.0,0.055656,galaxus,2024-04-16
+368,Samsung,Galaxy A35,128,50.0,6.6,Awesome Lilac,0.0,2.0,299.34,6.0,0.022049,galaxus,2024-04-16
+369,Apple,iPhone 15 Plus,256,48.0,6.7,Pink,94.0,73.0,948.0,1.0,0.007068,galaxus,2024-04-16
+370,Sony,Xperia 5 V,128,52.0,6.1,Blue,0.0,40.0,856.29,6.0,0.007124,galaxus,2024-04-16
+371,Samsung,Galaxy S24+,256,50.0,6.7,Cobalt Violet,92.0,21.0,919.0,1.0,0.007291,galaxus,2024-04-16
+372,Xiaomi,Redmi Note 12 5G,128,48.0,6.67,Onyx Gray,0.0,31.0,159.0,1.0,0.04195,galaxus,2024-04-16
+373,Google,Pixel 6,128,50.0,6.4,Stormy Black,90.0,443.0,379.0,1.0,0.016887,galaxus,2024-04-16
+374,Samsung,Galaxy S22 EU,128,50.0,6.1,Pink Gold,0.0,52.0,419.0,1.0,0.014558,galaxus,2024-04-16
+375,Samsung,Galaxy S22 EU,256,50.0,6.1,Phantom Black,0.0,52.0,529.0,8.0,0.011531,galaxus,2024-04-16
+376,Apple,iPhone 14,128,12.0,6.1,Yellow,94.0,1087.0,619.0,1.0,0.009855,galaxus,2024-04-16
+377,OnePlus,9 Pro,128,48.0,6.7,Stellar Black,88.0,96.0,375.0,1.0,0.017867,galaxus,2024-04-16
+378,Nokia,C32,64,50.0,6.52,Charcoal,0.0,0.0,114.0,1.0,0.057193,galaxus,2024-04-16
+379,Xiaomi,Redmi Note 13 5G,256,108.0,6.67,Arctic White,90.0,11.0,265.0,1.0,0.02517,galaxus,2024-04-16
+380,Xiaomi,Redmi Note 13,128,108.0,6.67,Midnight Black,88.0,16.0,199.0,1.0,0.033518,galaxus,2024-04-16
+381,Samsung,Galaxy S22 Ultra EE Enterprise Edition,128,108.0,6.8,Phantom Black,92.0,17.0,742.0,1.0,0.009164,galaxus,2024-04-16
+382,Apple,iPhone SE (3rd Gen),256,12.0,4.7,Starlight,92.0,308.0,566.0,1.0,0.008304,galaxus,2024-04-16
+383,Nokia,X30,128,50.0,6.43,Cloudy Blue,92.0,7.0,289.0,1.0,0.022249,galaxus,2024-04-16
+384,Samsung,Galaxy Z Flip5,256,12.0,6.7,Graphites,0.0,90.0,699.0,1.0,0.009585,galaxus,2024-04-16
+385,Xiaomi,Redmi Note 10,128,48.0,6.5,Blue,92.0,93.0,126.0,1.0,0.051587,galaxus,2024-04-16
+386,Samsung,Galaxy S23,256,50.0,6.1,Cream,90.0,394.0,669.0,1.0,0.009118,galaxus,2024-04-16
+387,Ulefone,Armor 20WT,256,50.0,5.65,Black,0.0,1.0,350.0,1.0,0.016143,galaxus,2024-04-16
+388,OnePlus,Open,512,48.0,7.82,Emerald Dusk,86.0,30.0,1851.0,1.0,0.004225,galaxus,2024-04-16
+389,OnePlus,10 Pro,128,48.0,6.7,Volcanic Black,88.0,32.0,441.0,1.0,0.015193,galaxus,2024-04-16
+390,Nokia,G22,128,50.0,6.5,Meteor Gray,0.0,17.0,152.0,1.0,0.042763,galaxus,2024-04-16
+391,Cat,S62 Pro Version 2022,128,12.0,5.7,Black,0.0,124.0,522.0,2.0,0.01092,galaxus,2024-04-16
+392,Xiaomi,Redmi 10 2022,64,50.0,6.5,Blue,0.0,8.0,162.0,1.0,0.040123,galaxus,2024-04-16
+393,realme,12 Pro+,512,50.0,6.7,Submariner Blue,0.0,0.0,546.0,1.0,0.012271,galaxus,2024-04-16
+394,Sony,Xperia 1 IV,256,12.0,6.5,White,90.0,100.0,797.0,1.0,0.008156,galaxus,2024-04-16
+395,HTC,Desire 22 Pro,128,64.0,6.6,Black,86.0,29.0,169.0,1.0,0.039053,galaxus,2024-04-16
+396,Fairphone,4,256,48.0,6.3,Green Speckled,90.0,544.0,519.0,2.0,0.012139,galaxus,2024-04-16
+397,Xiaomi,Redmi Note 11S 5G,128,50.0,6.6,Midnight Black,0.0,11.0,149.0,1.0,0.044295,galaxus,2024-04-16
+398,Google,Pixel 6,128,50.0,6.4,Kinda Coral,90.0,443.0,343.0,1.0,0.018659,galaxus,2024-04-16
+399,OnePlus,Nord 2T,128,50.0,6.43,Gray shadow,88.0,55.0,275.0,1.0,0.023382,galaxus,2024-04-16
+400,Samsung,Galaxy A54 Enterprise Edition,128,50.0,6.4,Awesome Graphite,0.0,3.0,354.65,2.0,0.018046,galaxus,2024-04-16
+401,Xiaomi,14 with Electric Scooter 4 Lite,512,50.0,6.36,Black,86.0,7.0,998.0,1.0,0.006373,galaxus,2024-04-16
+402,Samsung,Galaxy S21 FE 5G EU,128,12.0,6.4,Olive,90.0,31.0,350.0,1.0,0.018286,galaxus,2024-04-16
+403,Apple,iPhone 14 Pro Max,128,48.0,6.7,Gold,88.0,649.0,1113.0,1.0,0.00602,galaxus,2024-04-16
+404,Apple,iPhone 11,64,12.0,6.1,White,94.0,2618.0,399.0,1.0,0.015288,galaxus,2024-04-16
+405,Xiaomi,Redmi 13C,256,50.0,6.74,Clover green,0.0,1.0,132.0,1.0,0.051061,galaxus,2024-04-16
+406,Ulefone,Armor 21,256,64.0,6.58,Black,0.0,3.0,274.0,1.0,0.024015,galaxus,2024-04-16
+407,Motorola,Edge 40 Neo,256,50.0,6.55,Black Beauty,0.0,4.0,340.0,1.0,0.019265,galaxus,2024-04-16
+408,Samsung,Galaxy S23 FE,128,50.0,6.4,Mint,94.0,20.0,499.0,1.0,0.012826,galaxus,2024-04-16
+409,Apple,iPhone 13 mini,128,12.0,5.4,Green,0.0,1203.0,699.0,1.0,0.007725,galaxus,2024-04-16
+410,Honor,Magic5 Pro,512,50.0,6.81,Green,0.0,77.0,899.0,1.0,0.007575,galaxus,2024-04-16
+411,Motorola,Edge 40,256,50.0,6.55,Eclipse Black,92.0,27.0,328.0,1.0,0.01997,galaxus,2024-04-16
+412,Honor,Magic5 Pro,512,50.0,6.81,Black,0.0,77.0,879.0,1.0,0.007747,galaxus,2024-04-16
+413,OPPO,Find X3 Pro,256,50.0,6.7,Gloss Black,92.0,75.0,445.95,3.0,0.015024,galaxus,2024-04-16
+414,Samsung,Galaxy Z Flip3 5G EU,128,12.0,6.7,Cream,88.0,16.0,471.0,1.0,0.014225,galaxus,2024-04-16
+415,Samsung,Galaxy A34 5G,256,48.0,6.6,Awesome Graphite,92.0,235.0,304.46,6.0,0.021678,galaxus,2024-04-16
+416,Samsung,Galaxy S24,128,50.0,6.2,Amber Yellow,94.0,44.0,748.0,1.0,0.008289,galaxus,2024-04-16
+417,Motorola,Moto G73,256,50.0,6.5,Midnight Blue,94.0,3.0,163.0,1.0,0.039877,galaxus,2024-04-16
+418,Samsung,Galaxy S20+ 5G,128,64.0,6.7,Cosmic Gray,92.0,57.0,449.0,1.0,0.014922,galaxus,2024-04-16
+419,OPPO,Find X3 Pro,256,50.0,6.7,Blue,94.0,72.0,406.0,1.0,0.016502,galaxus,2024-04-16
+420,Apple,iPhone 11,128,12.0,6.1,White,94.0,2618.0,449.0,1.0,0.013586,galaxus,2024-04-16
+421,Samsung,Galaxy S20 FE 5G EU,128,12.0,6.5,Cloud Navy,92.0,159.0,494.95,3.0,0.013133,galaxus,2024-04-16
+422,Honor,90,256,200.0,6.7,Midnight Black,88.0,7.0,325.0,1.0,0.020615,galaxus,2024-04-16
+423,OnePlus,10 Pro,256,48.0,6.7,Emerald Forest,88.0,39.0,677.0,1.0,0.009897,galaxus,2024-04-16
+424,Xiaomi,Redmi Note 13 Pro+ 5G,512,200.0,6.67,Moonlight White,88.0,47.0,400.0,1.0,0.016675,galaxus,2024-04-16
+425,Xiaomi,12 Lite,128,108.0,6.55,Black,0.0,11.0,236.0,1.0,0.027754,galaxus,2024-04-16
+426,OnePlus,Nord CE 3 Lite,128,108.0,6.7,Grey,0.0,25.0,204.0,1.0,0.032843,galaxus,2024-04-16
+427,Xiaomi,Poco X6 Pro,256,64.0,6.67,Grey,0.0,0.0,389.0,1.0,0.017147,galaxus,2024-04-16
+428,Motorola,Moto G84,256,50.0,6.5,Viva Magenta,94.0,45.0,214.0,2.0,0.030374,galaxus,2024-04-16
+429,ASUS,ROG Phone 6,512,50.0,6.78,Phantom Black,88.0,51.0,809.0,52.0,0.008381,galaxus,2024-04-16
+430,Samsung,Galaxy S21 FE 5G Enterprise Edition,128,12.0,6.4,Graphites,94.0,21.0,399.0,1.0,0.01604,galaxus,2024-04-16
+431,Motorola,Moto G54,256,50.0,6.5,Mint green,88.0,9.0,191.0,1.0,0.034031,galaxus,2024-04-16
+432,Samsung,Galaxy A34 5G,256,48.0,6.6,Awesome Violet,92.0,235.0,357.95,3.0,0.018438,galaxus,2024-04-16
+433,TCL,40 NxtPaper,256,50.0,6.78,Midnight Blue,0.0,4.0,200.0,1.0,0.0339,galaxus,2024-04-16
+434,Xiaomi,Redmi A2,32,8.0,6.52,Light green,0.0,30.0,77.0,1.0,0.084675,galaxus,2024-04-16
+435,Samsung,Galaxy S23 Ultra,512,200.0,6.8,Lavender,92.0,410.0,1040.0,1.0,0.006538,galaxus,2024-04-16
+436,Xiaomi,Redmi Note 12,128,50.0,6.67,Ice Blue,90.0,117.0,141.0,1.0,0.047305,galaxus,2024-04-16
+437,Apple,iPhone 14 Plus,128,12.0,6.7,Purple,94.0,231.0,729.0,1.0,0.009191,galaxus,2024-04-16
+438,Apple,iPhone 14,256,12.0,6.1,(PRODUCT)RED,94.0,1087.0,729.0,1.0,0.008368,galaxus,2024-04-16
+439,Apple,iPhone 12,128,12.0,6.1,Green,0.0,1650.0,499.0,1.0,0.012224,galaxus,2024-04-16
+440,Apple,iPhone 13 mini,256,12.0,5.4,(PRODUCT)RED,0.0,1203.0,712.0,1.0,0.007584,galaxus,2024-04-16
+441,Apple,iPhone 14 Pro Max,512,48.0,6.7,Silver,88.0,649.0,1217.0,1.0,0.005505,galaxus,2024-04-16
+442,Motorola,Moto G53,128,50.0,6.5,Pink,94.0,3.0,165.0,1.0,0.039394,galaxus,2024-04-16
+443,Ulefone,Armor X10 Pro,64,20.0,5.45,Black,0.0,7.0,160.0,9.0,0.034062,galaxus,2024-04-16
+444,Samsung,Galaxy A14 LTE,128,50.0,6.6,Silver,86.0,117.0,159.0,1.0,0.041509,galaxus,2024-04-16
+445,OPPO,A58,128,50.0,6.72,Glowing Black,0.0,8.0,178.0,1.0,0.037753,galaxus,2024-04-16
+446,realme,11 Pro+,512,200.0,6.7,Beige,86.0,42.0,397.0,1.0,0.016877,galaxus,2024-04-16
+447,Apple,iPhone 13 mini,512,12.0,5.4,Midnight,0.0,1203.0,945.0,1.0,0.005714,galaxus,2024-04-16
+448,Xiaomi,12T Pro,256,200.0,6.67,Black,92.0,75.0,552.0,1.0,0.012083,galaxus,2024-04-16
+449,Samsung,Galaxy S23+,512,50.0,6.6,Cream,90.0,105.0,849.0,1.0,0.007774,galaxus,2024-04-16
+450,Apple,iPhone 13,256,12.0,6.1,(PRODUCT)RED,94.0,1058.0,617.0,1.0,0.009887,galaxus,2024-04-16
+451,Samsung,Galaxy Z Fold5,512,50.0,7.6,Icy Blue,0.0,37.0,1589.0,,0.004783,galaxus,2024-04-16
+452,TIM,Motorola Razr 40 Ultra,256,12.0,6.89,Viva Magenta,0.0,1.0,748.0,1.0,0.009211,galaxus,2024-04-16
+453,Xiaomi,Redmi Note 12 Pro,256,50.0,6.67,Midnight Black,0.0,40.0,280.0,1.0,0.023821,galaxus,2024-04-16
+454,Xiaomi,Redmi Note 13 Pro,256,200.0,6.67,Purple Lavander,94.0,16.0,279.0,1.0,0.023907,galaxus,2024-04-16
+455,Samsung,Galaxy A35,256,50.0,6.6,Awesome Iceblue,0.0,1.0,419.0,1.0,0.015752,galaxus,2024-04-16
+456,Samsung,Galaxy A35,256,50.0,6.6,Awesome Lilac,0.0,1.0,419.0,1.0,0.015752,galaxus,2024-04-16
+457,ZTE,Blade L9,32,5.0,5.0,Blue,0.0,17.0,47.4,1.0,0.105485,galaxus,2024-04-16
+458,Samsung,Galaxy S21 Ultra EU,128,108.0,6.8,Phantom Black,88.0,10.0,659.0,4.0,0.010319,galaxus,2024-04-16
+459,Apple,iPhone 14 Plus,256,12.0,6.7,Starlight,94.0,231.0,829.0,1.0,0.008082,galaxus,2024-04-16
+460,Xiaomi,12 Lite,256,108.0,6.55,Black,0.0,2.0,260.0,1.0,0.025192,galaxus,2024-04-16
+461,Samsung,Galaxy A23 5G,64,50.0,6.6,White,86.0,138.0,184.0,1.0,0.03587,galaxus,2024-04-16
+462,Xiaomi,Redmi Note 13 Pro 5G,256,200.0,6.67,Ocean Teal,94.0,69.0,304.46,6.0,0.021908,galaxus,2024-04-16
+463,Honor,Magic 6 Lite,256,108.0,6.78,Emerald green,0.0,3.0,290.0,1.0,0.023379,galaxus,2024-04-16
+464,OPPO,A58,128,50.0,6.72,Dazzling Green,0.0,8.0,145.0,1.0,0.046345,galaxus,2024-04-16
+465,Xiaomi,Redmi 10C,64,50.0,6.71,Graphite gray,0.0,21.0,98.6,1.0,0.068053,galaxus,2024-04-16
+466,Honor,Magic6 Pro,512,50.0,6.8,Epi Green,0.0,3.0,1099.45,6.0,0.006185,galaxus,2024-04-16
+467,Honor,90 Lite,256,100.0,6.7,Titanium Silver,86.0,15.0,184.0,1.0,0.036413,galaxus,2024-04-16
+468,Google,pixel 5,128,12.0,6.0,Just Black,94.0,369.0,405.95,3.0,0.01478,galaxus,2024-04-16
+469,ASUS,Zenfone 10,512,50.0,5.9,Aurora Green,0.0,24.0,704.0,1.0,0.008381,galaxus,2024-04-16
+470,Xiaomi,Poco X6 Pro,256,64.0,6.67,Yellow,0.0,0.0,389.0,1.0,0.017147,galaxus,2024-04-16
+471,Xiaomi,13 Lite,256,50.0,6.55,Black,0.0,11.0,389.0,1.0,0.016838,galaxus,2024-04-16
+472,Nokia,XR21,128,64.0,6.49,Black,88.0,8.0,485.0,1.0,0.013381,galaxus,2024-04-16
+473,Xiaomi,Redmi Note 11,64,50.0,6.43,Graphite grey,90.0,285.0,131.0,1.0,0.049084,galaxus,2024-04-16
+474,OPPO,Reno6,128,64.0,6.4,Stellar Black,90.0,49.0,204.0,1.0,0.031373,galaxus,2024-04-16
+475,Xiaomi,Redmi Note 11S 5G,128,50.0,6.6,Twilight Blue,0.0,1.0,128.0,7.0,0.051562,galaxus,2024-04-16
+476,Samsung,Galaxy Z Fold5,512,50.0,7.6,Cream,0.0,37.0,1304.0,1.0,0.005828,galaxus,2024-04-16
+477,Samsung,Galaxy Z Fold4,512,50.0,7.6,Phantom Black,86.0,19.0,1223.0,1.0,0.006214,galaxus,2024-04-16
+478,Samsung,Galaxy S24 Ultra Enterprise Edition,256,200.0,6.8,Titanium Black,0.0,0.0,1212.0,1.0,0.005611,galaxus,2024-04-16
+479,OPPO,A78,128,50.0,6.56,Mist Black,94.0,9.0,162.8,1.0,0.040295,galaxus,2024-04-16
+480,Nokia,C2 2nd Edition,32,5.0,5.7,Blue,86.0,9.0,88.9,1.0,0.064117,galaxus,2024-04-16
+481,Fairphone,4,256,48.0,6.3,Green,90.0,544.0,519.0,1.0,0.012139,galaxus,2024-04-16
+482,Apple,iPhone 14 Plus,128,12.0,6.7,Starlight,94.0,231.0,820.23,2.0,0.008168,galaxus,2024-04-16
+483,Samsung,Galaxy A35,128,50.0,6.6,Awesome Iceblue,0.0,2.0,305.36,6.0,0.021614,galaxus,2024-04-16
+484,Xiaomi,13T Pro,1000,50.0,6.67,meadow green,0.0,9.0,697.0,1.0,0.00957,galaxus,2024-04-16
+485,Nokia,G11,64,13.0,6.52,Charcoal,0.0,5.0,107.0,3.0,0.060935,galaxus,2024-04-16
+486,ASUS,Zenfone 9,256,50.0,5.92,Midnight Black,92.0,65.0,529.0,1.0,0.011191,galaxus,2024-04-16
+487,Apple,iPhone 15 Pro Max,1000,48.0,6.7,White titanium,92.0,583.0,1732.79,1.0,0.003867,galaxus,2024-04-16
+488,Apple,iPhone 14 Pro,512,48.0,6.1,Space Black,92.0,1024.0,1311.95,3.0,0.00465,galaxus,2024-04-16
+489,Nothing,Phone (2a),256,50.0,6.7,White,90.0,4.0,472.95,3.0,0.014166,galaxus,2024-04-16
+490,OnePlus,11 5G,256,50.0,6.7,Eternal Green,90.0,28.0,832.0,1.0,0.008053,galaxus,2024-04-16
+491,Xiaomi,Poco X5 Pro 5G,256,108.0,6.67,Blue,0.0,95.0,288.0,1.0,0.02316,galaxus,2024-04-16
+492,Samsung,Galaxy S22 EE Enterprise Edition,128,50.0,6.1,Phantom Black,0.0,3.0,430.0,1.0,0.014186,galaxus,2024-04-16
+493,Apple,iPhone 13 mini,512,12.0,5.4,Starlight,0.0,1203.0,739.0,1.0,0.007307,galaxus,2024-04-16
+494,Apple,iPhone 13,512,12.0,6.1,Midnight,94.0,1058.0,735.0,1.0,0.008299,galaxus,2024-04-16
+495,Samsung,Galaxy S23+,256,50.0,6.6,Green,90.0,105.0,792.0,1.0,0.008333,galaxus,2024-04-16
+496,Motorola,Edge 30,256,50.0,6.5,meteor grey,0.0,2.0,241.0,1.0,0.026971,galaxus,2024-04-16
+497,Apple,iPhone 14 Pro Max,256,48.0,6.7,Space Black,88.0,649.0,1133.0,1.0,0.005914,galaxus,2024-04-16
+498,ASUS,Zenfone 10,512,50.0,5.9,Midnight Black,0.0,24.0,780.0,1.0,0.007564,galaxus,2024-04-16
+499,Samsung,Galaxy S23+ - DE,256,50.0,6.6,Phantom Black,0.0,0.0,699.0,1.0,0.009442,galaxus,2024-04-16
+500,Xiaomi,Redmi Note 12,128,50.0,6.67,Mint green,90.0,117.0,244.0,1.0,0.027336,galaxus,2024-04-16
+501,Xiaomi,Redmi A2,64,8.0,6.52,Light green,0.0,2.0,85.9,1.0,0.075902,galaxus,2024-04-16
+502,Apple,iPhone 14 Pro,256,48.0,6.1,Gold,92.0,1024.0,1080.0,1.0,0.005648,galaxus,2024-04-16
+503,Apple,iPhone 14 Pro,256,48.0,6.1,Deep Purple,92.0,1024.0,1099.0,1.0,0.005551,galaxus,2024-04-16
+504,Apple,iPhone 14 Pro Max,256,48.0,6.7,Gold,88.0,649.0,1174.0,1.0,0.005707,galaxus,2024-04-16
+505,ASUS,Zenfone 10,128,50.0,5.9,Midnight Black,86.0,44.0,692.0,1.0,0.008526,galaxus,2024-04-16
+506,Volla,Phone 22 EN,128,48.0,6.3,Black,88.0,5.0,419.0,1.0,0.015036,galaxus,2024-04-16
+507,Samsung,Galaxy S23 FE,256,50.0,6.4,Cream,94.0,20.0,642.0,1.0,0.009969,galaxus,2024-04-16
+508,Motorola,moto g32,256,50.0,6.5,Satin Silver,0.0,7.0,191.0,1.0,0.034031,galaxus,2024-04-16
+509,Honor,Magic5 Lite,256,64.0,6.67,Green,86.0,15.0,213.0,1.0,0.031315,galaxus,2024-04-16
+510,Apple,iPhone 15 Plus,256,48.0,6.7,Green,94.0,73.0,929.0,1.0,0.007212,galaxus,2024-04-16
+511,Motorola,Moto E22,64,16.0,6.5,Astro Black,94.0,3.0,113.42,6.0,0.057309,galaxus,2024-04-16
+512,Honor,Magic V2,512,50.0,7.92,Black,0.0,2.0,1617.54,6.0,0.004896,galaxus,2024-04-16
+513,Nothing,Phone (1) (8GB),128,50.0,6.55,Black,90.0,483.0,329.0,1.0,0.019909,galaxus,2024-04-16
+514,Xiaomi,Poco X5,128,48.0,6.67,Green,94.0,15.0,197.0,1.0,0.033858,galaxus,2024-04-16
+515,ASUS,ROG Phone 8 Pro Edition,1000,50.0,6.78,Phantom Black,0.0,5.0,1499.0,1.0,0.004523,galaxus,2024-04-16
+516,Google,Pixel 6a,128,12.2,6.1,Chalk White,90.0,503.0,346.0,1.0,0.01763,galaxus,2024-04-16
+517,Apple,iPhone 14,512,12.0,6.1,Midnight,94.0,1087.0,843.0,1.0,0.007236,galaxus,2024-04-16
+518,Xiaomi,Poco M4,64,13.0,6.58,Yellow,0.0,6.0,109.0,1.0,0.060367,galaxus,2024-04-16
+519,Sony,Xperia 5 IV,128,12.0,6.1,Black,92.0,79.0,856.0,1.0,0.007126,galaxus,2024-04-16
+520,Xiaomi,Redmi Note 13 Pro+ 5G,256,200.0,6.67,Moonlight White,88.0,47.0,377.0,1.0,0.017692,galaxus,2024-04-16
+521,Apple,iPhone 15,512,48.0,6.1,Blue,92.0,629.0,1045.0,2.0,0.005837,galaxus,2024-04-16
+522,OPPO,Find X3 Lite,128,64.0,6.43,Starry Black,94.0,35.0,249.0,10.0,0.025823,galaxus,2024-04-16
+523,Samsung,Galaxy Z Fold5,256,50.0,7.6,Cream,0.0,37.0,1099.0,1.0,0.006915,galaxus,2024-04-16
+524,Samsung,Galaxy Z Fold5,256,50.0,7.6,Icy Blue,0.0,37.0,1099.0,1.0,0.006915,galaxus,2024-04-16
+525,Samsung,Galaxy S24 Ultra,256,200.0,6.8,Titanium Yellow,0.0,141.0,1169.0,1.0,0.005817,galaxus,2024-04-16
+526,OnePlus,Nord 2T,128,50.0,6.43,Jade Fog,88.0,55.0,264.0,1.0,0.024356,galaxus,2024-04-16
+527,OPPO,Reno 8 Pro,256,50.0,6.7,Glazed Green,92.0,23.0,333.0,1.0,0.02012,galaxus,2024-04-16
+528,OnePlus,Nord CE 2 Lite 5G,128,64.0,6.59,Black Dusk,90.0,24.0,246.0,1.0,0.026789,galaxus,2024-04-16
+529,OPPO,Find X5 Lite,256,64.0,6.43,Startrails Blue,90.0,66.0,324.0,1.0,0.019846,galaxus,2024-04-16
+530,Samsung,Galaxy A55 Enterprise Edition,128,50.0,6.6,Awesome Navy,0.0,1.0,431.0,1.0,0.015313,galaxus,2024-04-16
+531,Xiaomi,Redmi Note 13,128,108.0,6.67,Mint green,88.0,16.0,160.0,1.0,0.041688,galaxus,2024-04-16
+532,Xiaomi,Redmi Note 12 5G,128,48.0,6.67,Forest Green,0.0,31.0,158.0,1.0,0.042215,galaxus,2024-04-16
+533,Samsung,Galaxy A33 5G,128,48.0,6.4,Awesome Black,92.0,221.0,258.83,6.0,0.024727,galaxus,2024-04-16
+534,Xiaomi,Redmi 10 2022,128,50.0,6.5,Carbon Gray,90.0,27.0,155.0,1.0,0.041935,galaxus,2024-04-16
+535,Fairphone,4,256,48.0,6.3,Grey,90.0,544.0,516.0,1.0,0.012209,galaxus,2024-04-16
+536,Samsung,Galaxy S23+,512,50.0,6.6,Lavender,90.0,105.0,849.0,,0.007774,galaxus,2024-04-16
+537,Samsung,Galaxy Z Fold5,1000,50.0,7.6,Phantom Black,0.0,37.0,2450.0,22.0,0.003102,galaxus,2024-04-16
+538,realme,C55,256,64.0,6.72,Black,0.0,2.0,160.0,1.0,0.042,galaxus,2024-04-16
+539,Motorola,Moto G14,128,50.0,6.5,Steel grey,0.0,6.0,128.0,1.0,0.050781,galaxus,2024-04-16
+540,Honor,Magic5 Lite,256,64.0,6.67,Midnight Black,86.0,15.0,229.0,1.0,0.029127,galaxus,2024-04-16
+541,Xiaomi,Poco M6 Pro,512,64.0,6.67,Black,0.0,0.0,264.1,2.0,0.025256,galaxus,2024-04-16
+542,ASUS,Zenfone 10,256,50.0,5.9,Midnight Black,86.0,44.0,721.0,1.0,0.008183,galaxus,2024-04-16
+543,Xiaomi,Redmi Note 13 Pro,512,200.0,6.67,Lavender Purple,94.0,16.0,275.0,1.0,0.024255,galaxus,2024-04-16
+544,Apple,iPhone 13 Pro,256,12.0,6.1,Graphites,0.0,891.0,1486.0,1.0,0.004105,galaxus,2024-04-16
+545,OPPO,Reno 8,256,50.0,6.43,Shimmer Gold,92.0,69.0,257.0,1.0,0.025019,galaxus,2024-04-16
+546,Xiaomi,13 Pro,256,50.0,6.73,Ceramic Black,88.0,36.0,886.43,6.0,0.007592,galaxus,2024-04-16
+547,Apple,iPhone 14 Pro Max,1000,48.0,6.7,Gold,88.0,649.0,1222.0,4.0,0.005483,galaxus,2024-04-16
+548,Apple,iPhone 13 Pro,128,12.0,6.1,Graphites,0.0,891.0,1232.95,3.0,0.004947,galaxus,2024-04-16
+549,Motorola,Edge 40,256,50.0,6.55,Viva Magenta,90.0,4.0,338.0,1.0,0.019379,galaxus,2024-04-16
+550,Motorola,Edge 40 Pro,256,50.0,6.67,Quartz black,0.0,9.0,706.0,1.0,0.009448,galaxus,2024-04-16
+551,OPPO,A38,128,50.0,6.56,Glowing Black,90.0,2.0,122.0,1.0,0.05377,galaxus,2024-04-16
+552,Tecno,Pova 5 Pro 5G,256,0.0,6.78,Black,0.0,1.0,219.0,1.0,0.030959,galaxus,2024-04-16
+553,Apple,iPhone 12,128,12.0,6.1,White,0.0,1650.0,489.0,1.0,0.012474,galaxus,2024-04-16
+554,Sony,Xperia 10 IV,128,12.0,6.0,Black,86.0,194.0,506.0,1.0,0.011858,galaxus,2024-04-16
+555,Nothing,Phone (1) (8GB),256,50.0,6.55,White,90.0,483.0,327.0,1.0,0.020031,galaxus,2024-04-16
+556,Apple,iPhone 12,64,12.0,6.1,Purple,0.0,1650.0,455.0,1.0,0.013407,galaxus,2024-04-16
+557,Apple,iPhone 14 Plus,256,12.0,6.7,Blue,94.0,231.0,829.0,1.0,0.008082,galaxus,2024-04-16
+558,Apple,iPhone 14 Plus,128,12.0,6.7,(PRODUCT)RED,94.0,231.0,848.95,3.0,0.007892,galaxus,2024-04-16
+559,Ulefone,Armour 24,256,64.0,6.77,Black,0.0,2.0,379.0,22.0,0.017863,galaxus,2024-04-16
+560,Samsung,Galaxy Z Flip4,256,12.0,6.7,Graphites,0.0,18.0,559.91,1.0,0.011966,galaxus,2024-04-16
+561,Ulefone,Armor 17 Pro,256,108.0,6.58,Black,92.0,5.0,267.0,1.0,0.024644,galaxus,2024-04-16
+562,Samsung,Galaxy A25 5G,128,50.0,6.5,Yellow,92.0,16.0,227.44,6.0,0.028579,galaxus,2024-04-16
+563,Huawei,P60 Pro,256,48.0,6.67,Black,0.0,24.0,999.05,8.0,0.006676,galaxus,2024-04-16
+564,Apple,iPhone 13 mini,512,12.0,5.4,Blue,0.0,1203.0,767.0,2.0,0.00704,galaxus,2024-04-16
+565,OPPO,A77,64,48.0,6.56,Midnight Black,92.0,19.0,183.0,1.0,0.035847,galaxus,2024-04-16
+566,OPPO,Find N2 Flip,256,50.0,6.8,Moonlit Purple,88.0,32.0,1028.0,1.0,0.006615,galaxus,2024-04-16
+567,Xiaomi,Poco F5 Pro,256,64.0,6.67,White,0.0,17.0,409.0,1.0,0.016308,galaxus,2024-04-16
+568,Xiaomi,Redmi 10A,32,13.0,6.53,Graphite gray,0.0,2.0,90.8,1.0,0.071916,galaxus,2024-04-16
+569,Xiaomi,13 Pro,256,50.0,6.73,Ceramic White,88.0,36.0,979.0,1.0,0.006874,galaxus,2024-04-16
+570,Xiaomi,Redmi 9A,32,13.0,6.53,Peacock Green,0.0,242.0,85.7,1.0,0.076196,galaxus,2024-04-16
+571,Samsung,Galaxy Z Fold5,256,50.0,7.6,Phantom Black,0.0,37.0,1099.0,1.0,0.006915,galaxus,2024-04-16
+572,Samsung,Galaxy S22 EU,128,50.0,6.1,Green,0.0,52.0,429.0,1.0,0.014219,galaxus,2024-04-16
+573,Motorola,Moto Edge 30 Neo,128,64.0,6.28,Black Onyx,0.0,23.0,199.0,1.0,0.031558,galaxus,2024-04-16
+574,Xiaomi,Redmi Note 11,128,50.0,6.43,Twilight Blue,90.0,285.0,150.0,1.0,0.042867,galaxus,2024-04-16
+575,Apple,iPhone 14 Pro Max,1000,48.0,6.7,Deep Purple,88.0,649.0,1616.95,3.0,0.004144,galaxus,2024-04-16
+576,Apple,iPhone 14 Pro Max,1000,48.0,6.7,Space Black,88.0,649.0,1609.95,3.0,0.004162,galaxus,2024-04-16
+577,ASUS,ROG Phone 6D Ultimate,512,50.0,6.78,Space Grey,94.0,26.0,739.0,1.0,0.009175,galaxus,2024-04-16
+578,Samsung,Galaxy S23 Ultra,512,200.0,6.8,Cream,92.0,410.0,949.0,28.0,0.007165,galaxus,2024-04-16
+579,Motorola,moto g52,128,50.0,6.6,Black,0.0,7.0,178.0,1.0,0.037079,galaxus,2024-04-16
+580,Apple,iPhone 12,128,12.0,6.1,Purple,0.0,1650.0,499.0,1.0,0.012224,galaxus,2024-04-16
+581,Apple,iPhone 14 Pro Max,256,48.0,6.7,Deep Purple,88.0,649.0,1204.0,1.0,0.005565,galaxus,2024-04-16
+582,Apple,iPhone 14 Pro,512,48.0,6.1,Deep Purple,92.0,1024.0,1198.0,1.0,0.005092,galaxus,2024-04-16
+583,Xiaomi,Redmi Note 12 Pro,256,50.0,6.67,Sky blue,0.0,40.0,300.0,1.0,0.022233,galaxus,2024-04-16
+584,Apple,iPhone 15,512,48.0,6.1,Green,92.0,629.0,1029.0,1.0,0.005928,galaxus,2024-04-16
+585,Xiaomi,13T Pro,1000,50.0,6.67,Black,0.0,10.0,720.0,1.0,0.009264,galaxus,2024-04-16
+586,OnePlus,11,256,50.0,6.7,Titan Black,88.0,35.0,829.0,1.0,0.008082,galaxus,2024-04-16
+587,Xiaomi,13,256,50.0,6.36,White,90.0,110.0,704.0,1.0,0.009034,galaxus,2024-04-16
+588,Apple,iPhone 14 Plus,512,12.0,6.7,Midnight,94.0,231.0,995.0,1.0,0.006734,galaxus,2024-04-16
+589,Motorola,Razr 40 Ultra,256,12.0,6.9,Glacier Blue,0.0,28.0,789.0,1.0,0.008745,galaxus,2024-04-16
+590,Xiaomi,12 5G,256,50.0,6.28,Grey,86.0,132.0,669.0,1.0,0.009387,galaxus,2024-04-16
+591,Gigaset,GS5 Pro,128,48.0,6.3,Grey,0.0,3.0,180.0,1.0,0.035,galaxus,2024-04-16
+592,Xiaomi,Redmi A2,32,8.0,6.52,Light blue,0.0,30.0,86.5,3.0,0.075376,galaxus,2024-04-16
+593,Samsung,Galaxy S22,128,50.0,6.1,Phantom White,86.0,479.0,504.0,14.0,0.012103,galaxus,2024-04-16
+594,Samsung,Galaxy M13,64,50.0,6.6,Deep green,0.0,33.0,149.0,1.0,0.044295,galaxus,2024-04-16
+595,Motorola,Moto G72,128,108.0,6.55,Meteorite grey,0.0,4.0,147.0,1.0,0.044558,galaxus,2024-04-16
+596,Samsung,Galaxy Z Flip5,256,12.0,6.7,Mint,0.0,90.0,699.0,1.0,0.009585,galaxus,2024-04-16
+597,Apple,iPhone 14 Plus,256,12.0,6.7,Purple,94.0,231.0,829.0,1.0,0.008082,galaxus,2024-04-16
+598,OnePlus,9 Pro (12GB),256,48.0,6.7,Stellar Black,90.0,242.0,634.0,1.0,0.010568,galaxus,2024-04-16
+599,ASUS,Zenfone 9,128,50.0,5.92,Midnight Black,90.0,59.0,507.0,1.0,0.011677,galaxus,2024-04-16
+600,Nothing,Phone (2),512,50.0,6.7,White,88.0,98.0,703.0,1.0,0.009531,galaxus,2024-04-16
+601,Motorola,Moto G23,128,50.0,6.5,Steel Blue,0.0,8.0,131.0,1.0,0.049618,galaxus,2024-04-16
+602,Apple,iPhone 13 mini,512,12.0,5.4,Pink,0.0,1203.0,766.0,1.0,0.00705,galaxus,2024-04-16
+603,Apple,iPhone 13 mini,128,12.0,5.4,Blue,0.0,1203.0,745.0,1.0,0.007248,galaxus,2024-04-16
+604,Xiaomi,Redmi Note 12 Pro 4G,256,108.0,6.67,Black,0.0,7.0,217.0,1.0,0.030737,galaxus,2024-04-16
+605,Motorola,Razr 40 Ultra,256,12.0,6.9,Viva Magenta,0.0,28.0,748.0,4.0,0.009225,galaxus,2024-04-16
+606,Xiaomi,13T,256,50.0,6.67,Alpine blue,0.0,51.0,513.0,1.0,0.013002,galaxus,2024-04-16
+607,Xiaomi,Poco F5 Pro,256,64.0,6.67,Black,0.0,17.0,489.0,1.0,0.01364,galaxus,2024-04-16
+608,Xiaomi,12 Pro 5G,256,50.0,6.73,Grey,88.0,28.0,482.0,1.0,0.013963,galaxus,2024-04-16
+609,Motorola,Edge30 Ultra,256,200.0,6.67,Interstellar Black,0.0,24.0,545.0,1.0,0.012239,galaxus,2024-04-16
+610,Xiaomi,12 Pro 5G,256,50.0,6.73,Blue,88.0,28.0,477.0,1.0,0.014109,galaxus,2024-04-16
+611,Motorola,Moto G23,128,50.0,6.5,Charcoal Mat,0.0,8.0,116.0,1.0,0.056034,galaxus,2024-04-16
+612,Sony,Xperia PRO-I,512,12.0,6.5,Frosted Black,90.0,33.0,1065.9,1.0,0.006098,galaxus,2024-04-16
+613,Samsung,Galaxy Z Flip4 EU,128,12.0,6.7,Graphites,0.0,3.0,519.0,1.0,0.012909,galaxus,2024-04-16
+614,Motorola,Moto G31,128,50.0,6.4,Mineral grey,90.0,24.0,109.0,1.0,0.058716,galaxus,2024-04-16
+615,Blackview,BL8800 Pro 8GB Dual Sim black,128,50.0,6.58,Black,0.0,1.0,405.0,1.0,0.016247,galaxus,2024-04-16
+616,Samsung,Galaxy Z Flip3 5G EU,256,12.0,6.7,Phantom Black,0.0,8.0,497.0,1.0,0.013481,galaxus,2024-04-16
+617,Apple,iPhone 12,256,12.0,6.1,Green,0.0,1650.0,610.0,1.0,0.01,galaxus,2024-04-16
+618,Apple,iPhone 12,256,12.0,6.1,Black,0.0,1650.0,599.0,1.0,0.010184,galaxus,2024-04-16
+619,Samsung,Galaxy S22,128,50.0,6.1,Phantom Black,86.0,479.0,483.65,1.0,0.012612,galaxus,2024-04-16
+620,Apple,iPhone 13 Pro,256,12.0,6.1,Alpine green,0.0,891.0,1295.95,3.0,0.004707,galaxus,2024-04-16
+621,Sony,Xperia 1 IV,256,12.0,6.5,Black,90.0,100.0,892.0,1.0,0.007287,galaxus,2024-04-16
+622,Xiaomi,Poco F5,256,64.0,6.67,Blue,86.0,19.0,386.0,1.0,0.01728,galaxus,2024-04-16
+623,Ulefone,Armor 22,256,64.0,6.58,Black,90.0,2.0,269.0,2.0,0.024461,galaxus,2024-04-16
+624,Samsung,Galaxy Note 20 Ultra,256,108.0,6.9,Mystic Black,86.0,71.0,1155.6,1.0,0.005971,galaxus,2024-04-16
+625,Samsung,Galaxy Z Flip4,512,12.0,6.7,Pink Gold,86.0,33.0,1159.0,1.0,0.005781,galaxus,2024-04-16
+626,Motorola,Moto E22,64,16.0,6.5,Crystal Blue,86.0,4.0,93.4,1.0,0.069593,galaxus,2024-04-16
+627,Xiaomi,12T,256,108.0,6.67,Black,92.0,11.0,363.0,1.0,0.018375,galaxus,2024-04-16
+628,OnePlus,9 Pro,128,48.0,6.7,Green,88.0,96.0,403.0,1.0,0.016625,galaxus,2024-04-16
+629,HTC,U23 Pro,256,108.0,6.7,Snow White,86.0,22.0,355.81,6.0,0.01883,galaxus,2024-04-16
+630,Nokia,X30 DS 6/128GB Black,128,50.0,6.42,Cloudy Blue,0.0,0.0,828.0,1.0,0.007754,galaxus,2024-04-16
+631,Xiaomi,13,256,50.0,6.36,Flora Green,90.0,110.0,712.95,3.0,0.008921,galaxus,2024-04-16
+632,Samsung,Galaxy Z Flip4,256,12.0,6.7,Blue,88.0,11.0,936.75,1.0,0.007152,galaxus,2024-04-16
+633,Xiaomi,Poco X5 5G,256,48.0,6.67,Black,0.0,5.0,321.0,1.0,0.020779,galaxus,2024-04-16
+634,Samsung,Galaxy S22 Ultra,256,108.0,6.8,Phantom Black,90.0,382.0,926.8,1.0,0.007337,galaxus,2024-04-16
+635,Samsung,Galaxy Z Flip5,256,12.0,6.7,Cream,0.0,90.0,830.91,6.0,0.008063,galaxus,2024-04-16
+636,ASUS,Zenfone 10,256,50.0,5.9,Aurora Green,86.0,44.0,709.0,1.0,0.008322,galaxus,2024-04-16
+637,Xiaomi,Redmi Note 12 Pro+,256,200.0,6.67,Sky blue,90.0,192.0,316.0,1.0,0.021108,galaxus,2024-04-16
+638,Samsung,Galaxy S20 5G,128,64.0,6.2,Cloud Blue,86.0,37.0,902.7,1.0,0.006868,galaxus,2024-04-16
+639,Apple,iPhone 15 Plus,512,48.0,6.7,Black,94.0,73.0,1089.0,1.0,0.006152,galaxus,2024-04-16
+640,Apple,iPhone 13 mini,256,12.0,5.4,Pink,0.0,1203.0,804.95,3.0,0.006708,galaxus,2024-04-16
+641,Samsung,Galaxy S23 Ultra,256,200.0,6.8,Phantom Black,0.0,7.0,879.0,1.0,0.007736,galaxus,2024-04-16
+642,Samsung,Galaxy M13,64,50.0,6.6,Light blue,0.0,33.0,150.0,1.0,0.044,galaxus,2024-04-16
+643,Apple,iPhone SE (2nd Gen),128,12.0,4.7,White,94.0,2111.0,412.0,1.0,0.011408,galaxus,2024-04-16
+644,Samsung,Galaxy Z Flip4,256,12.0,6.7,Pink Gold,86.0,33.0,849.6,1.0,0.007886,galaxus,2024-04-16
+645,Samsung,Galaxy S23+,512,50.0,6.6,Green,90.0,105.0,849.0,1.0,0.007774,galaxus,2024-04-16
+646,Samsung,Galaxy S22 Ultra,256,108.0,6.8,Phantom Black,90.0,382.0,842.42,1.0,0.008072,galaxus,2024-04-16
+647,OnePlus,Nord CE 3 Lite,128,108.0,6.7,Lime,0.0,25.0,206.52,6.0,0.032442,galaxus,2024-04-16
+648,Samsung,Galaxy S23 Enterprise Edition,256,50.0,6.1,Phantom Black,0.0,2.0,830.0,1.0,0.007349,galaxus,2024-04-16
+649,Samsung,Galaxy Note 10,256,16.0,6.3,Aura Black,94.0,40.0,823.51,1.0,0.00765,galaxus,2024-04-16
+650,OPPO,A78,128,50.0,6.43,Aqua Green,94.0,9.0,149.0,1.0,0.043154,galaxus,2024-04-16
+651,Motorola,Edge30 Fusion,128,50.0,6.55,Grey,88.0,12.0,324.0,1.0,0.020216,galaxus,2024-04-16
+652,Nokia,C22,64,13.0,6.5,Charcoal,0.0,1.0,121.0,1.0,0.053719,galaxus,2024-04-16
+653,Sony,Xperia 5 II,128,12.0,6.1,Blue,94.0,78.0,614.25,1.0,0.009931,galaxus,2024-04-16
+654,Xiaomi,Poco X5 Pro 5G,128,108.0,6.67,Yellow,0.0,2.0,279.0,1.0,0.023907,galaxus,2024-04-16
+655,Google,Pixel 7 Pro,128,50.0,6.7,Hazel,90.0,356.0,849.0,16.0,0.007892,galaxus,2024-04-16
+656,Xiaomi,Redmi 12,128,50.0,6.79,Silver,88.0,22.0,120.0,1.0,0.056583,galaxus,2024-04-16
+657,OPPO,A98 EU,256,64.0,6.72,Dreamy Blue,0.0,4.0,265.0,1.0,0.025358,galaxus,2024-04-16
+658,Samsung,Galaxy Z Flip 5,256,12.0,6.7,Cream,0.0,2.0,749.0,1.0,0.008945,galaxus,2024-04-16
+659,Xiaomi,Mi 11 Lite 5G (8GB),128,64.0,6.55,Truffle Black,90.0,169.0,263.77,1.0,0.024832,galaxus,2024-04-16
+660,Xiaomi,12 Lite 5G,256,108.0,6.55,Lite Green,86.0,3.0,265.95,3.0,0.024629,galaxus,2024-04-16
+661,Xiaomi,11 Lite 5G NE,128,64.0,6.55,Snowflake White,90.0,61.0,257.0,1.0,0.025486,galaxus,2024-04-16
+662,Motorola,Moto G32,128,50.0,6.5,Mineral grey,0.0,1.0,129.0,1.0,0.050388,galaxus,2024-04-16
+663,ASUS,Zenfone 11 Ultra,512,50.0,6.78,Skyline Blue,0.0,0.0,999.0,1.0,0.006787,galaxus,2024-04-16
+664,Nokia,XR20,128,48.0,6.67,Granites,86.0,39.0,588.0,1.0,0.011344,galaxus,2024-04-16
+665,OnePlus,11 with Buds Pro 2,128,50.0,6.7,Titan Black,0.0,1.0,709.0,1.0,0.00945,galaxus,2024-04-16
+666,Xiaomi,Redmi Note 12 Pro 4G,256,108.0,6.67,Blue,86.0,20.0,249.0,1.0,0.026787,galaxus,2024-04-16
+667,Samsung,Galaxy Z Flip5,256,12.0,6.7,Lavender,0.0,90.0,699.0,1.0,0.009585,galaxus,2024-04-16
+668,Apple,iPhone 15 Plus,128,48.0,6.7,Yellow,94.0,73.0,837.0,1.0,0.008005,galaxus,2024-04-16
+669,Motorola,Moto G52,128,50.0,6.6,Charcoal grey,0.0,12.0,125.0,1.0,0.0528,galaxus,2024-04-16
+670,Apple,iPhone 14 Plus,256,12.0,6.7,Midnight,94.0,231.0,829.0,1.0,0.008082,galaxus,2024-04-16
+671,Apple,iPhone 13,512,12.0,6.1,(PRODUCT)RED,94.0,1058.0,811.0,1.0,0.007522,galaxus,2024-04-16
+672,Apple,iPhone 12,256,12.0,6.1,(PRODUCT)RED,0.0,1650.0,622.95,3.0,0.009792,galaxus,2024-04-16
+673,OnePlus,10 Pro,256,48.0,6.7,Volcanic Black,92.0,45.0,666.0,1.0,0.01006,galaxus,2024-04-16
+674,Samsung,Galaxy Note 20 EU,256,12.0,6.7,Mystic Grey,0.0,10.0,665.11,1.0,0.010074,galaxus,2024-04-16
+675,Nokia,Telefon XR20 Dual-SIM 4,64,48.0,6.67,Granites,86.0,6.0,281.0,3.0,0.023737,galaxus,2024-04-16
+676,Motorola,Moto G42,64,50.0,6.4,Green,0.0,9.0,119.0,1.0,0.053782,galaxus,2024-04-16
+677,ASUS,Zenfone 11 Ultra,256,50.0,6.78,Ethernal Black,0.0,1.0,899.0,1.0,0.007542,galaxus,2024-04-16
+678,Motorola,Edge 40 Pro,256,50.0,6.67,Black,0.0,1.0,633.0,1.0,0.010537,galaxus,2024-04-16
+679,Xiaomi,11T,128,108.0,6.67,Meteorite Gray,90.0,91.0,228.0,1.0,0.029254,galaxus,2024-04-16
+680,Nokia,G60,128,50.0,6.58,Black,90.0,39.0,219.0,1.0,0.030046,galaxus,2024-04-16
+681,Honor,Magic6 Lite,256,108.0,6.78,Midnight Black,0.0,1.0,287.0,1.0,0.023624,galaxus,2024-04-16
+682,OPPO,A57s,128,50.0,6.56,Sky blue,88.0,10.0,215.0,3.0,0.030512,galaxus,2024-04-16
+683,Apple,iPhone 14 Plus,128,12.0,6.7,Yellow,94.0,231.0,729.0,1.0,0.009191,galaxus,2024-04-16
+684,Xiaomi,Poco M6 Pro,256,64.0,6.67,Blue,0.0,0.0,216.0,1.0,0.03088,galaxus,2024-04-16
+685,Xiaomi,Poco M4,64,13.0,6.58,Black,0.0,6.0,96.7,1.0,0.068046,galaxus,2024-04-16
+686,Xiaomi,Redmi Note 12 Pro,128,108.0,6.67,Graphite grey,0.0,65.0,214.0,1.0,0.031168,galaxus,2024-04-16
+687,Apple,iPhone 13 mini,128,12.0,5.4,Pink,0.0,1203.0,699.0,1.0,0.007725,galaxus,2024-04-16
+688,Xiaomi,Redmi Note 12s,256,108.0,6.43,Pearl Green,0.0,1.0,208.0,1.0,0.030913,galaxus,2024-04-16
+689,Motorola,Edge 40,256,50.0,6.55,Nebula Green,0.0,10.0,561.0,1.0,0.011676,galaxus,2024-04-16
+690,Samsung,Galaxy S22,256,50.0,6.1,Phantom White,0.0,68.0,570.0,1.0,0.010702,galaxus,2024-04-16
+691,OPPO,A78 5G,128,50.0,6.56,Glowing Black,0.0,0.0,199.0,1.0,0.032965,galaxus,2024-04-16
+692,Sony,Xperia 5,128,12.0,6.1,Black,92.0,64.0,440.83,1.0,0.013838,galaxus,2024-04-16
+693,realme,GT 5G,128,64.0,6.43,Silver,0.0,1.0,288.0,1.0,0.022326,galaxus,2024-04-16
+694,Samsung,Galaxy S23 FE,128,50.0,6.4,Cream,94.0,20.0,556.0,1.0,0.011511,galaxus,2024-04-16
+695,Sony,Xperia 1 V,256,52.0,6.5,Platinum Silver,86.0,113.0,1245.55,6.0,0.005219,galaxus,2024-04-16
+696,Motorola,Edge 20 Pro,256,108.0,6.7,Blue Vegan Leather,92.0,18.0,533.0,1.0,0.01257,galaxus,2024-04-16
+697,Motorola,Edge 30 Pro,256,50.0,6.7,Cosmos Blue,92.0,11.0,526.5,1.0,0.012726,galaxus,2024-04-16
+698,Samsung,Galaxy S22,128,50.0,6.1,Phantom White,86.0,479.0,511.03,1.0,0.011937,galaxus,2024-04-16
+699,Apple,iPhone 12,256,12.0,6.1,Purple,0.0,1650.0,610.0,1.0,0.01,galaxus,2024-04-16
+700,Xiaomi,Redmi Note 12,256,50.0,6.67,Forest Green,88.0,11.0,186.0,1.0,0.03586,galaxus,2024-04-16
+701,Xiaomi,Redmi Note 12S,128,108.0,6.43,Onyx Black,94.0,3.0,187.0,1.0,0.034385,galaxus,2024-04-16
+702,ASUS,ROG Phone 7 Ultimate,512,50.0,6.78,Storm White,0.0,13.0,1017.0,1.0,0.006667,galaxus,2024-04-16
+703,Xiaomi,Redmi Note 12,256,50.0,6.67,Ice Blue,0.0,3.0,179.0,1.0,0.037263,galaxus,2024-04-16
+704,Xiaomi,Redmi Note 12,256,50.0,6.67,Onyx Gray,86.0,6.0,178.0,1.0,0.037472,galaxus,2024-04-16
+705,Motorola,Edge 30,128,50.0,6.5,Graphites,88.0,27.0,199.0,1.0,0.032663,galaxus,2024-04-16
+706,Samsung,Galaxy A35,256,50.0,6.6,Awesome Lemon,0.0,1.0,419.0,1.0,0.015752,galaxus,2024-04-16
+707,Apple,iPhone 14 Pro,1000,48.0,6.1,Silver,92.0,1024.0,1295.96,6.0,0.004707,galaxus,2024-04-16
+708,Apple,iPhone 14 Pro,512,48.0,6.1,Gold,92.0,1024.0,1219.76,6.0,0.005001,galaxus,2024-04-16
+709,Apple,iPhone 14 Pro,1000,48.0,6.1,Gold,92.0,1024.0,1236.95,6.0,0.004931,galaxus,2024-04-16
+710,Microsoft,Surface Duo,256,11.0,8.1,Glacier,0.0,30.0,631.2,1.0,0.012833,galaxus,2024-04-16
+711,Xiaomi,Redmi Note 12 5G,128,48.0,6.67,Ice Blue,0.0,31.0,163.0,1.0,0.04092,galaxus,2024-04-16
+712,Honor,90 Lite,256,100.0,6.7,Cyan Lake,86.0,15.0,202.0,1.0,0.033168,galaxus,2024-04-16
+713,Motorola,Edge 20 Lite,128,108.0,6.67,Laguna Green,0.0,32.0,179.0,1.0,0.037263,galaxus,2024-04-16
+714,Xiaomi,13 Ultra,512,50.0,6.73,Black,0.0,9.0,1199.2,1.0,0.005612,galaxus,2024-04-16
+715,Samsung,Galaxy S22 Enterprise Edition EU,128,50.0,6.1,Phantom Black,0.0,6.0,424.0,1.0,0.014387,galaxus,2024-04-16
+716,Huawei,nova 9,128,50.0,6.57,Starry blue,94.0,21.0,398.29,1.0,0.016496,galaxus,2024-04-16
+717,Xiaomi,14,512,50.0,6.36,White,86.0,7.0,811.24,6.0,0.00784,galaxus,2024-04-16
+718,Nothing,Phone (1) + Ear (2),256,50.0,6.55,Black,0.0,6.0,459.0,1.0,0.01427,galaxus,2024-04-16
+719,OPPO,A38,128,50.0,6.56,Glowing Gold,90.0,2.0,149.0,1.0,0.044027,galaxus,2024-04-16
+720,Samsung,Galaxy A52s EU,128,64.0,6.5,Awesome Black,94.0,55.0,406.0,1.0,0.01601,galaxus,2024-04-16
+721,OnePlus,Nord 2T Grey Shadow 643 Zoll AMOLED,256,50.0,6.43,Gray shadow,86.0,35.0,409.0,1.0,0.015721,galaxus,2024-04-16
+722,Xiaomi,Poco M5,128,50.0,6.58,Black,86.0,27.0,149.0,1.0,0.044161,galaxus,2024-04-16
+723,Xiaomi,Redmi 10 5G,128,0.0,6.58,Chrome Silver,0.0,1.0,149.0,1.0,0.044161,galaxus,2024-04-16
+724,Nothing,Phone (1) (12GB),256,50.0,6.55,Black,90.0,483.0,426.0,1.0,0.015376,galaxus,2024-04-16
+725,Apple,iPhone 12,64,12.0,6.1,(PRODUCT)RED,0.0,1650.0,459.0,1.0,0.01329,galaxus,2024-04-16
+726,Samsung,Galaxy A53 5G,256,64.0,6.5,Awesome Black,90.0,169.0,383.17,1.0,0.016964,galaxus,2024-04-16
+727,OnePlus,9 (12GB),256,48.0,6.55,Astral Black,0.0,26.0,384.62,1.0,0.01703,galaxus,2024-04-16
+728,Samsung,Galaxy S20 FE EU,128,12.0,6.5,Cloud Navy,90.0,45.0,379.0,1.0,0.01715,galaxus,2024-04-16
+729,Apple,iPhone 14 Pro Max,128,48.0,6.7,Deep Purple,88.0,649.0,1133.0,1.0,0.005914,galaxus,2024-04-16
+730,Apple,iPhone 14 Pro Max,512,48.0,6.7,Deep Purple,88.0,649.0,1277.0,1.0,0.005247,galaxus,2024-04-16
+731,Apple,iPhone 15 Plus,512,48.0,6.7,Yellow,94.0,73.0,1129.0,1.0,0.005934,galaxus,2024-04-16
+732,Apple,iPhone 14 Pro Max,512,48.0,6.7,Space Black,88.0,649.0,1329.0,1.0,0.005041,galaxus,2024-04-16
+733,Apple,iPhone 14 Pro Max,1000,48.0,6.7,Silver,88.0,649.0,1387.0,1.0,0.004831,galaxus,2024-04-16
+734,Apple,iPhone 13 Pro Max,256,12.0,6.7,Sierra Blue,0.0,565.0,1547.09,1.0,0.004331,galaxus,2024-04-16
+735,Huawei,Nova 10 Pro,256,50.0,6.78,Starry Silver,90.0,13.0,334.81,1.0,0.02025,galaxus,2024-04-16
+736,ASUS,Zenfone 10,256,50.0,5.9,Comet White,86.0,44.0,683.0,1.0,0.008638,galaxus,2024-04-16
+737,Motorola,Edge 40 Neo,256,50.0,6.55,Soothing Sea,0.0,6.0,340.0,1.0,0.019265,galaxus,2024-04-16
+738,Apple,iPhone 15,512,48.0,6.1,Pink,92.0,629.0,1039.0,1.0,0.005871,galaxus,2024-04-16
+739,Xiaomi,Redmi 10 2022,128,50.0,6.5,White,90.0,27.0,129.0,1.0,0.050388,galaxus,2024-04-16
+740,Ulefone,Power Armor 13,256,48.0,6.81,Black,92.0,7.0,450.51,1.0,0.015116,galaxus,2024-04-16
+741,Apple,iPhone 14 Pro,128,48.0,6.1,Silver,92.0,1024.0,993.0,1.0,0.006143,galaxus,2024-04-16
+742,Apple,iPhone 14,512,12.0,6.1,Starlight,94.0,1087.0,1001.0,1.0,0.006094,galaxus,2024-04-16
+743,Xiaomi,Redmi 13C,128,50.0,6.74,Midnight Black,0.0,0.0,126.0,1.0,0.053492,galaxus,2024-04-16
+744,Xiaomi,Mi 10 Pro,256,108.0,6.67,Alpine White,92.0,13.0,810.05,1.0,0.008234,galaxus,2024-04-16
+745,Gigaset,GX4 Outdoor,64,48.0,6.1,Black,0.0,5.0,340.95,3.0,0.017891,galaxus,2024-04-16
+746,ASUS,ROG Phone 6 Batman Edition,256,50.0,6.78,Black,0.0,4.0,607.0,1.0,0.01117,galaxus,2024-04-16
+747,Xiaomi,Redmi 12C,128,50.0,6.71,Graphite grey,88.0,59.0,119.0,1.0,0.056387,galaxus,2024-04-16
+748,Xiaomi,Poco M5,64,50.0,6.58,Black,86.0,27.0,118.0,1.0,0.055763,galaxus,2024-04-16
+749,Crosscall,Action-X5,64,48.0,5.45,Black,90.0,4.0,563.0,1.0,0.00968,galaxus,2024-04-16
+750,Doro,8100 Plus,32,13.0,6.1,Grey,0.0,4.0,183.0,8.0,0.033333,galaxus,2024-04-16
+751,Nokia,G60,128,50.0,6.58,Grey,90.0,39.0,247.0,1.0,0.02664,galaxus,2024-04-16
+752,OPPO,Find X2,256,48.0,6.7,Black,94.0,28.0,681.7,1.0,0.009828,galaxus,2024-04-16
+753,Samsung,Galaxy A34 Enterprise Edition,128,48.0,6.6,Awesome Graphite,0.0,0.0,286.0,1.0,0.023077,galaxus,2024-04-16
+754,ASUS,Zenfone 9,256,50.0,5.92,Moonlight White,90.0,59.0,529.0,1.0,0.011191,galaxus,2024-04-16
+755,ASUS,ROG Phone 6,256,50.0,6.78,Phantom Black,0.0,19.0,524.31,1.0,0.012931,galaxus,2024-04-16
+756,Xiaomi,Mi 10,128,108.0,6.67,Coral Green,94.0,41.0,641.61,1.0,0.010396,galaxus,2024-04-16
+757,Apple,iPhone 13 mini,512,12.0,5.4,(PRODUCT)RED,0.0,1203.0,778.0,1.0,0.006941,galaxus,2024-04-16
+758,Apple,iPhone 13 mini,256,12.0,5.4,Starlight,0.0,1203.0,769.0,1.0,0.007022,galaxus,2024-04-16
+759,OPPO,Find X3 Neo,256,50.0,6.5,Galactic Silver,90.0,98.0,596.7,1.0,0.010893,galaxus,2024-04-16
+760,Xiaomi,Redmi 12C,64,50.0,6.71,Graphite grey,92.0,22.0,99.3,1.0,0.067573,galaxus,2024-04-16
+761,Motorola,moto G13,128,50.0,6.5,Lavender Blue,0.0,15.0,110.0,1.0,0.059091,galaxus,2024-04-16
+762,Honor,Honor X7a,128,50.0,6.75,Midnight Black,0.0,1.0,122.0,1.0,0.055328,galaxus,2024-04-16
+763,Crosscall,Stellar X5,128,50.0,6.5,Black,0.0,1.0,896.0,1.0,0.007254,galaxus,2024-04-16
+764,Motorola,Moto G82,128,50.0,6.6,Meteorite grey,94.0,28.0,239.0,1.0,0.027615,galaxus,2024-04-16
+765,Ulefone,Armor 8 Pro,128,16.0,6.1,Black,0.0,5.0,264.25,8.0,0.023084,galaxus,2024-04-16
+766,Xiaomi,Poco F2 Pro,256,64.0,6.67,Neon Blue,86.0,12.0,575.2,1.0,0.011596,galaxus,2024-04-16
+767,Google,Pixel 7,256,50.0,6.3,Lemongrass,88.0,384.0,444.0,9.0,0.014189,galaxus,2024-04-16
+768,ASUS,Zenfone 7 Pro,256,64.0,6.67,Aurora Black,90.0,50.0,455.99,1.0,0.014628,galaxus,2024-04-16
+769,Apple,iPhone 12,64,12.0,6.1,Blue,0.0,1650.0,542.95,6.0,0.011235,galaxus,2024-04-16
+770,Xiaomi,Poco F2 Pro,128,64.0,6.67,Cyber grey,90.0,56.0,572.4,1.0,0.011653,galaxus,2024-04-16
+771,realme,C55,128,64.0,6.72,Black,90.0,2.0,128.0,1.0,0.0525,galaxus,2024-04-16
+772,Samsung,Galaxy A23 5G,64,50.0,6.6,Light blue,86.0,138.0,233.0,1.0,0.028326,galaxus,2024-04-16
+773,Blackview,BV9800 PRO,128,48.0,6.3,Black,0.0,4.0,489.01,1.0,0.012883,galaxus,2024-04-16
+774,Nokia,G11,32,13.0,6.52,Charcoal,0.0,14.0,186.0,1.0,0.035054,galaxus,2024-04-16
+775,Apple,iPhone 14,512,12.0,6.1,(PRODUCT)RED,94.0,1087.0,807.0,3.0,0.007559,galaxus,2024-04-16
+776,Xiaomi,Redmi A1,32,8.0,6.52,Light blue,88.0,48.0,86.2,1.0,0.075638,galaxus,2024-04-16
+777,Xiaomi,Poco F2 Pro,128,64.0,6.67,Phantom White,88.0,16.0,505.59,1.0,0.013193,galaxus,2024-04-16
+778,Xiaomi,Poco F2 Pro,256,64.0,6.67,Phantom White,0.0,2.0,503.29,1.0,0.013253,galaxus,2024-04-16
+779,Huawei,P40 Lite,128,48.0,6.4,Midnight Black,0.0,157.0,202.3,1.0,0.031636,galaxus,2024-04-16
+780,Xiaomi,Redmi A1,32,8.0,6.52,Light green,88.0,48.0,84.4,1.0,0.077251,galaxus,2024-04-16
+781,Apple,iPhone SE (3rd Gen),256,12.0,4.7,(PRODUCT)RED,92.0,308.0,589.0,1.0,0.00798,galaxus,2024-04-16
+782,Samsung,Galaxy S20+ 5G,128,64.0,6.7,Cloud Blue,0.0,0.0,457.95,3.0,0.01463,galaxus,2024-04-16
+783,ZTE,Blade A31 Lite 1GB RAM 32GB Blue,32,0.0,5.0,Blue,0.0,0.0,48.9,10.0,0.102249,galaxus,2024-04-16
+784,Sony,Xperia 1 III,256,12.0,6.5,Violet,90.0,84.0,1108.0,1.0,0.005866,galaxus,2024-04-16
+785,Xiaomi,Redmi A1,32,8.0,6.52,Black,88.0,48.0,78.4,1.0,0.083163,galaxus,2024-04-16
+786,Motorola,Moto E32s,32,16.0,6.5,Gravity grey,0.0,6.0,86.4,1.0,0.075231,galaxus,2024-04-16
+787,Xiaomi,Poco F5 Pro,256,64.0,6.67,White,0.0,17.0,445.0,1.0,0.014989,galaxus,2024-04-16
+788,Nokia,G22,64,50.0,6.5,Meteor Gray,0.0,17.0,150.0,1.0,0.043333,galaxus,2024-04-16
+789,Nokia,G11 PLUS 4/64 BLUE,64,0.0,6.52,Blue,0.0,0.0,149.0,1.0,0.043758,galaxus,2024-04-16
+790,Motorola,Moto G71,128,50.0,6.4,Iron black,90.0,13.0,166.0,1.0,0.038554,galaxus,2024-04-16
+791,Huawei,P50 Pro,256,50.0,6.6,Cocoa Gold,90.0,21.0,1083.59,1.0,0.006091,galaxus,2024-04-16
+792,Apple,iPhone 12,256,12.0,6.1,Blue,0.0,1650.0,598.0,4.0,0.010201,galaxus,2024-04-16
+793,Huawei,Mate 50 Pro,256,50.0,6.74,Silver,0.0,23.0,1039.0,1.0,0.006487,galaxus,2024-04-16
+794,Samsung,Galaxy S21 Ultra EU,512,108.0,6.8,Phantom Black,0.0,3.0,1128.97,1.0,0.006023,galaxus,2024-04-16
+795,Samsung,Galaxy Z Fold4,512,50.0,7.6,Grey green,0.0,8.0,1334.91,1.0,0.005693,galaxus,2024-04-16
+796,Samsung,Galaxy S20 Ultra 5G,128,108.0,6.9,Cosmic Gray,86.0,68.0,1219.5,1.0,0.005658,galaxus,2024-04-16
+797,Samsung,Galaxy Z Fold3 5G,256,12.0,7.6,Phantom silver,0.0,2.0,1324.8,1.0,0.005737,galaxus,2024-04-16
+798,Samsung,Galaxy S21 Ultra (Snapdragon),512,108.0,6.8,Phantom Black,88.0,28.0,1279.26,1.0,0.005316,galaxus,2024-04-16
+799,Samsung,Galaxy Z Fold3 5G,512,12.0,7.6,Phantom Black,0.0,36.0,2049.0,1.0,0.003709,galaxus,2024-04-16
+800,Samsung,Galaxy Z Fold3 5G,512,12.0,7.6,Phantom silver,92.0,47.0,1331.86,1.0,0.005706,galaxus,2024-04-16
+801,Samsung,Galaxy Z Fold3 5G,256,12.0,7.6,Phantom Black,86.0,29.0,1444.8,1.0,0.00526,galaxus,2024-04-16
+802,Samsung,Galaxy Z Fold3 5G,256,12.0,7.6,Phantom Green,86.0,6.0,1340.81,1.0,0.005668,galaxus,2024-04-16
+803,Samsung,Galaxy S21 Ultra (Snapdragon),512,108.0,6.8,Phantom silver,0.0,6.0,1204.0,1.0,0.005648,galaxus,2024-04-16
+804,Samsung,Galaxy S21 Ultra (Snapdragon),256,108.0,6.8,Phantom silver,0.0,26.0,1108.4,1.0,0.006135,galaxus,2024-04-16
+805,OPPO,Reno7 5G,256,64.0,6.43,Starry Black,0.0,4.0,351.21,1.0,0.018308,galaxus,2024-04-16
+806,Samsung,Galaxy S21 Ultra,256,108.0,6.8,Phantom silver,88.0,71.0,1043.2,1.0,0.006518,galaxus,2024-04-16
+807,Samsung,Galaxy S21 Ultra (Snapdragon),256,108.0,6.8,Phantom Black,88.0,33.0,1043.2,1.0,0.006518,galaxus,2024-04-16
+808,Samsung,Galaxy Note 20 Ultra Snapdragon,256,108.0,6.9,Mystic Black,88.0,66.0,1043.2,1.0,0.006614,galaxus,2024-04-16
+809,OnePlus,Nord CE 2,128,64.0,6.43,Bahama Blue,92.0,37.0,154.4,1.0,0.041645,galaxus,2024-04-16
+810,realme,C55,256,64.0,6.72,Gold,0.0,2.0,187.0,1.0,0.035936,galaxus,2024-04-16
+811,Apple,iPhone SE (2nd Gen),64,12.0,4.7,Black,94.0,2111.0,418.0,1.0,0.011244,galaxus,2024-04-16
+812,Motorola,Moto G72,128,108.0,6.6,Mineral White,0.0,0.0,189.0,4.0,0.034921,galaxus,2024-04-16
+813,OPPO,Reno2,256,48.0,6.5,Ocean Blue,92.0,69.0,337.5,1.0,0.019259,galaxus,2024-04-16
+814,Motorola,Moto G32,256,50.0,6.5,Mineral grey,0.0,7.0,144.0,1.0,0.045139,galaxus,2024-04-16
+815,Samsung,Galaxy Z Flip4,512,12.0,6.7,Blue,86.0,33.0,948.0,1.0,0.007068,galaxus,2024-04-16
+816,Xiaomi,Poco F3,128,48.0,6.67,Night Black,92.0,103.0,320.39,1.0,0.020818,galaxus,2024-04-16
+817,Samsung,Galaxy A53 5G EU,128,64.0,6.5,Awesome Black,90.0,101.0,302.95,3.0,0.021456,galaxus,2024-04-16
+818,Samsung,Galaxy S23 Ultra Enterprise Edition,256,200.0,6.8,Phantom Black,0.0,2.0,909.0,1.0,0.007481,galaxus,2024-04-16
+819,Samsung,Galaxy Z Flip3 5G,128,12.0,6.7,Cream,90.0,51.0,901.86,1.0,0.007429,galaxus,2024-04-16
+820,Samsung,Galaxy S21+,128,12.0,6.7,Phantom silver,88.0,17.0,895.06,1.0,0.007486,galaxus,2024-04-16
+821,Xiaomi,12 Lite 5G,128,108.0,6.55,Lite Green,0.0,1.0,245.95,3.0,0.026631,galaxus,2024-04-16
+822,Samsung,Galaxy Z Flip4,512,12.0,6.7,Graphites,86.0,33.0,884.8,1.0,0.007572,galaxus,2024-04-16
+823,Apple,iPhone 14 Pro,1000,48.0,6.1,Deep Purple,92.0,1024.0,1237.29,6.0,0.00493,galaxus,2024-04-16
+824,Apple,iPhone 14 Pro,256,48.0,6.1,Space Black,92.0,1024.0,1182.95,3.0,0.005157,galaxus,2024-04-16
+825,Samsung,Galaxy Z Fold4,512,50.0,7.6,Beige,0.0,12.0,872.9,1.0,0.008707,galaxus,2024-04-16
+826,Motorola,Razr 22,256,50.0,6.7,Satin Black,0.0,15.0,845.0,1.0,0.007929,galaxus,2024-04-16
+827,Xiaomi,Redmi Note 11 Pro+ 5G,128,108.0,6.67,Star Blue,86.0,38.0,285.0,1.0,0.023404,galaxus,2024-04-16
+828,Samsung,Galaxy S22+,256,50.0,6.6,Phantom Black,92.0,127.0,810.2,1.0,0.008146,galaxus,2024-04-16
+829,Motorola,Moto G41,128,48.0,6.43,Meteorite Black,0.0,7.0,125.0,1.0,0.05144,galaxus,2024-04-16
+830,Samsung,Galaxy Z Flip4,512,12.0,6.7,Bora Purple,86.0,33.0,802.17,1.0,0.008352,galaxus,2024-04-16
+831,Motorola,Razr 5G,256,48.0,6.2,Polished Graphite,92.0,11.0,786.45,1.0,0.007884,galaxus,2024-04-16
+832,Xiaomi,Poco M3,64,48.0,6.53,Power Black,0.0,1.0,277.96,1.0,0.023493,galaxus,2024-04-16
+833,Xiaomi,REDMI NOTE 12 PRO 8+256GB DS 5G POLAR WHITE OEM,256,50.0,6.67,Polar White,0.0,40.0,276.3,1.0,0.02414,galaxus,2024-04-16
+834,OPPO,A98 EU,256,64.0,6.72,Cool Black,0.0,4.0,263.0,1.0,0.025551,galaxus,2024-04-16
+835,Samsung,Galaxy S21,128,12.0,6.2,Phantom Pink,0.0,23.0,767.69,1.0,0.008076,galaxus,2024-04-16
+836,Motorola,Moto G13,128,50.0,6.5,Charcoal Mat,0.0,15.0,119.0,1.0,0.054622,galaxus,2024-04-16
+837,Samsung,Galaxy Z Flip3 5G,128,12.0,6.7,Lavender,90.0,51.0,738.4,1.0,0.009074,galaxus,2024-04-16
+838,Samsung,Galaxy S21,128,12.0,6.2,Phantom White,92.0,33.0,725.05,1.0,0.008551,galaxus,2024-04-16
+839,Samsung,Galaxy S22+,256,50.0,6.6,Green,92.0,127.0,719.06,1.0,0.009179,galaxus,2024-04-16
+840,Xiaomi,Redmi 9C,128,13.0,6.53,Midnight Grey,0.0,13.0,149.0,10.0,0.043826,galaxus,2024-04-16
+841,Samsung,Galaxy S22+,256,50.0,6.6,Phantom White,92.0,127.0,690.21,1.0,0.009562,galaxus,2024-04-16
+842,Motorola,Moto G14,128,50.0,6.5,Sky blue,0.0,6.0,107.0,1.0,0.060748,galaxus,2024-04-16
+843,Huawei,P30 Pro New Edition,256,40.0,6.47,Silver Frost,0.0,174.0,639.2,1.0,0.010122,galaxus,2024-04-16
+844,Samsung,Galaxy S22,128,50.0,6.1,Green,86.0,479.0,650.39,1.0,0.009379,galaxus,2024-04-16
+845,OnePlus,10T,256,50.0,6.7,Moonstone Black,0.0,11.0,635.4,1.0,0.010545,galaxus,2024-04-16
+846,Inoi,Note 13S,256,13.0,6.95,Gold,90.0,10.0,149.0,1.0,0.046644,galaxus,2024-04-16
+847,Samsung,Galaxy S22,128,50.0,6.1,Pink Gold,86.0,479.0,622.2,1.0,0.009804,galaxus,2024-04-16
+848,Google,Pixel 6 Pro,256,50.0,6.7,Stormy Black,90.0,34.0,767.9,1.0,0.008725,galaxus,2024-04-16
+849,Samsung,Galaxy Z Flip3 5G,128,12.0,6.7,Phantom Black,90.0,51.0,592.09,1.0,0.011316,galaxus,2024-04-16
+850,Motorola,Motorola Edge 40,256,50.0,6.55,Green,0.0,10.0,561.0,1.0,0.011676,galaxus,2024-04-16
+851,Nothing,Phone (2a) with Nothing Ear (2),128,50.0,6.7,White,0.0,1.0,369.0,,0.018157,galaxus,2024-04-16
+852,Samsung,Galaxy Z Flip4,256,12.0,6.7,Bora Purple,0.0,10.0,555.66,1.0,0.012058,galaxus,2024-04-16
+853,Xiaomi,Redmi Note 12 Pro,128,108.0,6.67,Glacier Blue,0.0,65.0,198.0,1.0,0.033687,galaxus,2024-04-16
+854,ASUS,ROG Phone 5s Pro,512,64.0,6.78,Phantom Black,94.0,15.0,1178.11,1.0,0.005755,galaxus,2024-04-16
+855,Emporia,Smart 4,32,13.0,5.0,Black,0.0,76.0,188.1,1.0,0.026582,galaxus,2024-04-16
+856,OPPO,A16,32,13.0,6.52,Crystal Black,88.0,12.0,186.15,1.0,0.035026,galaxus,2024-04-16
+857,Sony,Xperia 10 III,128,12.0,6.0,Black,0.0,87.0,398.65,1.0,0.015051,galaxus,2024-04-16
+858,Blackview,BV8900,256,64.0,6.5,Green,0.0,2.0,339.0,10.0,0.019174,galaxus,2024-04-16
+859,Apple,iPhone 13 Pro,128,12.0,6.1,Sierra Blue,0.0,891.0,1029.0,4.0,0.005928,galaxus,2024-04-16
+860,Samsung,Galaxy Z Flip3 5G,256,12.0,6.7,Lavender,92.0,27.0,501.16,1.0,0.013369,galaxus,2024-04-16
+861,Xiaomi,Redmi Note 11S,64,108.0,6.43,Graphite grey,92.0,103.0,183.0,1.0,0.035137,galaxus,2024-04-16
+862,Samsung,Galaxy S21 FE 5G EU,256,12.0,6.4,White,88.0,30.0,495.0,1.0,0.012929,galaxus,2024-04-16
+863,Samsung,Galaxy S22 EU,256,50.0,6.1,Pink Gold,0.0,52.0,582.22,6.0,0.010477,galaxus,2024-04-16
+864,Xiaomi,Redmi 12 5G,128,50.0,6.79,Sky blue,0.0,3.0,142.72,6.0,0.047576,galaxus,2024-04-16
+865,ASUS,ROG Phone 7,512,50.0,6.78,Phantom Black,0.0,17.0,949.0,1.0,0.007144,galaxus,2024-04-16
+866,Xiaomi,13T,256,50.0,6.67,Alpine blue,0.0,51.0,465.81,6.0,0.014319,galaxus,2024-04-16
+867,TIM,Find X5 Lite,256,64.0,6.42,Startrails Blue,0.0,0.0,239.0,1.0,0.026862,galaxus,2024-04-16
+868,OnePlus,8T (8GB),128,48.0,6.55,Lunar silver,94.0,180.0,441.74,1.0,0.014828,galaxus,2024-04-16
+869,ASUS,ROG Phone 5s (16GB),512,64.0,6.78,Phantom Black,94.0,18.0,850.4,1.0,0.007973,galaxus,2024-04-16
+870,Xiaomi,Poco X6 Pro,512,64.0,6.67,Black,0.0,0.0,425.95,3.0,0.015659,galaxus,2024-04-16
+871,ASUS,ROG Phone 5 (16GB),256,64.0,6.78,Phantom Black,92.0,27.0,828.0,1.0,0.008188,galaxus,2024-04-16
+872,Xiaomi,Redmi Note 12,64,50.0,6.67,Onyx Gray,0.0,2.0,155.0,1.0,0.043032,galaxus,2024-04-16
+873,ASUS,ROG Phone 5 (12GB),256,64.0,6.78,Phantom Black,92.0,9.0,802.39,1.0,0.00845,galaxus,2024-04-16
+874,ASUS,ROG Phone 5 (12GB),256,64.0,6.78,Storm White,0.0,4.0,802.39,1.0,0.00845,galaxus,2024-04-16
+875,ASUS,Zenfone 9 (16GB),256,50.0,5.92,Midnight Black,92.0,65.0,799.0,1.0,0.007409,galaxus,2024-04-16
+876,Xiaomi,Mi 8 Lite,128,12.0,6.26,Midnight Black,0.0,14.0,152.11,1.0,0.041154,galaxus,2024-04-16
+877,Ulefone,NOTE 14 4+64GB DS 4G PURPLE,64,13.0,6.52,Lavender Purple,0.0,0.0,90.6,1.0,0.071965,galaxus,2024-04-16
+878,Sony,Xperia 10 IV,128,12.0,6.0,White,86.0,194.0,589.0,17.0,0.010187,galaxus,2024-04-16
+879,Samsung,Galaxy S20 FE 5G,128,12.0,6.5,Cloud Navy,94.0,607.0,378.19,1.0,0.017187,galaxus,2024-04-16
+880,OnePlus,9,128,48.0,6.55,Astral Black,90.0,64.0,379.0,1.0,0.017282,galaxus,2024-04-16
+881,Samsung,Galaxy A12 (2021),128,48.0,6.5,Black,88.0,46.0,371.78,1.0,0.017483,galaxus,2024-04-16
+882,Google,Pixel 7 Pro,256,50.0,6.7,Obsidian,90.0,356.0,1026.0,52.0,0.00653,galaxus,2024-04-16
+883,Apple,iPhone 14 Pro Max,512,48.0,6.7,Gold,88.0,649.0,1417.0,1.0,0.004728,galaxus,2024-04-16
+884,Apple,iPhone 15 Plus,512,48.0,6.7,Pink,94.0,73.0,1159.0,1.0,0.005781,galaxus,2024-04-16
+885,Apple,iPhone 13 Pro Max,128,12.0,6.7,Graphites,0.0,565.0,1121.15,1.0,0.005976,galaxus,2024-04-16
+886,Apple,iPhone 13 Pro,256,12.0,6.1,Sierra Blue,0.0,891.0,1021.31,1.0,0.005973,galaxus,2024-04-16
+887,Xiaomi,Redmi A2,64,8.0,6.52,Blue,0.0,0.0,99.95,3.0,0.065233,galaxus,2024-04-16
+888,Xiaomi,Redmi 9AT,32,13.0,6.53,Granite Grey,0.0,19.0,71.6,7.0,0.091201,galaxus,2024-04-16
+889,Nokia,X30,256,50.0,6.43,White,0.0,2.0,355.68,6.0,0.018078,galaxus,2024-04-16
+890,Oukitel,WP23,64,13.0,6.52,Navy Green,0.0,1.0,154.0,10.0,0.042338,galaxus,2024-04-16
+891,Apple,iPhone 12 Pro,128,12.0,6.1,Pacific Blue,94.0,736.0,839.0,1.0,0.007271,galaxus,2024-04-16
+892,ASUS,Zenfone 9,128,50.0,5.92,Starry blue,90.0,59.0,544.0,1.0,0.010882,galaxus,2024-04-16
+893,Huawei,Nova 9 SE,128,108.0,6.78,Crystal Blue,0.0,14.0,268.5,1.0,0.025251,galaxus,2024-04-16
+894,Xiaomi,Poco X6,256,64.0,6.67,White,0.0,0.0,277.95,3.0,0.023997,galaxus,2024-04-16
+895,Apple,iPhone 13,512,12.0,6.1,Blue,94.0,1058.0,811.0,1.0,0.007522,galaxus,2024-04-16
+896,Apple,iPhone 13,512,12.0,6.1,Starlight,94.0,1058.0,811.0,1.0,0.007522,galaxus,2024-04-16
+897,Motorola,Razr 40,256,64.0,6.9,Say Green,0.0,6.0,542.0,8.0,0.012731,galaxus,2024-04-16
+898,Xiaomi,REDMI 12C NFC 3+64GB DS 4G GRAPHITE GRAY OEM,64,50.08,6.71,Graphite gray,0.0,0.0,106.0,1.0,0.063302,galaxus,2024-04-16
+899,Huawei,Nova 10 SE,128,108.0,6.67,Mint green,0.0,5.0,240.75,1.0,0.027705,galaxus,2024-04-16
+900,ASUS,Zenfone 8 (8GB),128,64.0,5.92,Obsidian Black,90.0,120.0,474.96,1.0,0.012464,galaxus,2024-04-16
+901,Oukitel,WP18,32,13.0,5.93,Black,92.0,8.0,134.0,17.0,0.044254,galaxus,2024-04-16
+902,TIM,Motorola g14,128,50.0,6.5,Steel grey,0.0,1.0,129.0,1.0,0.050388,galaxus,2024-04-16
+903,Samsung,Galaxy M23,128,50.0,6.6,Orange Copper,90.0,22.0,237.15,1.0,0.02783,galaxus,2024-04-16
+904,Motorola,Moto G82,128,50.0,6.6,White Lilly,0.0,2.0,233.0,1.0,0.028326,galaxus,2024-04-16
+905,Xiaomi,Redmi Note 12S,256,108.0,6.43,Blue,0.0,4.0,172.0,9.0,0.037384,galaxus,2024-04-16
+906,Motorola,Moto Edge30 Neo,128,64.0,6.28,Very Peri,0.0,3.0,227.51,1.0,0.027603,galaxus,2024-04-16
+907,Gigaset,GS5 senior,64,48.0,6.3,Dark Titanium Grey,0.0,1.0,233.0,2.0,0.027039,galaxus,2024-04-16
+908,Motorola,Moto G200,128,108.0,6.8,Green,90.0,10.0,210.82,1.0,0.032255,galaxus,2024-04-16
+909,ASUS,Zenfone 8 (16GB),256,64.0,5.92,Horizon Silver,0.0,5.0,392.97,1.0,0.015065,galaxus,2024-04-16
+910,Motorola,Moto G73,256,50.0,6.5,Lucent white,94.0,3.0,199.0,1.0,0.032663,galaxus,2024-04-16
+911,Motorola,Edge 20,128,108.0,6.7,Frost Gray,86.0,28.0,183.2,1.0,0.036572,galaxus,2024-04-16
+912,Apple,iPhone 8 Plus,256,12.0,5.5,Silver,88.0,8.0,503.21,1.0,0.01093,galaxus,2024-04-16
+913,Samsung,Galaxy A13 EU,32,50.0,6.6,Black,90.0,30.0,211.0,6.0,0.03128,galaxus,2024-04-16
+914,OnePlus,Nord CE 2 Lite 5G,128,64.0,6.59,Blue,90.0,24.0,204.95,3.0,0.032154,galaxus,2024-04-16
+915,Motorola,Moto G53,128,50.0,6.5,Ink blue,90.0,2.0,164.0,1.0,0.039634,galaxus,2024-04-16
+916,Krüger&Matz,LIVE 9,64,16.0,6.5,Blue,0.0,0.0,94.5,1.0,0.068783,galaxus,2024-04-16
+917,Microsoft,Surface Duo 2 B2B,256,12.0,8.3,Glacier,90.0,37.0,1364.46,1.0,0.006083,galaxus,2024-04-16
+918,Motorola,Moto G53,128,50.0,6.5,Pale Pink,0.0,1.0,159.0,1.0,0.040881,galaxus,2024-04-16
+919,Vivo,Y22s,128,50.0,6.55,Blue,0.0,1.0,138.0,1.0,0.047464,galaxus,2024-04-16
+920,Oukitel,WP19,256,64.0,6.78,Night Vision,88.0,13.0,287.0,9.0,0.023624,galaxus,2024-04-16
+921,Motorola,moto g32,256,50.0,6.5,Dove grey,0.0,7.0,147.0,1.0,0.044218,galaxus,2024-04-16
+922,Apple,iPhone 14 Pro,512,48.0,6.1,Silver,92.0,1024.0,1302.95,3.0,0.004682,galaxus,2024-04-16
+923,Apple,iPhone XS Max,64,12.0,6.5,Space grey,92.0,75.0,368.56,1.0,0.017636,galaxus,2024-04-16
+924,Xiaomi,Redmi 12C,64,50.0,6.71,Ocean Blue,92.0,22.0,99.3,10.0,0.067573,galaxus,2024-04-16
+925,Motorola,Moto G32,128,50.0,6.5,Satin Maroon,0.0,1.0,130.0,1.0,0.05,galaxus,2024-04-16
+926,Apple,iPhone 14 Plus,512,12.0,6.7,Yellow,94.0,231.0,969.95,3.0,0.006908,galaxus,2024-04-16
+927,Crosscall,Core-M5,32,13.0,4.95,Black,0.0,4.0,412.0,1.0,0.012015,galaxus,2024-04-16
+928,Apple,iPhone 14 Plus,256,12.0,6.7,(PRODUCT)RED,94.0,231.0,902.95,3.0,0.00742,galaxus,2024-04-16
+929,Inoi,Note 13S,256,13.0,6.95,Space Grey,90.0,10.0,150.0,1.0,0.046333,galaxus,2024-04-16
+930,realme,C51,128,50.0,6.74,Mint green,0.0,1.0,129.0,1.0,0.052248,galaxus,2024-04-16
+931,OPPO,A78 5G,128,0.0,6.56,Glowing blue,0.0,0.0,151.0,4.0,0.043444,galaxus,2024-04-16
+932,Oukitel,WP 21,256,64.0,6.78,Black,0.0,1.0,308.0,10.0,0.022013,galaxus,2024-04-16
+933,Motorola,Motorola Edge 30,128,50.0,6.5,meteor grey,0.0,2.0,195.0,25.0,0.033333,galaxus,2024-04-16
+934,realme,C51,128,50.0,6.74,Carbon black,0.0,0.0,118.0,1.0,0.057119,galaxus,2024-04-16
+935,OnePlus,11,128,50.0,6.7,Eternal Green,88.0,19.0,686.95,3.0,0.009753,galaxus,2024-04-16
+936,Motorola,Moto E13,128,13.0,6.5,Cosmic Black,0.0,3.0,129.0,,0.050388,galaxus,2024-04-16
+937,Apple,iPhone 12,256,12.0,6.1,White,0.0,1650.0,592.95,3.0,0.010288,galaxus,2024-04-16
+938,Samsung,Galaxy Z Fold5,512,50.0,7.6,Phantom Black,0.0,37.0,1791.0,,0.004243,galaxus,2024-04-16
+939,Xiaomi,Redmi 13C,128,50.0,6.74,Clover green,92.0,33.0,119.0,7.0,0.056639,galaxus,2024-04-16
+940,Krüger&Matz,Kruger&Matz FLOW 10 black smartphone,256,0.0,6.52,Black,0.0,0.0,83.6,10.0,0.07799,galaxus,2024-04-16
+941,realme,10,256,50.0,6.4,Black,0.0,3.0,172.0,10.0,0.037209,galaxus,2024-04-16
+942,Xiaomi,Poco X6,512,64.0,6.67,Black,0.0,0.0,308.0,10.0,0.021656,galaxus,2024-04-16
+943,Xiaomi,Poco X6,256,64.0,6.67,Blue,0.0,0.0,303.0,10.0,0.022013,galaxus,2024-04-16
+944,Samsung,Galaxy A53 5G Enterprise Edition EU,128,64.0,6.5,Awesome Black,90.0,6.0,280.0,4.0,0.023214,galaxus,2024-04-16
+945,Vivo,V29,256,50.0,6.78,Noble Black,0.0,1.0,359.0,21.0,0.018886,galaxus,2024-04-16
+946,Samsung,Galaxy S20 FE (Snapdragon) EU,128,12.0,6.5,Cloud Navy,92.0,167.0,409.0,17.0,0.015892,galaxus,2024-04-16
+947,Motorola,Moto G13,128,50.0,6.5,Charcoal Mat,0.0,8.0,140.0,,0.046429,galaxus,2024-04-16
+948,Motorola,"Moto E13 16.5 cm (6.5"") Dual SIM Android 13 Go Edition 4G USB Type-C 2 GB 64 GB 5000 mAh capacity",64,13.0,6.5,Green,94.0,7.0,75.9,,0.085639,galaxus,2024-04-16
+949,Honor,90,256,200.0,6.7,Emerald green,0.0,0.0,387.61,6.0,0.017285,galaxus,2024-04-16
+950,realme,9i,64,50.0,6.6,Prism Blue,94.0,3.0,119.0,10.0,0.055462,galaxus,2024-04-16
+951,Apple,iPhone 12,128,12.0,6.1,Blue,0.0,1650.0,562.0,4.0,0.010854,galaxus,2024-04-16
+952,Palm,Palm,32,12.0,3.3,Titanium Black,0.0,34.0,252.0,1.0,0.013095,galaxus,2024-04-16
+953,Doogee,S97 Pro,128,48.0,6.39,Red lava,0.0,3.0,395.0,6.0,0.016177,galaxus,2024-04-16
+954,Huawei,P60 Pro,256,48.0,6.67,Rococo Pearl,0.0,24.0,1018.45,8.0,0.006549,galaxus,2024-04-16
+955,Xiaomi,Redmit Note 13 Pro 4G,256,200.0,6.67,Midnight Black,0.0,0.0,265.96,6.0,0.025079,galaxus,2024-04-16
+956,OnePlus,Nord 2,128,50.0,6.43,Gray Sierra,88.0,165.0,303.95,3.0,0.021155,galaxus,2024-04-16
+957,Ulefone,Power Armor 14 Pro,128,20.0,6.52,Black,92.0,5.0,309.0,17.0,0.0211,galaxus,2024-04-16
+958,Rug Gear,RG725,32,13.0,4.0,Black,0.0,10.0,283.05,2.0,0.014132,galaxus,2024-04-16
+959,Gigaset,GX4 Outdoor,64,48.0,6.1,Petrol,0.0,5.0,324.0,22.0,0.018827,galaxus,2024-04-16
+960,Huawei,P9,32,12.0,5.2,Titanium Grey,94.0,53.0,129.0,7.0,0.04031,galaxus,2024-04-16
+961,Honor,Magic5 Lite 5G,128,64.0,6.67,Green,0.0,2.0,215.95,3.0,0.030887,galaxus,2024-04-16
+962,Nokia,C22,64,13.0,6.5,Sand,0.0,0.0,108.0,3.0,0.060185,galaxus,2024-04-16
+963,Xiaomi,Redmi 13C,128,50.0,6.74,Clover green,92.0,33.0,134.0,10.0,0.050299,galaxus,2024-04-16
+964,Xiaomi,11T 5G,128,108.0,6.67,Celestial Blue,90.0,48.0,363.0,52.0,0.018375,galaxus,2024-04-16
+965,Google,Pixel 4a,128,12.2,5.8,Just Black,94.0,563.0,136.0,1.0,0.042647,galaxus,2024-04-16
+966,OnePlus,North N30 SE,128,50.0,6.72,Black Satin,0.0,0.0,205.95,3.0,0.032629,galaxus,2024-04-16
+967,Apple,iPhone 14 Pro,128,48.0,6.1,Gold,92.0,1024.0,1001.0,7.0,0.006094,galaxus,2024-04-16
+968,Samsung,Galaxy S22,256,50.0,6.1,Green,86.0,479.0,919.0,1.0,0.006638,galaxus,2024-04-16
+969,Xiaomi,Redmi 13C,128,50.0,6.74,Midnight Black,92.0,33.0,124.0,10.0,0.054355,galaxus,2024-04-16
+970,Motorola,Moto G54,256,50.0,6.5,Glacier Blue,88.0,9.0,196.63,6.0,0.033057,galaxus,2024-04-16
+971,Motorola,Moto G24 Power 256GB Silver,256,50.0,6.56,Ink blue,0.0,0.0,190.95,3.0,0.034355,galaxus,2024-04-16
+972,Xiaomi,Redmi Note 10,128,48.0,6.5,Graphite gray,92.0,93.0,160.95,3.0,0.040385,galaxus,2024-04-16
+973,ZTE,A31 Lite,32,0.0,5.0,Grey,0.0,0.0,47.9,10.0,0.104384,galaxus,2024-04-16
+974,Xiaomi,12X,128,0.0,6.28,Blue,0.0,1.0,349.0,24.0,0.017994,galaxus,2024-04-16
+975,Oukitel,WP28,256,48.0,6.52,Black,0.0,2.0,219.0,17.0,0.029772,galaxus,2024-04-16
+976,Bea-Fon,M6s Plus,32,13.0,6.26,Black,0.0,3.0,154.3,6.0,0.04057,galaxus,2024-04-16
+977,Oukitel,Smartphone Oukitel WP23 Pro 8/128GB Zielony,128,13.0,6.52,Navy Green,0.0,0.0,179.0,14.0,0.036425,galaxus,2024-04-16
+978,Xiaomi,Redmi Note 11,128,50.0,6.43,Graphite grey,90.0,285.0,181.0,52.0,0.035525,galaxus,2024-04-16
+979,Motorola,Moto E22,32,16.0,6.5,Astro Black,0.0,0.0,91.95,11.0,0.070691,galaxus,2024-04-16
+980,Oukitel,"WP12 Pro 4""",64,13.0,5.5,Black,0.0,0.0,127.0,11.0,0.043307,galaxus,2024-04-16
+981,Inoi,A63,32,13.0,6.5,Navy Blue,0.0,0.0,91.3,1.0,0.071194,galaxus,2024-04-16
+982,OnePlus,Nord 3,128,50.0,6.74,Tempest Gray,0.0,1.0,419.0,10.0,0.016086,galaxus,2024-04-16
+983,realme,11 Pro,256,100.0,6.7,Astral Black,0.0,9.0,514.0,16.0,0.013035,galaxus,2024-04-16
+984,Sony,Xperia 10 IV,128,12.0,6.0,Green,86.0,194.0,389.0,,0.015424,galaxus,2024-04-16
+985,Xiaomi,Poco M5s,128,64.0,6.43,Grey,0.0,15.0,133.0,10.0,0.048346,galaxus,2024-04-16
+986,Huawei,Nova 10 Pro,256,50.0,6.78,Starry Black,90.0,13.0,319.0,11.0,0.021254,galaxus,2024-04-16
+987,Krüger&Matz,Kruger&Matz MOVE 10 Smartphone black,32,0.0,5.45,Black,0.0,0.0,59.4,10.0,0.091751,galaxus,2024-04-16
+988,Samsung,Galaxy M23,128,50.0,6.6,Deep green,90.0,22.0,259.0,16.0,0.025483,galaxus,2024-04-16
+989,Apple,iPhone 13 mini,128,12.0,5.4,(PRODUCT)RED,0.0,1203.0,698.0,10.0,0.007736,galaxus,2024-04-16
+990,Sony,Xperia 5 IV,128,12.0,6.1,Green,92.0,79.0,914.31,6.0,0.006672,galaxus,2024-04-16
+991,Samsung,Galaxy S23 Ultra,256,200.0,6.8,Lavender,92.0,410.0,1148.95,3.0,0.005918,galaxus,2024-04-16
+992,Xiaomi,13T Pro,512,50.0,6.67,Alpine blue,0.0,1.0,605.0,9.0,0.011025,galaxus,2024-04-16
+993,Samsung,Galaxy Z Flip4,128,12.0,6.7,Graphites,0.0,8.0,542.0,4.0,0.012362,galaxus,2024-04-16
+994,Apple,iPhone 14,512,12.0,6.1,Blue,94.0,1087.0,977.95,3.0,0.006238,galaxus,2024-04-16
+995,OnePlus,11 5G with Buds Pro 2,256,50.0,6.7,Titan Black,0.0,2.0,486.1,1.0,0.013783,galaxus,2024-04-16
+996,Apple,iPhone SE (2nd Gen),256,12.0,4.7,White,94.0,2111.0,459.0,17.0,0.01024,galaxus,2024-04-16
+997,OnePlus,9 Pro (12GB),256,48.0,6.7,Morning Mist,0.0,2.0,519.0,4.0,0.012909,galaxus,2024-04-16
+998,OnePlus,Nord 2 (12GB),256,50.0,6.43,Blue Haze,88.0,126.0,420.0,1.0,0.01531,galaxus,2024-04-16
+999,Apple,iPhone 11 Pro,64,12.0,5.8,Gold,0.0,42.0,787.95,3.0,0.007361,galaxus,2024-04-16
+1000,Apple,iPhone 12 mini,128,12.0,5.4,White,0.0,1050.0,765.95,3.0,0.00705,galaxus,2024-04-16
+1001,Xiaomi,Mi 9T Pro,128,48.0,6.39,Carbon black,0.0,50.0,580.0,6.0,0.011017,galaxus,2024-04-16
+1002,OPPO,Find X5 Pro,256,50.0,6.7,Glaze Black,90.0,228.0,1267.0,,0.005288,galaxus,2024-04-16
+1003,Xiaomi,Poco F5 Pro,512,64.0,6.67,Black,0.0,17.0,553.49,6.0,0.012051,galaxus,2024-04-16
+1004,Motorola,Razr 40,256,64.0,6.9,Summer Lilac,0.0,6.0,664.95,3.0,0.010377,galaxus,2024-04-16
+1005,Huawei,P30 Pro,128,40.0,6.47,Mystic Lavender,94.0,53.0,322.2,1.0,0.020081,galaxus,2024-04-16
+1006,OnePlus,10T,128,50.0,6.7,Moonstone Black,94.0,3.0,363.0,4.0,0.018457,galaxus,2024-04-16
+1007,OnePlus,10T,128,50.0,6.7,Jade Green,94.0,3.0,359.0,4.0,0.018663,galaxus,2024-04-16
+1008,Tecno,Spark 10 Pro,256,50.0,6.8,Starry Black,90.0,2.0,149.0,11.0,0.045638,galaxus,2024-04-16
+1009,Apple,iPhone 11 Pro Max,512,12.0,6.5,Space Grey,92.0,12.0,1649.0,4.0,0.003942,galaxus,2024-04-16
+1010,Samsung,Galaxy Z Fold4,256,50.0,7.6,Phantom Black,0.0,10.0,1837.0,10.0,0.004137,galaxus,2024-04-16
+1011,OPPO,A79,256,50.0,6.72,Mystery Black,0.0,0.0,212.0,25.0,0.031698,galaxus,2024-04-16
+1012,Apple,iPhone 15,512,48.0,6.1,Yellow,92.0,629.0,1029.0,7.0,0.005928,galaxus,2024-04-16
+1013,OPPO,Reno 8 Pro,256,50.0,6.7,Glazed Black,0.0,0.0,348.0,10.0,0.019253,galaxus,2024-04-16
+1014,Nokia,Smartphone XR20 5G 4,64,48.0,6.67,Ultra Blue,0.0,9.0,281.0,4.0,0.023737,galaxus,2024-04-16
+1015,OnePlus,North N30 SE,128,50.0,6.72,Black Satin,0.0,0.0,205.95,3.0,0.032629,galaxus,2024-04-16
+1016,Apple,iPhone 14 Pro,128,48.0,6.1,Gold,92.0,1024.0,1001.0,7.0,0.006094,galaxus,2024-04-16
+1017,Samsung,Galaxy S22,256,50.0,6.1,Green,86.0,479.0,919.0,1.0,0.006638,galaxus,2024-04-16
+1018,Xiaomi,Redmi 13C,128,50.0,6.74,Midnight Black,92.0,33.0,124.0,10.0,0.054355,galaxus,2024-04-16
+1019,Motorola,Moto G54,256,50.0,6.5,Glacier Blue,88.0,9.0,196.63,6.0,0.033057,galaxus,2024-04-16
+1020,Motorola,Moto G24 Power 256GB Silver,256,50.0,6.56,Ink blue,0.0,0.0,190.95,3.0,0.034355,galaxus,2024-04-16
+1021,Xiaomi,Redmi Note 10,128,48.0,6.5,Graphite gray,92.0,93.0,160.95,3.0,0.040385,galaxus,2024-04-16
+1022,ZTE,A31 Lite,32,0.0,5.0,Grey,0.0,0.0,47.9,10.0,0.104384,galaxus,2024-04-16
+1023,Xiaomi,12X,128,0.0,6.28,Blue,0.0,1.0,349.0,24.0,0.017994,galaxus,2024-04-16
+1024,Oukitel,WP28,256,48.0,6.52,Black,0.0,2.0,219.0,17.0,0.029772,galaxus,2024-04-16
+1025,Bea-Fon,M6s Plus,32,13.0,6.26,Black,0.0,3.0,154.3,6.0,0.04057,galaxus,2024-04-16
+1026,Oukitel,Smartphone Oukitel WP23 Pro 8/128GB Zielony,128,13.0,6.52,Navy Green,0.0,0.0,179.0,14.0,0.036425,galaxus,2024-04-16
+1027,Xiaomi,Redmi Note 11,128,50.0,6.43,Graphite grey,90.0,285.0,181.0,52.0,0.035525,galaxus,2024-04-16
+1028,Motorola,Moto E22,32,16.0,6.5,Astro Black,0.0,0.0,97.95,3.0,0.06636,galaxus,2024-04-16
+1029,Oukitel,"WP12 Pro 4""",64,13.0,5.5,Black,0.0,0.0,127.0,11.0,0.043307,galaxus,2024-04-16
+1030,Inoi,A63,32,13.0,6.5,Navy Blue,0.0,0.0,91.3,1.0,0.071194,galaxus,2024-04-16
+1031,OnePlus,Nord 3,128,50.0,6.74,Tempest Gray,0.0,1.0,419.0,10.0,0.016086,galaxus,2024-04-16
+1032,realme,11 Pro,256,100.0,6.7,Astral Black,0.0,9.0,514.0,16.0,0.013035,galaxus,2024-04-16
+1033,Sony,Xperia 10 IV,128,12.0,6.0,Green,86.0,194.0,389.0,,0.015424,galaxus,2024-04-16
+1034,Xiaomi,Poco M5s,128,64.0,6.43,Grey,0.0,15.0,133.0,10.0,0.048346,galaxus,2024-04-16
+1035,Huawei,Nova 10 Pro,256,50.0,6.78,Starry Black,90.0,13.0,319.0,11.0,0.021254,galaxus,2024-04-16
+1036,Krüger&Matz,Kruger&Matz MOVE 10 Smartphone black,32,0.0,5.45,Black,0.0,0.0,59.4,10.0,0.091751,galaxus,2024-04-16
+1037,Samsung,Galaxy M23,128,50.0,6.6,Deep green,90.0,22.0,259.0,16.0,0.025483,galaxus,2024-04-16
+1038,Apple,iPhone 13 mini,128,12.0,5.4,(PRODUCT)RED,0.0,1203.0,698.0,10.0,0.007736,galaxus,2024-04-16
+1039,Sony,Xperia 5 IV,128,12.0,6.1,Green,92.0,79.0,914.31,6.0,0.006672,galaxus,2024-04-16
+1040,Samsung,Galaxy S23 Ultra,256,200.0,6.8,Lavender,92.0,410.0,1148.95,3.0,0.005918,galaxus,2024-04-16
+1041,Xiaomi,13T Pro,512,50.0,6.67,Alpine blue,0.0,1.0,605.0,9.0,0.011025,galaxus,2024-04-16
+1042,Samsung,Galaxy Z Flip4,128,12.0,6.7,Graphites,0.0,8.0,542.0,4.0,0.012362,galaxus,2024-04-16
+1043,Apple,iPhone 14,512,12.0,6.1,Blue,94.0,1087.0,977.95,3.0,0.006238,galaxus,2024-04-16
+1044,OnePlus,11 5G with Buds Pro 2,256,50.0,6.7,Titan Black,0.0,2.0,486.1,1.0,0.013783,galaxus,2024-04-16
+1045,Apple,iPhone SE (2nd Gen),256,12.0,4.7,White,94.0,2111.0,459.0,17.0,0.01024,galaxus,2024-04-16
+1046,OnePlus,9 Pro (12GB),256,48.0,6.7,Morning Mist,0.0,2.0,519.0,4.0,0.012909,galaxus,2024-04-16
+1047,OnePlus,Nord 2 (12GB),256,50.0,6.43,Blue Haze,88.0,126.0,420.0,1.0,0.01531,galaxus,2024-04-16
+1048,Apple,iPhone 11 Pro,64,12.0,5.8,Gold,0.0,42.0,760.95,3.0,0.007622,galaxus,2024-04-16
+1049,Apple,iPhone 12 mini,128,12.0,5.4,White,0.0,1050.0,831.95,3.0,0.006491,galaxus,2024-04-16
+1050,Xiaomi,Mi 9T Pro,128,48.0,6.39,Carbon black,0.0,50.0,580.0,6.0,0.011017,galaxus,2024-04-16
+1051,OPPO,Find X5 Pro,256,50.0,6.7,Glaze Black,90.0,228.0,1267.0,,0.005288,galaxus,2024-04-16
+1052,Xiaomi,Poco F5 Pro,512,64.0,6.67,Black,0.0,17.0,553.49,6.0,0.012051,galaxus,2024-04-16
+1053,Motorola,Razr 40,256,64.0,6.9,Summer Lilac,0.0,6.0,664.95,3.0,0.010377,galaxus,2024-04-16
+1054,Huawei,P30 Pro,128,40.0,6.47,Mystic Lavender,94.0,53.0,322.2,1.0,0.020081,galaxus,2024-04-16
+1055,OnePlus,10T,128,50.0,6.7,Moonstone Black,94.0,3.0,363.0,4.0,0.018457,galaxus,2024-04-16
+1056,OnePlus,10T,128,50.0,6.7,Jade Green,94.0,3.0,359.0,4.0,0.018663,galaxus,2024-04-16
+1057,Tecno,Spark 10 Pro,256,50.0,6.8,Starry Black,90.0,2.0,149.0,11.0,0.045638,galaxus,2024-04-16
+1058,Apple,iPhone 11 Pro Max,512,12.0,6.5,Space Grey,92.0,12.0,1649.0,4.0,0.003942,galaxus,2024-04-16
+1059,Samsung,Galaxy Z Fold4,256,50.0,7.6,Phantom Black,0.0,10.0,1837.0,10.0,0.004137,galaxus,2024-04-16
+1060,OPPO,A79,256,50.0,6.72,Mystery Black,0.0,0.0,212.0,25.0,0.031698,galaxus,2024-04-16
+1061,Apple,iPhone 15,512,48.0,6.1,Yellow,92.0,629.0,1029.0,7.0,0.005928,galaxus,2024-04-16
+1062,OPPO,Reno 8 Pro,256,50.0,6.7,Glazed Black,0.0,0.0,348.0,10.0,0.019253,galaxus,2024-04-16
+1063,Nokia,Smartphone XR20 5G 4,64,48.0,6.67,Ultra Blue,0.0,9.0,281.0,4.0,0.023737,galaxus,2024-04-16
+1064,Xiaomi,Poco F4,128,64.0,6.67,Silver,0.0,1.0,344.0,10.0,0.01939,galaxus,2024-04-16
+1065,OPPO,Find X5,256,50.0,6.55,Black,86.0,61.0,478.66,1.0,0.013684,galaxus,2024-04-16
+1066,Apple,iPhone 15 Plus,256,48.0,6.7,Yellow,94.0,73.0,949.0,1.0,0.00706,galaxus,2024-04-16
+1067,Xiaomi,Redmi Note 10 5G,64,48.0,6.5,Grey,90.0,10.0,119.0,4.0,0.054622,galaxus,2024-04-16
+1068,Oukitel,WP22,256,48.0,6.58,Midnight Black,0.0,0.0,236.0,10.0,0.027881,galaxus,2024-04-16
+1069,Nothing,Phone (1) (12GB),256,50.0,6.55,White,90.0,483.0,549.0,52.0,0.011931,galaxus,2024-04-16
+1070,Blackview,BV9200,256,50.0,6.6,Black,0.0,3.0,265.0,10.0,0.024906,galaxus,2024-04-16
+1071,Xiaomi,12T,256,108.0,6.67,Blue,92.0,11.0,389.79,6.0,0.017112,galaxus,2024-04-16
+1072,Apple,iPhone 14,256,12.0,6.1,Yellow,94.0,1087.0,760.0,1.0,0.008026,galaxus,2024-04-16
+1073,Xiaomi,Poco X5 Pro,128,108.0,6.67,Blue,0.0,18.0,357.0,3.0,0.018683,galaxus,2024-04-16
+1074,Apple,iPhone 11 Pro,512,12.0,5.8,Silver,90.0,2.0,709.0,4.0,0.008181,galaxus,2024-04-16
+1075,Samsung,Galaxy A53 5G,128,64.0,6.5,Awesome Peach,90.0,637.0,214.3,1.0,0.030331,galaxus,2024-04-16
+1076,Ulefone,Power Armor 13,128,48.0,6.81,Black,92.0,7.0,359.0,,0.018969,galaxus,2024-04-16
+1077,Xiaomi,Redmi Note 11S,64,108.0,6.43,Twilight Blue,92.0,103.0,150.0,25.0,0.042867,galaxus,2024-04-16
+1078,Samsung,Galaxy S20 FE 5G EU,128,32.0,6.5,Cloud Lavender,92.0,159.0,397.04,6.0,0.016371,galaxus,2024-04-16
+1079,Ulefone,Note 16 Pro,128,50.0,6.52,Blue,0.0,0.0,139.0,10.0,0.046906,galaxus,2024-04-16
+1080,Samsung,Galaxy S7 Edge,32,12.0,5.5,Gold Platinum,92.0,35.0,200.0,1.0,0.0275,galaxus,2024-04-16
+1081,Oukitel,C35 12/256GB Black,256,50.0,6.56,Black,0.0,0.0,167.0,10.0,0.039281,galaxus,2024-04-16
+1082,Oukitel,C35 12/256GB Blue,256,50.0,6.56,Blue,0.0,0.0,165.0,10.0,0.039758,galaxus,2024-04-16
+1083,TCL,40 NxtPaper 5G,256,50.0,6.6,Starlight Black,0.0,0.0,219.0,24.0,0.030137,galaxus,2024-04-16
+1084,Blackview,BV7200 Dual Sim 6GB RAM (black) - 128 GB -,128,50.0,6.1,Black,0.0,0.0,195.0,10.0,0.031282,galaxus,2024-04-16
+1085,Apple,iPhone 12,128,12.0,6.1,(PRODUCT)RED,0.0,1650.0,556.0,4.0,0.010971,galaxus,2024-04-16
+1086,Xiaomi,Redmi Note 12 5G,128,0.0,6.65,Onyx Gray,0.0,0.0,205.0,10.0,0.032439,galaxus,2024-04-16
+1087,Xiaomi,Redmi Note 11,128,50.0,6.43,Star Blue,90.0,285.0,198.0,9.0,0.032475,galaxus,2024-04-16
+1088,Nokia,G22,64,50.0,6.5,Lagoon Blue,0.0,17.0,154.0,4.0,0.042208,galaxus,2024-04-16
+1089,Xiaomi,Poco F5 Pro,512,64.0,6.67,White,0.0,17.0,619.0,24.0,0.010775,galaxus,2024-04-16
+1090,Xiaomi,Poco M6 Pro,256,64.0,6.67,Black,0.0,0.0,241.95,3.0,0.027568,galaxus,2024-04-16
+1091,Xiaomi,Poco F4,128,64.0,6.67,Black,0.0,1.0,589.0,22.0,0.011324,galaxus,2024-04-16
+1092,Xiaomi,Redmi Note 12,256,48.0,6.67,Sunrise Gold,86.0,6.0,233.17,6.0,0.028606,galaxus,2024-04-16
+1093,Vivo,Y21s,128,50.0,6.51,Midday Dream,0.0,1.0,139.0,7.0,0.046835,galaxus,2024-04-16
+1094,Blackview,Smartphone BV5300 PRO czarny,64,13.0,6.1,Black,0.0,0.0,152.0,10.0,0.040132,galaxus,2024-04-16
+1095,Nokia,C32,64,50.0,6.5,Charcoal,0.0,3.0,130.0,4.0,0.05,galaxus,2024-04-16
+1096,Xiaomi,Note 12S,256,108.0,6.43,Green,0.0,0.0,209.95,3.0,0.030626,galaxus,2024-04-16
+1097,Oukitel,WP21 Ultra,256,64.0,6.78,Black,0.0,2.0,589.51,8.0,0.011501,galaxus,2024-04-16
+1098,Xiaomi,Poco C65,256,50.0,6.74,Blue,0.0,0.0,139.0,10.0,0.048489,galaxus,2024-04-16
+1099,Gigaset,GX6 Outdoor,128,50.0,6.6,Titanium Black,0.0,8.0,653.85,79.0,0.010094,galaxus,2024-04-16
+1100,OnePlus,Nord 3,128,50.0,6.74,Misty Green,0.0,1.0,363.0,10.0,0.018567,galaxus,2024-04-16
+1101,Nokia,G42,128,50.0,6.56,So Pink,0.0,0.0,215.95,10.0,0.030377,galaxus,2024-04-16
+1102,Ulefone,Power Armor 14,64,20.0,6.52,Black,0.0,1.0,239.0,17.0,0.02728,galaxus,2024-04-16
+1103,Motorola,Edge 40 Neo,256,50.0,6.55,Black Beauty,0.0,1.0,340.0,10.0,0.019265,galaxus,2024-04-16
+1104,Xiaomi,Poco M5s,64,64.0,6.43,Grey,90.0,2.0,128.0,10.0,0.050234,galaxus,2024-04-16
+1105,Xiaomi,Redmi 10 5G,128,50.0,6.58,Aurora Green,0.0,1.0,124.0,11.0,0.053065,galaxus,2024-04-16
+1106,Xiaomi,Poco X6,256,64.0,6.67,Black,0.0,0.0,336.0,16.0,0.019851,galaxus,2024-04-16
+1107,OPPO,A17,64,50.0,6.56,Midnight Black,0.0,1.0,142.95,3.0,0.04589,galaxus,2024-04-16
+1108,Blackview,BV9300,256,50.0,6.7,Black,0.0,1.0,309.0,14.0,0.021683,galaxus,2024-04-16
+1109,Motorola,Moto G53,128,50.0,6.5,Arctic Silver,0.0,2.0,163.95,3.0,0.039646,galaxus,2024-04-16
+1110,Ulefone,Armor X8,64,13.0,5.7,Black,94.0,6.0,179.0,17.0,0.031844,galaxus,2024-04-16
+1111,Ulefone,Armor X8,64,13.0,5.7,Black,94.0,6.0,179.0,17.0,0.031844,galaxus,2024-04-16
+1112,Google,Pixel 8 Pro,512,50.0,6.7,Grey,86.0,275.0,1049.0,10.0,0.006387,galaxus,2024-04-16
+1113,Doro,Smartphone 8050 2,16,13.0,5.45,Grey,0.0,18.0,148.0,6.0,0.036824,galaxus,2024-04-16
+1114,Xiaomi,Redmi 10,64,50.0,6.58,Dark grey,88.0,42.0,123.7,6.0,0.053193,galaxus,2024-04-16
+1115,Motorola,Moto e20,32,13.0,6.5,Graphites,86.0,8.0,85.6,4.0,0.075935,galaxus,2024-04-16
+1116,Motorola,Moto G24,128,50.0,6.56,Ice Green,0.0,0.0,140.95,3.0,0.046541,galaxus,2024-04-16
+1117,Ulefone,Armor 8,64,16.0,6.1,Orange,90.0,30.0,147.0,11.0,0.041497,galaxus,2024-04-16
+1118,Xiaomi,Redmi Note 12 Pro,128,108.0,6.67,Polar White,0.0,65.0,245.0,24.0,0.027224,galaxus,2024-04-16
+1119,realme,C11 2021,32,8.0,6.5,Cool grey,0.0,5.0,91.9,7.0,0.070729,galaxus,2024-04-16
+1120,Xiaomi,Redmi 10C,64,50.0,6.71,Ocean Blue,0.0,4.0,106.33,6.0,0.063105,galaxus,2024-04-16
+1121,Ulefone,Armor X8,64,13.0,5.7,Black,0.0,15.0,135.0,10.0,0.042222,galaxus,2024-04-16
+1122,realme,C30 3,32,8.0,6.5,Black,0.0,4.0,79.9,7.0,0.081352,galaxus,2024-04-16
+1123,Xiaomi,Redmi Note 11 Pro+ 5G,128,108.0,6.67,Forest Green,86.0,38.0,208.0,10.0,0.032067,galaxus,2024-04-16
+1124,OnePlus,Nord 2 (12GB),256,50.0,6.43,Gray Sierra,88.0,126.0,559.0,15.0,0.011503,galaxus,2024-04-16
+1125,Xiaomi,Redmi 9C,64,13.0,6.53,Midnight Grey,86.0,38.0,199.0,14.0,0.032814,galaxus,2024-04-16
+1126,Nokia,C02,32,5.0,5.45,Charcoal,0.0,0.0,101.95,3.0,0.053458,galaxus,2024-04-16
+1127,Xiaomi,Poco M4 Pro,256,64.0,6.43,Power Black,94.0,12.0,189.0,10.0,0.034021,galaxus,2024-04-16
+1128,realme,53,256,50.0,6.74,Gold,0.0,1.0,174.0,10.0,0.038736,galaxus,2024-04-16
+1129,Nokia,C31,128,13.0,6.75,Charcoal,0.0,0.0,109.0,10.0,0.061927,galaxus,2024-04-16
+1130,ZTE,Blade A32,32,5.0,5.45,Black,0.0,0.0,61.5,,0.088618,galaxus,2024-04-16
+1131,Huawei,Nova 10,128,50.0,6.67,Black,0.0,1.0,289.0,,0.02308,galaxus,2024-04-16
+1132,Motorola,Moto G22,64,50.0,6.5,Cosmic Black,0.0,30.0,112.0,10.0,0.058036,galaxus,2024-04-16
+1133,Apple,iPhone 11 Pro Max,64,12.0,6.5,Space Grey,94.0,149.0,1231.0,11.0,0.00528,galaxus,2024-04-16
+1134,Apple,iPhone 11 Pro Max,256,12.0,6.5,Gold,0.0,36.0,1449.0,11.0,0.004486,galaxus,2024-04-16
+1135,Xiaomi,Redmi 12,128,50.0,6.79,Midnight Black,0.0,0.0,135.0,14.0,0.050296,galaxus,2024-04-16
+1136,Gigaset,GX6 Outdoor,128,50.0,6.6,Titanium Grey,0.0,8.0,500.0,10.0,0.0132,galaxus,2024-04-16
+1137,Bea-Fon,M6s Black,32,13.0,6.26,Black,0.0,0.0,148.0,8.0,0.042297,galaxus,2024-04-16
+1138,Blackview,MOBILE PHONE BV8900 8/256GB/ORANGE,256,64.0,6.5,orange,0.0,0.0,379.0,,0.01715,galaxus,2024-04-16
+1139,Xiaomi,Poco X5 Pro,256,108.0,6.67,Yellow,0.0,12.0,449.0,50.0,0.014855,galaxus,2024-04-16
+1140,Apple,iPhone 11 Pro,256,12.0,5.8,Midnight Green,94.0,167.0,629.0,11.0,0.009221,galaxus,2024-04-16
+1141,Honor,Magic4 Lite 5G,128,48.0,6.81,Ocean Blue,0.0,0.0,229.0,17.0,0.029738,galaxus,2024-04-16
+1142,Apple,iPhone 11 Pro,64,12.0,5.8,Silver,92.0,39.0,579.0,11.0,0.010017,galaxus,2024-04-16
+1143,Apple,iPhone 11 Pro,64,12.0,5.8,Midnight Green,94.0,379.0,579.0,11.0,0.010017,galaxus,2024-04-16
+1144,Nubia,Red Magic 6R,256,64.0,6.67,Mercury Silver,0.0,1.0,330.0,11.0,0.020212,galaxus,2024-04-16
+1145,Apple,iPhone 12 mini,64,12.0,5.4,(PRODUCT)RED,0.0,1050.0,509.0,11.0,0.010609,galaxus,2024-04-16
+1146,Xiaomi,Redmi Note 11 Pro+ 5G,256,108.0,6.67,Dark Blue,0.0,5.0,328.0,52.0,0.020335,galaxus,2024-04-16
+1147,Ulefone,Armor X6 Pro,32,13.0,5.0,Orange,0.0,1.0,169.0,,0.029586,galaxus,2024-04-16
+1148,Motorola,Razr 40 Ultra,256,12.0,6.9,Peach Fuzz,0.0,28.0,808.0,25.0,0.00854,galaxus,2024-04-16
+1149,Samsung,Galaxy S20 FE EU,128,12.0,6.5,Cloud Orange,90.0,45.0,399.0,,0.016291,galaxus,2024-04-16
+1150,realme,11 Pro,256,100.0,6.7,Beige,0.0,9.0,538.0,52.0,0.012454,galaxus,2024-04-16
+1151,Xiaomi,Redmi 10C,128,50.0,6.71,Mint green,94.0,14.0,149.0,25.0,0.045034,galaxus,2024-04-16
+1152,Xiaomi,Redmi 9C NFC,64,13.0,6.53,Grey,0.0,3.0,115.0,50.0,0.056783,galaxus,2024-04-16
+1153,Motorola,Moto G53,128,50.0,6.5,Arctic Silver,86.0,11.0,179.0,,0.036313,galaxus,2024-04-16
+1154,realme,10 8+128GB DS 4G RUSH BLACK OEM,128,50.0,6.4,Black,0.0,1.0,219.0,25.0,0.029224,galaxus,2024-04-16
+1155,realme,9,128,50.0,6.6,Meteor Black,0.0,5.0,177.0,25.0,0.037288,galaxus,2024-04-16
+1156,realme,C53,128,50.0,6.74,Mighty Black,0.0,3.0,143.0,,0.047133,galaxus,2024-04-16
+1157,Nokia,C12,64,8.0,6.3,Charcoal,0.0,1.0,108.0,32.0,0.058333,galaxus,2024-04-16
+1158,Brondi,Midnight Sky,16,8.0,6.0,Midnight Sky,0.0,1.0,58.9,10.0,0.101868,galaxus,2024-04-16
+1159,Blackview,BL5000,128,12.0,6.36,Black,0.0,0.0,439.0,,0.014487,galaxus,2024-04-16
+1160,Apple,iPhone 7,32,12.0,4.7,Black,90.0,332.0,119.0,,0.039496,galaxus,2024-04-16
+1161,Xiaomi,Poco M6 Pro,256,64.0,6.67,Black,0.0,0.0,209.0,,0.031914,galaxus,2024-04-16
+1162,OPPO,A94 5G,128,48.0,6.43,Black,0.0,21.0,199.0,,0.032312,galaxus,2024-04-16
+1163,Doro,8100,32,13.0,6.1,Black,0.0,3.0,179.0,,0.034078,galaxus,2024-04-16
+1164,Samsung,Galaxy A13,128,50.0,6.6,Black,90.0,205.0,209.0,,0.031579,galaxus,2024-04-16
+1165,Microsoft,Surface Duo 2 Demo   Snapdragon 888  EMEA Glacier Anroid 11,128,16.0,8.3,Glacier,0.0,0.0,797.0,1.0,0.010414,galaxus,2024-04-16
+1166,ZTE,Smartfon Nubia Redmagic 8S Pro 5G 12/256GB Platynowy,256,50.0,6.8,Platinum,0.0,0.0,829.0,10.0,0.008203,galaxus,2024-04-16
+1167,OPPO,Find X2 Pro,512,48.0,6.7,Black,92.0,48.0,700.0,1.0,0.009571,galaxus,2024-04-16
+1168,Samsung,Galaxy Note 20 Ultra DE,512,108.0,6.9,Mystic Bronze,0.0,3.0,1190.01,1.0,0.005798,galaxus,2024-04-16
+1169,Xiaomi,13 Pro,512,50.3,6.73,Ceramic Black,88.0,36.0,800.0,1.0,0.008412,galaxus,2024-04-16
+1170,ASUS,ROG Phone 8,256,50.0,6.78,Phantom Black,0.0,0.0,964.0,1.0,0.007033,galaxus,2024-04-16
+1171,Emporia,ME6 (5G) with Panic Button,128,50.0,6.58,Black,0.0,0.0,309.0,1.0,0.021294,galaxus,2024-04-16
+1172,OPPO,Reno 7 Lite,128,64.0,6.43,Rainbow,0.0,0.0,243.0,1.0,0.026461,galaxus,2024-04-16
